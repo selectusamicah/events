@@ -1,6 +1,5 @@
-name: Federal Incentives
+name: Events
 highlighter: pygments
-baseurl: "/events"
 exclude:
   - .bundle
   - .git

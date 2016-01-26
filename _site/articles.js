@@ -1,1798 +1,1151 @@
 var movies = [
   {
-    "name": "Agricultural Partners and International Trade Leads",
-    "link": "http://www.fas.usda.gov/trade-lead-system",
-    "outline": "The U.S. Department of Agriculture’s Foreign Agriculture Service offers a variety of export marketing services to assist U.S. agricultural exporters with finding customers overseas. These services include a Foreign Buyers List, Trade Association Representatives, an Export Directory of U.S. Food Distribution Companies, a U.S. Suppliers List, and Trade Leads.",
+    "name": "Clean Energy Loan Guarantee Program",
+    "link": "/investment-incentives/clean-energy-loan-guarantee-program.html",
+    "outline": "The Department of Energy’s Loan Programs—administered by LPO—enable DOE to work with private companies and lenders to mitigate the financing risks associated with clean energy projects, and thereby encourage their development on a broader and much-needed scale.The Loan Programs consist of three separate programs managed by two offices, the Loan Guarantee Program Office (LGP) and the Advanced Technology Vehicles Manufacturing Loan Program Office. LPO originates, guarantees, and monitors loans to support clean energy projects through these programs.",
     "genre": [
-      "Export Programs",
-      "Foreign Agricultural Service",
-      "Agriculture",
-      "USDA",
-      "agriculture",
-      "export",
-      "marketing"
+      "Energy",
+      "Environment",
+      "Environment and Energy",
+      "Funding",
+      "Petroleum, Minerals and Mining",
+      "Research and Development",
+      "Department of Energy"
     ],
-      "id": 1
+    "id": 1
   },
   {
-    "name":"BusinessUSA Country Trade Leads",
-    "link":"http://business.usa.gov/micro-site/country-resource",
-    "outline":"In their Trade Leads Portal, BusinessUSA provides market-specific trade leads, research, and other resources for exporting to countries around the world.",
+    "name": "Grants.gov",
+    "link": "/investment-incentives/grantsgov.html",
+    "outline": "Grants.gov is your source to find and apply for federal grants. Grants.gov is a central storehouse for information on grants from multiple federal agencies. Grants.gov lists over 1,000 grant programs and provides access to approximately $500 billion in annual awards. Government organization, educational organization, public housing organization, non-profit organizations, small businesses, other for-profit organizations, individuals are all eligible to apply for different federal governemnt grants. Visit grants.gov to search for and apply for grants from a wide variety of industries and...",
     "genre": [
-    	"Export Programs",
-    	"BusinessUSA",
-    	"Commerce",
-    	"export",
-    	"international",
-    	"marketing"
-    	],
-    	 "id": 2
+      "Aerospace",
+      "Agribusiness and Forest Products",
+      "Automotive",
+      "Chemicals and Pharmaceuticals",
+      "Construction and Real Estate",
+      "Consumer Goods",
+      "Creative and Media",
+      "Defense and Security",
+      "Education",
+      "Education and Training",
+      "Electronics and Industrial Equipment",
+      "Energy",
+      "Environment",
+      "Environment and Energy",
+      "Financial Services",
+      "Food, Beverage and Restaurant",
+      "Funding",
+      "Health",
+      "Information and Communication Technology",
+      "Life Sciences and Medical",
+      "Logistics and Transportation",
+      "Manufacturing",
+      "Petroleum, Minerals and Mining",
+      "Physical Science and Engineering",
+      "Professional Services (Legal, Accounting, etc.)",
+      "Real Estate",
+      "Research and Development",
+      "Retail Trade",
+      "Textiles",
+      "Travel, Tourism and Hospitality",
+      "U.S. Companies",
+      "Wholesale and Retail Trade",
+      "Information"
+    ],
+    "id": 2
+  },
+  {
+    "name": "Hollings Manufacturing Extension Partnership (MEP)",
+    "link": "/investment-incentives/hollings-manufacturing-extension-partnership-mep.html",
+    "outline": "Department of Commerce Incentive: The Hollings Manufacturing Extension Partnership (MEP) is a national network of 60 centers across the United States with thousands of specialists trained to serve the needs of small-and medium-sized manufacturing clients. Through a framework focused on five critical areas – technology acceleration, supplier development, sustainability, workforce, as well as continuous improvement – the MEP Program assists manufacturers in developing new customers, expand into new markets, and create new products with the end goal of increasing profitability and...",
+    "genre": [
+      "Manufacturing",
+      "Department of Commerce",
+      "Information",
+      "Technical Assistance"
+    ],
+    "id": 3
+  },
+  {
+    "name": "Advanced Technology Vehicle Manufacturing (ATVM) Loan Program",
+    "link": "/investment-incentives/advanced-technology-vehicle-manufacturing-atvm-loan-program.html",
+    "outline": "Department of Energy Incentive: The ATVM Loan Program provides loans to automobile and automobile parts manufacturers for the cost of re-equipping, expanding, or establishing manufacturing facilities in the United States to produce advanced technology vehicles or qualified components, and for associated engineering integration costs. Total funding for the program is $25 billion dollars. Previous awards have ranged from $50 million to $5.9 billion dollars. Eligibility: The project must be performed in the United States.",
+    "genre": [
+      "Environment and Energy",
+      "Funding",
+      "Manufacturing",
+      "Research and Development"
+    ],
+    "id": 4
+  },
+  {
+    "name": "ARPA-E Funding Opportunities",
+    "link": "/investment-incentives/arpa-e-funding-opportunities.html",
+    "outline": "To address the challenges imposed by the rapidly evolving global energy market, ARPA-E seeks to support transformational research in all areas of energy R&D, including resource identification, extraction, transportation and use, and energy generation, storage, transmission and use in both the transportation and stationary power sectors.  Areas of research responsive to this FOA include (but are not limited to) electricity generation by both renewable and non-renewable means, electricity transmission, storage, and distribution; energy efficiency for buildings, manufacturing and...",
+    "genre": [
+      "Energy",
+      "Environment",
+      "Environment and Energy",
+      "Funding",
+      "Logistics and Transportation",
+      "Research and Development",
+      "Department of Energy"
+    ],
+    "id": 5
+  },
+  {
+    "name": "Baldrige Performance Excellence Program",
+    "link": "/investment-incentives/baldrige-performance-excellence-program.html",
+    "outline": "Department of the Commerce The Baldrige Program is the nation's public-private partnership dedicated to performance excellence. The Baldrige Program Raises awareness about the importance of performance excellence in driving the U.S.",
+    "genre": [
+      "U.S. Companies",
+      "Department of Commerce",
+      "Information",
+      "Technical Assistance"
+    ],
+    "id": 6
+  },
+  {
+    "name": "Bilateral Investment Treaty (BIT)",
+    "link": "/investment-incentives/bilateral-investment-treaty-bit.html",
+    "outline": "The U.S. bilateral investment treaty (BIT) program helps to protect private investment, to develop market-oriented policies in partner countries, and to promote U.S. exports. The BIT program's basic aims are: to protect investment abroad in countries where investor rights are not already protected through existing agreements (such as modern treaties of friendship, commerce, and navigation, or free trade agreements); to encourage the adoption of market-oriented domestic policies that treat private investment in an open, transparent, and non-discriminatory way; and to support the development...",
+    "genre": [
+      "Aerospace",
+      "Agribusiness and Forest Products",
+      "Automotive",
+      "Chemicals and Pharmaceuticals",
+      "Construction and Real Estate",
+      "Consumer Goods",
+      "Creative and Media",
+      "Defense and Security",
+      "Electronics and Industrial Equipment",
+      "Environment and Energy",
+      "Financial Services",
+      "Food, Beverage and Restaurant",
+      "Information and Communication Technology",
+      "Life Sciences and Medical",
+      "Logistics and Transportation",
+      "Manufacturing",
+      "Petroleum, Minerals and Mining",
+      "Physical Science and Engineering",
+      "Professional Services (Legal, Accounting, etc.)",
+      "Retail Trade",
+      "Textiles",
+      "Travel, Tourism and Hospitality",
+      "Wholesale and Retail Trade",
+      "Information"
+    ],
+    "id": 7
+  },
+  {
+    "name": "Building Energy Efficiency Through Innovative Thermodevices (BEETIT)",
+    "link": "/investment-incentives/building-energy-efficiency-through-innovative-thermodevices-beetit.html",
+    "outline": "Program Description: Residential and commercial buildings currently consume 40% of the primary energy consumed in the U.S., and they produce roughly 39% of total U.S. carbon dioxide emissions. Cooling is one of the major uses of energy in buildings, yet the basic approaches used for cooling have not changed in decades.",
+    "genre": [
+      "Electronics and Industrial Equipment",
+      "Environment",
+      "Environment and Energy",
+      "Research and Development",
+      "Department of Energy"
+    ],
+    "id": 8
+  },
+  {
+    "name": "Business Energy Tax Credit",
+    "link": "/investment-incentives/business-energy-tax-credit.html",
+    "outline": "Note: The American Recovery and Reinvestment Act of 2009 allows taxpayers eligible for the federal renewable electricity production tax credit (PTC)** to take the federal business energy investment tax credit (ITC) or to receive a grant from the U.S. Treasury Department instead of taking the PTC for new installations. The new law also allows taxpayers eligible for the business ITC to receive a grant from the U.S. Treasury Department instead of taking the business ITC for new installations. The grant is only available to systems where construction begins prior to December 31, 2011.",
+    "genre": [
+      "Energy",
+      "Environment",
+      "Environment and Energy",
+      "Research and Development",
+      "Tax Incentives",
+      "Department of Energy"
+    ],
+    "id": 9
+  },
+  {
+    "name": "Catalog of Federal Domestic Assistance",
+    "link": "/investment-incentives/catalog-federal-domestic-assistance.html",
+    "outline": "Catalog of Federal Domestic Assistance (CFDA) provides a full listing of all Federal programs available to State and local governments (including the District of Columbia); federally-recognized Indian tribal governments; Territories (and possessions) of the United States; domestic public, quasi- public, and private profit and nonprofit organizations and institutions; specialized groups; and individuals. As of July 17, 2012 detailed program descriptions are listed for 2,238 Federal assistance programs. The Internet and GSA’s free CFDA website at http://www.cfda.gov will be the primary means of...",
+    "genre": [
+      "Aerospace",
+      "Agribusiness and Forest Products",
+      "Automotive",
+      "Chemicals and Pharmaceuticals",
+      "Construction and Real Estate",
+      "Consumer Goods",
+      "Creative and Media",
+      "Defense and Security",
+      "Education and Training",
+      "Electronics and Industrial Equipment",
+      "Environment and Energy",
+      "Financial Services",
+      "Food, Beverage and Restaurant",
+      "Funding",
+      "Information and Communication Technology",
+      "Life Sciences and Medical",
+      "Logistics and Transportation",
+      "Manufacturing",
+      "Petroleum, Minerals and Mining",
+      "Physical Science and Engineering",
+      "Professional Services (Legal, Accounting, etc.)",
+      "Retail Trade",
+      "Textiles",
+      "Travel, Tourism and Hospitality",
+      "Wholesale and Retail Trade",
+      "Information",
+      "Tax Incentives",
+      "Technical Assistance"
+
+    ],
+    "id": 10
+  },
+  {
+    "name": "DOE Unsolicited Funding Proposals",
+    "link": "/investment-incentives/doe-unsolicited-funding-proposals.html",
+    "outline": "Prospective individuals, businesses, or organizations are encouraged to submit unsolicited proposals for funding that are relevant to the Department of Energy's (DOE's) research and development mission. Click here for more information: http://www.netl.doe.gov/business/usp/USPGuide.pdf",
+    "genre": [
+      "Energy",
+      "Environment and Energy",
+      "Funding",
+      "Petroleum, Minerals and Mining",
+      "Research and Development",
+      "Department of Energy"
+    ],
+    "id": 11
   },
     {
-    "name":"Export Control Regulatory Compliance Assistance",
-    "link":"http://www.bis.doc.gov/index.php/compliance-a-training/export-administration-regulations-training",
-    "outline":"The Bureau of Industry and Security (BIS) provides regulatory, policy, and procedural guidance to businesses to help them understand and comply with their regulatory obligations for the export, reexport, or transfer (in-country) of items subject to the Export Administration Regulations (EAR). BIS provides educational seminars nationwide in addition to free one-on-one counseling assistance to companies via online form or by phone at (202) 482–4811 or (949) 660–0144. BIS also maintains a list of recent changes to the EAR.  To receive e-mails on regulatory updates and other BIS news, sign up here.  Information on BIS’s electronic license application system is available and exporters may check the status of a license application.  Additionally, the many BIS forms are available for download.",
+    "name": "Domestic Production Activities Deduction",
+    "link": "/investment-incentives/domestic-production-activities-deduction.html",
+    "outline": "The American Jobs Creation Act of 2004 created a new deduction for domestic production activities to be phased in over a 5-year period. For 2005 and 2006, the deduction is based on 3% of the lesser of qualified production activities income or taxable income (adjusted gross income for individual taxpayers) determined without regard to the deduction. For 2007-2009, the deduction percentage rises to 6% and then to 9% for subsequent years. In general, the amount of deduction allowable for any taxable year is limited to 50% of W-2 wages paid by the taxpayer.",
     "genre": [
-    	"Export Programs",
-    	"Bureau of Industry and Security",
-    	"Commerce",
-    	"assistance",
-    	"counseling",
-    	"export",
-    	"regulations"
-    	],
-    	 "id": 3
+      "Aerospace",
+      "Agribusiness and Forest Products",
+      "Automotive",
+      "Chemicals and Pharmaceuticals",
+      "Construction and Real Estate",
+      "Consumer Goods",
+      "Creative and Media",
+      "Defense and Security",
+      "Education and Training",
+      "Electronics and Industrial Equipment",
+      "Environment and Energy",
+      "Financial Services",
+      "Food, Beverage and Restaurant",
+      "Information and Communication Technology",
+      "Life Sciences and Medical",
+      "Logistics and Transportation",
+      "Manufacturing",
+      "Petroleum, Minerals and Mining",
+      "Physical Science and Engineering",
+      "Professional Services (Legal, Accounting, etc.)",
+      "Retail Trade",
+      "Textiles",
+      "Travel, Tourism and Hospitality",
+      "Wholesale and Retail Trade",
+      "Tax Incentives",
+      "Department of Transportation"
+    ],
+    "id": 12
+  },
+  {
+    "name": "EB-5 Visa for Immigrant Investors",
+    "link": "/investment-incentives/eb-5-visa-immigrant-investors.html",
+    "outline": "EB-5 Visa for Immigrant Investors Department of Homeland Security US Citizenship and Immigration Services Incentive: EB-5 is a visa preference category that is available to immigrants seeking to enter the United States in order to invest in a new commercial enterprise that will benefit the US economy and create at least 10 full-time jobs. There are two ways to invest which you may use within the EB-5 category and they are: creating a new commercial enterprise or investing in a troubled business. Eligibility: Applicants must invest at least $500,000 into the U.S. and create at least 10 full-...",
+    "genre": [
+      "Foreign Investors",
+      "Information",
+      "Technical Assistance",
+      "Department of Homeland Security"
+    ],
+    "id": 13
   },
     {
-    "name":"Export Control Reform (ECR) Regularly Scheduled Teleconference Calls",
-    "link":"https://www.bis.doc.gov/index.php/2012-03-30-17-54-11/2013-02-15-13-50-20",
-    "outline":"BIS conducts a weekly teleconference updating the public on the Export Control Reform (ECR) Initiative each Wednesday at 2:30 p.m. Eastern Time. Exporters can submit questions about any aspect of the Export Control Reform Initiative, including any BIS proposed rule that is open for comment or any ECR rule published in final form.  Questions must be submitted via email prior to the teleconference to ECRweekly@bis.doc.gov. Additionally, BIS has scheduled regular call-in programs to field questions from the exporting community concerning the Cuba rules published on January 16, 2015, July 22, 2015, and September 21, 2015.  The next programs will occur at 2 PM Eastern Time on February 9, March 8, April 12, May 10 and June 14 of 2016.",
+    "name": "Employment & Training Administration Grants",
+    "link": "/investment-incentives/employment-training-administration-grants.html",
+    "outline": "Department of Labor Department of Labor Employment and Training Program compiles a list of current fisical year grants for training and employment.",
     "genre": [
-    	"Export Programs",
-    	"Bureau of Industry and Security",
-    	"Commerce",
-    	"assistance",
-    	"counseling",
-    	"export",
-    	"regulations"
-    	],
-    	 "id": 4
+      "Aerospace",
+      "Agribusiness and Forest Products",
+      "Automotive",
+      "Chemicals and Pharmaceuticals",
+      "Construction and Real Estate",
+      "Consumer Goods",
+      "Creative and Media",
+      "Defense and Security",
+      "Education and Training",
+      "Electronics and Industrial Equipment",
+      "Environment and Energy",
+      "Financial Services",
+      "Food, Beverage and Restaurant",
+      "Funding",
+      "Information and Communication Technology",
+      "Life Sciences and Medical",
+      "Logistics and Transportation",
+      "Manufacturing",
+      "Petroleum, Minerals and Mining",
+      "Physical Science and Engineering",
+      "Professional Services (Legal, Accounting, etc.)",
+      "Research and Development",
+      "Retail Trade",
+      "Textiles",
+      "Travel, Tourism and Hospitality",
+      "Wholesale and Retail Trade"
+    ],
+    "id": 14
+  },
+  {
+    "name": "Energy-Efficient Appliance Manufacturing Tax Credit",
+    "link": "/investment-incentives/energy-efficient-appliance-manufacturing-tax-credit.html",
+    "outline": "Department of Treasury Tax Relief and Job Creation Act of 2010     Act §709 – Modification and Extension of Energy Efficient Appliance Credit for Appliances Produced After 2010 In General The Tax Relief and Job Creation Act of 2010 modifies and extends the energy efficient appliance credit for certain dishwashers, clothes washers, and refrigerators manufactured after December 31, 2010.",
+    "genre": [
+      "Foreign Investors",
+      "Foreign Investors",
+      "U.S. Companies",
+      "Tax Incentives",
+      "Department of the Treasury"
+    ],
+    "id": 15
+  },
+  {
+    "name": "Energy-Efficient Commercial Buildings Tax Deduction",
+    "link": "/investment-incentives/energy-efficient-commercial-buildings-tax-deduction.html",
+    "outline": "Energy-Efficient Commercial Buildings Tax Deduction Department of Energy Incentive: The Energy Policy Act of 2005 included a new tax incentive, backed and advocated by the National Electrical Manufacturers Association (NEMA) and the Natural Resources Defense Council (NRDC), to improve the energy efficiency of commercial buildings. The Commercial Building Tax Deduction establishes a tax deduction for expenses incurred for energy efficient building expenditures made by a building owner. The deduction is limited to $1.80 per square foot of the property, with allowances for partial...",
+    "genre": [
+      "Foreign Investors",
+      "U.S. Companies",
+      "Tax Incentives",
+      "Department of Energy",
+      "Department of the Treasury"
+    ],
+    "id": 16
+  },
+  {
+    "name": "Environmental Quality Incentive Program (EQIP)",
+    "link": "/investment-incentives/environmental-quality-incentive-program-eqip.html",
+    "outline": "EQIP provides a voluntary conservation program for farmers, ranchers and owners of private, non-industrial forest land that promotes agricultural production, forest management and environmental quality as compatible national goals. EQIP offers financial and technical help to assist eligible producers install or implement conservation practices on eligible agricultural land. The five EQIP national priorities are:",
+    "genre": [
+      "Foreign Investors",
+      "Department of Agriculture",
+      "Environment",
+      "Funding",
+      "Technical Assistance"
+    ],
+    "id": 17
+  },
+  {
+    "name": "EXIM Bank",
+    "link": "/investment-incentives/exim-bank.html",
+    "outline": "The Export-Import Bank of the United States (Ex-Im Bank) is the official export credit agency of the United States. Ex-Im Bank's mission is to assist in financing the export of U.S. goods and services to international markets. Ex-Im Bank enables U.S. companies — large and small — to turn export opportunities into real sales that help to maintain and create U.S. jobs and contribute to a stronger national economy. Ex-Im Bank does not compete with private sector lenders but provides export financing products that fill gaps in trade financing. We assume credit and country risks that the private...",
+    "genre": [
+      "Foreign Investors",
+      "Aerospace",
+      "Agribusiness and Forest Products",
+      "Construction and Real Estate",
+      "Electronics and Industrial Equipment",
+      "Environment and Energy",
+      "Funding",
+      "Information and Communication Technology",
+      "Logistics and Transportation",
+      "Manufacturing",
+      "Physical Science and Engineering"
+    ],
+    "id": 18
+  },
+  {
+    "name": "Export Trade Certificate of Review Program",
+    "link": "/investment-incentives/export-trade-certificate-review-program.html",
+    "outline": "Export Trade Certificate of Review Program Department of the Commerce International Trade Administration Incentive: The Export Trade Certificate of Review Program helps U.S. firms that are interested in teaming-up to reduce their export costs and enhance their competitiveness in export markets. It is intended to encourage teamwork among firms so that they can achieve economies of scale, share export costs and risks and increase export profitability. The Export Trade Certificate of Review Program encourages the formation of U.S. export joint ventures that are designed to reduce export...",
+    "genre": [
+      "U.S. Companies",
+      "Department of Commerce",
+      "Information",
+      "Technical Assistance"
+    ],
+    "id": 19
+  },
+  {
+    "name": "Farmers Market Promotion Program (FMPP)",
+    "link": "/investment-incentives/farmers-market-promotion-program-fmpp.html",
+    "outline": "Department of the Agriculture Incentive: The Farmers Market Promotion Program (FMPP) was created through an amendment of the Farmer-to-Consumer Direct Marketing Act of 1976. The grants, administered by the FMPP, are targeted to help improve and expand domestic farmers’ markets, roadside stands, community-supported agriculture programs, agri-tourism activities, and other direct producer-to-consumer market opportunities.",
+    "genre": [
+      "U.S. Companies",
+      "Agribusiness and Forest Products",
+      "Department of Agriculture",
+      "Funding"
+    ],
+    "id": 20
+  },
+  {
+    "name": "Featured U.S. Exporters (FUSE)",
+    "link": "/investment-incentives/featured-us-exporters-fuse.html",
+    "outline": "Department of the Commerce International Trade Administration Incentive: The International Trade Administration’s Featured U.S. Exporters (FUSE) is a global series of online directories featuring U.S. export products and services on U.S. Commerce Department Commercial Service Web sites around the world. A fee based service, it gives companies an opportunity to reach prospects in the local language of the target market. The main goals of the program include local language promotion and increased visibility. Export-ready companies that are seeking to export U.S. products and services are...",
+    "genre": [
+      "U.S. Companies",
+      "Department of Commerce",
+      "Information",
+      "Technical Assistance"
+    ],
+    "id": 21
   },
     {
-    "name":"Export Administration Regulations (EAR) Decision Tree Tools",
-    "link":"https://www.bis.doc.gov/index.php/2012-03-30-17-54-11/2013-02-15-13-50-21",
-    "outline":"BIS offers online tools to help exporters determine the requirements for the export, reexport or transfer of items subject to the EAR.  Exporters can use BIS tools to help determine 1) the classification of an item subject to the EAR,  2) if an item is specially designed under the EAR, 3) if an item is eligible for shipment under License Exception Strategic Trade Authorization, and finally, 4)  if a non-U.S.-made item that is located outside the United States is subject to the EAR.",
+    "name": "FedConnect",
+    "link": "/investment-incentives/fedconnect.html",
+    "outline": "FedConnect is a web portal that bridges the gap between agencies and vendors to streamline the process of doing business with the federal government. It is a one stop location where you can find opportunities for federal contracts, grants, and other types of assistance funding. Through this portal, you will be able to review opportunities and receive awards. You’ll also have an open channel of communication with the government that is both secure and auditable where you can ask questions, submit responses, acknowledge receipt of documents, and receive awards. You can even create teams...",
     "genre": [
-    	"Export Programs",
-    	"Bureau of Industry and Security",
-    	"Commerce",
-    	"assistance",
-    	"counseling",
-    	"export",
-    	"regulations"
-    	],
-    	 "id": 5
-  },
-    {
-    "name":"Bureau of Industry and Security (BIS) Data Portal",
-    "link":"http://www.bis.doc.gov/index.php/data",
-    "outline":"The BIS Data Portal is a one-stop shop for export control data and analysis. The portal features statistics and a variety of datasets.",
-    "genre": [
-    	"Export Programs",
-    	"Bureau of Industry and Security",
-    	"Commerce"
-    	],
-    	 "id": 6
-  },
-    {
-    "name":"Bureau of Industry and Security (BIS) Online Training",
-    "link":"https://www.bis.doc.gov/index.php/compliance-a-training/export-administration-regulations-training/online-training-room",
-    "outline":"BIS offers a number of on-line training tools, including free videos, training modules, and archived webinars for exporters interested in learning more about export control topics, including introductory videos, compliance tips, information on embargoes and sanctions, and other updates.  Online topics include presentations given at recent BIS Update Conferences and training videos on specialized topics.",
-    "genre": [
-    	"Export Programs",
-    	"Bureau of Industry and Security",
-    	"Commerce"
-    	],
-    	 "id": 7
-  },
-    {
-    "name":"The Consolidated Screen List (CSL)",
-    "link":"http://apps.export.gov/csl-search#/csl-search",
-    "outline":"The Consolidated Screening List identifies parties for which the United States Government maintains restrictions on certain exports, re-exports, or transfers of items.   Exporters can use the CSL search engine to help screen potential parties to regulated transactions. In the event that a company, entity or person on the list appears to match a party potentially involved in your export transaction, additional due diligence should be conducted before proceeding.",
-    "genre": [
-    	"Export Programs",
-    	"Bureau of Industry and Security",
-    	"Commerce",
-    	"assistance",
-    	"counseling",
-    	"export",
-    	"regulations"
-    	],
-    	 "id": 8
-  },
-    {
-    "name":"Export Management and Compliance Program Review",
-    "link":"http://www.bis.doc.gov/index.php/compliance-a-training/export-management-a-compliance/compliance/24-compliance-a-training/export-management-a-compliance/628-submit-your-emcp",
-    "outline":"Interested exporters can use BIS resources to develop an export management and compliance program. This includes the ability for an exporter to submit a draft compliance program to BIS for review.",
-    "genre": [
-    	"Export Programs",
-    	"Bureau of Industry and Security",
-    	"Commerce",
-    	"assistance",
-    	"counseling",
-    	"export",
-    	"regulations"
-    	],
-    	 "id": 9
+    ],
+    "id": 22
   },
   {
-    "name":"Frequently Asked Questions and Guidance",
-    "link":"http://www.bis.doc.gov/index.php/policy-guidance/faqs",
-    "outline":"BIS has a list of frequently asked questions and policy guidance for major or complex issues involving export controls. This includes selected certain advisory opinions that may be of general interest to the public. BIS will add future advisory opinions to this list as appropriate. These advisory opinions have been redacted to avoid releasing identifying information that is protected under Section 12(c) of the Export Administration Act. Finally, BIS offers an introduction to our enforcement operation and the role it plays in ensuring exporters comply with our export control regulations in “Don’t Let This Happen to You!”",
+    "name": "Fisheries Finance Program",
+    "link": "/investment-incentives/fisheries-finance-program.html",
+    "outline": "Department of the Commerce Incentive: The Fisheries Finance Program (FFP) provides direct loans to the commercial fishing and aquaculture industries. The FFP was developed to provide customers will long term fixed rate financing that is often not available or available only with restrictive terms. The FFP provides long term financing for the cost of construction or reconstruction of fishing vessels, fisheries facilities, aquaculture facilities and the purchase of individual fishing quota in the Northwest Halibut/Sablefish Fishery. The program can under some conditions finance the purchase of...",
     "genre": [
-    	"Export Programs",
-    	"Bureau of Industry and Security",
-    	"Commerce",
-    	"assistance",
-    	"counseling",
-    	"export",
-    	"regulations"
-    	],
-    	 "id": 10
-  },
-    {
-    "name":"Don't Let This Happen to You",
-    "link":"http://www.bis.doc.gov/index.php/forms-documents/doc_view/1005-don-t-let-this-happen-to-you-071814",
-    "outline":"BIS has a summary of important export enforcement actions investigated by BIS Special Agents.  The document is updated on a regular basis and will provide examples of what issues have been handled criminally versus through administrative remedies.  The document also details results of investigations led by the Office of Antiboycott Compliance which governs laws that discourage, and in some circumstances, prohibit U.S. companies from furthering or supporting the boycott of Israel sponsored by the Arab League, and certain other countries, including complying with certain requests for information designed to verify compliance with the boycott.",
-    "genre": [
-    	"Export Programs",
-    	"Bureau of Industry and Security",
-    	"Commerce",
-    	"assistance",
-    	"counseling",
-    	"export",
-    	"regulations"
-    	],
-    	 "id": 11
+      "U.S. Companies",
+      "Agribusiness and Forest Products",
+      "Environment",
+      "Environment and Energy",
+      "Funding",
+      "U.S. Companies",
+      "Department of Commerce",
+      "Technical Assistance"
+    ],
+    "id": 23
   },
   {
-    "name":"Foreign Export Control Resources",
-    "link":"http://www.bis.doc.gov/index.php/enforcement/oea/eco",
-    "outline":"In select countries, BIS staff can perform outreach and educational activities and liaise with foreign governments on export control issues.  BIS has also compiled a list of resources to assist exporters complying with foreign export control practices, confirm the business registration status of companies, and understand the local business environment.",
+    "name": "Foreign Agricultural Service",
+    "link": "/investment-incentives/foreign-agricultural-service.html",
+    "outline": "U.S. Department of Agriculture The Foreign Agricultural Service (FAS) links U.S. agriculture to the world to enhance export opportunities and global food security. In addition to its Washington, D.C. staff, FAS has a global network of 98 offices covering 162 countries. These offices are staffed by agricultural attachés and locally hired staff who are the eyes, ears, and voice for U.S. agriculture around the world. FAS staff identify problems, provide practical solutions, and work to advance opportunities for U.S. agriculture and support U.S. foreign policy around the globe.  Programs...",
     "genre": [
-    	"Export Programs",
-    	"Bureau of Industry and Security",
-    	"Commerce",
-    	"assistance",
-    	"counseling",
-    	"export",
-    	"regulations"
-    	],
-    	 "id": 12
+	  "Agribusiness and Forest Products",
+	  "Department of Agriculture",
+	  "Information",
+	  "Technical Assistance"
+    ],
+    "id": 24
   },
   {
-    "name":"Emerging Markets Program for U.S. Agricultural Exports",
-    "link":"http://www.fas.usda.gov/programs/emerging-markets-program-emp",
-    "outline":"The Emerging Markets Program (EMP) provides funding for technical assistance activities to promote exports of U.S. agricultural commodities and products to emerging markets. Through the EMP, the Foreign Agricultural Service provides cost-share funding for technical assistance activities such as feasibility studies, market research, sectorial assessments, orientation visits, specialized training and business workshops.",
+    "name": "Foreign Trade Zone Boards",
+    "link": "/investment-incentives/foriegn-trade-zone-boards.html",
+    "outline": "Reviews FTZ applications, designates site licenses, and provides information/education concerning how special customs procedures allowing domestic activity involving foreign items may be used in FTZ. FTZ can offset customs advantages available to overseas producers who compete with domestic producers. Helps facilitate and expedite international trade and exports, attract offshore activity and the retention of domestic activity, and create employment opportunities. Click here for more information: http://www.trade.gov/ftz",
     "genre": [
-    	"Export Programs",
-    	"Foreign Agricultural Service",
-    	"Agriculture",
-    	"USDA",
-    	"assistance",
-    	"emerging markets",
-    	"export",
-    	"financing",
-    	"marketing"
-    	],
-    	 "id": 13
+	  "Aerospace",
+	  "Agribusiness and Forest Products",
+	  "Alabama",
+	  "Alaska",
+	  "American Samoa",
+	  "Arizona",
+	  "Arkansas",
+	  "Automotive",
+	  "California",
+	  "Chemicals and Pharmaceuticals",
+	  "Colorado",
+	  "Connecticut",
+	  "Consumer Goods",
+	  "Creative and Media",
+	  "Defense and Security",
+	  "Delaware",
+	  "District of Columbia",
+	  "Education",
+	  "Electronics and Industrial Equipment",
+	  "Energy",
+	  "Environment Environment and Energy",
+	  "Federated States of Micronesia",
+	  "Financial Services",
+	  "Florida",
+	  "Food, Beverage and Restaurant",
+	  "Foreign Investors",
+	  "Funding",
+	  "Georgia",
+	  "Guam",
+	  "Hawaii",
+	  "Health Idaho",
+	  "Illinois",
+	  "Indiana",
+	  "Information and Communication Technology",
+	  "Iowa",
+	  "Kansas",
+	  "Kentucky",
+	  "Logistics and Transportation",
+	  "Louisiana",
+	  "Maine",
+	  "Manufacturing",
+	  "Maryland",
+	  "Massachusetts",
+	  "Michigan",
+	  "Midway Islands",
+	  "Minnesota",
+	  "Mississippi",
+	  "Missouri",
+	  "Montana",
+	  "Nebraska",
+	  "Nevada",
+	  "New Hampshire",
+	  "New Jersey",
+	  "New Mexico",
+	  "New York",
+	  "North Carolina",
+	  "North Dakota",
+	  "Ohio",
+	  "Oklahoma",
+	  "Oregon",
+	  "Pennsylvania",
+	  "Petroleum, Minerals and Mining",
+	  "Professional Services (Legal, Accounting, etc.)",
+	  "Puerto Rico",
+	  "Real Estate",
+	  "Research and Development",
+	  "Retail Trade",
+	  "Rhode Island",
+	  "South Carolina",
+	  "South Dakota",
+	  "Tennessee",
+	  "Texas",
+	  "Textiles",
+	  "Travel, Tourism and Hospitality",
+	  "U.S. Companies",
+	  "US Virgin Islands",
+	  "Utah",
+	  "Vermont",
+	  "Virginia",
+	  "Washington",
+	  "West Virginia",
+	  "Wisconsin",
+	  "Wyoming",
+	  "Department of Commerce",
+	  "Tax Incentives"
+    ],
+    "id": 25
   },
   {
-    "name":"Environmental Exports Program",
-    "link":"http://www.exim.gov/about/special-initiatives/environment",
-    "outline":"The Export-Import Bank provides financing to help mitigate risk for U.S.-based environmental companies, and offers competitive financing terms to international buyers for the purchase of U.S.-made environmental goods and services.",
+    "name": "Foreign Trade Zone Boards",
+    "link": "/investment-incentives/foriegn-trade-zone-boards.html",
+    "outline": "Foreign Trade Zone Boards Department of Commerce Import Administration Incentive: A foreign-trade zone is a designated location in the United States where companies can use special procedures that help encourage U.S. activity and value added – in competition with foreign alternatives – by allowing delayed or reduced duty payments on foreign merchandise, as well as other savings.",
     "genre": [
-    	"Export Programs",
-    	"Environmental Technology",
-    	"Export-Import Bank",
-    	"environment",
-    	"export",
-    	"financing"
-    	],
-    	 "id": 14
-  },  {
-    "name":"Small Business Export Credit Insurance",
-    "link":"http://www.exim.gov/what-we-do/export-credit-insurance",
-    "outline":"This policy is designed to protect an exporter’s accounts receivable. This program provides important benefits including risk reduction – safeguarding against catastrophic losses from buyer nonpayment, and improved liquidity – accelerating cash flow by borrowing against foreign receivables. With this security in hand, companies can increase their global competitiveness by offering credit terms needed to win sales.",
-    "genre": [
-    	"Export Programs",
-    	"Export-Import Bank",
-    	"credit",
-    	"export",
-    	"financing",
-    	"insurance"
-    	],
-    	 "id": 15
+	  "Foreign Investors",
+	  "U.S. Companies",
+	  "Department of Commerce",
+	  "Information",
+	  "Tax Incentives",
+	  "Technical Assistance"
+    ],
+    "id": 26
   },
   {
-    "name":"Medium and Long-Term Loan Guarantee Program",
-    "link":"http://www.exim.gov/what-we-do/loan-guarantee/",
-    "outline":"This program is designed to help U.S.-based exporters secure competitive financing for their international buyers. EXIM guarantees term financing, generally up to 10 years, to creditworthy international buyers in both the private and public sector, and finances local costs up to 30%.",
+    "name": "Free Trade Agreement",
+    "link": "/investment-incentives/free-trade-agreement.html",
+    "outline": "Includes an investment chapter similar to BITs to protect direct and portfolio investment by providing and open, predictable legal framework. Click here for more information: http://www.ustr.gov/trade-agreements",
     "genre": [
-    	"Export Programs",
-    	"Export-Import Bank",
-    	"credit",
-    	"export",
-    	"financing",
-    	"guarantee",
-    	"insurance",
-    	"medium",
-    	"long-term"
-    	],
-    	 "id": 16
+	  "Aerospace",
+	  "Agribusiness and Forest Products",
+	  "Automotive",
+	  "Chemicals and Pharmaceuticals",
+	  "Consumer Goods",
+	  "Creative and Media",
+	  "Defense and Security",
+	  "Electronics and Industrial Equipment",
+	  "Environment and Energy",
+	  "Financial Services",
+	  "Food, Beverage and Restaurant",
+	  "Information and Communication Technology",
+	  "Logistics and Transportation",
+	  "Manufacturing Petroleum, Minerals and Mining",
+	  "Professional Services (Legal, Accounting, etc.)",
+	  "Retail Trade",
+	  "Textiles",
+	  "Travel, Tourism and Hospitality",
+	  "Information"
+    ],
+    "id": 27
   },
   {
-    "name":"Working Capital Guarantee Program",
-    "link":"http://www.exim.gov/what-we-do/working-capital/",
-    "outline":"The Export-Import Bank’s Working Capital Loan Guarantee program does not replace an exporter’s regular bank; rather, it works with lenders to provide a loan guarantee that backs the borrower’s debt in the event something goes awry. EXIM provides a 90% loan-backing guarantee, decreasing repayment risk and increasing the lender’s willingness to extend a loan. With EXIM support, exporters can borrow more with the same collateral, secure performance and bid bonds necessary to win projects, and increase their global competitiveness.",
+    "name": "Funding Solicitations for Business, Industry, and Universities",
+    "link": "/investment-incentives/funding-solicitations-business-industry-and-universities.html",
+    "outline": "Find and apply for funding solicitations for renewable energy generation projects and energy efficiency R&D. Funding and loan guarantees offered by the Office of Energy Efficiency and Renewable Energy (EERE) within the Deparment of Energy. Click here for more information: http://www1.eere.energy.gov/financing/business.html",
     "genre": [
-    	"Export Programs",
-    	"Export-Import Bank",
-    	"capital",
-    	"credit",
-    	"export",
-    	"financing",
-    	"guarantee",
-    	"insurance",
-    	"medium",
-    	"long-term"
-    	],
-    	 "id": 17
+	  "Aerospace",
+	  "Energy",
+	  "Environment",
+	  "Environment and Energy",
+	  "Funding",
+	  "Research and Development",
+	  "Department of Energy"
+    ],
+    "id": 28
   },
   {
-    "name":"Export Trade Certificate of Review Program",
-    "link":"http://www.trade.gov/mas/ian/etca/index.asp",
-    "outline":"This program helps U.S.-based businesses reduce their export costs and enhance their competitiveness in export markets. It enables the formation of U.S. export joint ventures that help firms achieve economies of scale, boost their negotiating power, fill large export orders, and reduce shipping costs, while also enjoying substantive federal antitrust protection.",
+    "name": "Industry/University Cooperative Research Centers Program (I/UCRC)",
+    "link": "/investment-incentives/industryuniversity-cooperative-research-centers-program-iucrc-0.html",
+    "outline": "National Science Foundation Directorate for Engineering Incentive: The Industry/University Cooperative Research Centers (I/UCRC) program develops long-term partnerships among industry, academe, and government. The centers are catalyzed by a small investment from the National Science Foundation (NSF) and are primarily supported by industry center members, with NSF taking a supporting role in the development and evolution of the center. Each center is established to conduct research that is of interest to both the industry members and the center faculty. Award: Total funding for this program...",
     "genre": [
-    	"Export Programs",
-    	"International Trade Administration",
-    	"Commerce",
-    	"counseling",
-    	"cost reduction",
-    	"export",
-    	"regulations"
-    	],
-    	 "id": 18
-  },  {
-    "name":"Facility Guarantee Program",
-    "link":"http://apps.fas.usda.gov/excredits/facility-new.asp",
-    "outline":"This program is designed to enhance sales of U.S. agricultural commodities and products to emerging markets where demand may be constricted due to inadequate storage, processing, or handling capabilities for such products. The Commodity Credit Corporation provides payment guarantees to facilitate the financing of manufactured goods and services exported from the United States to improve or establish agricultural-related facilities in emerging markets.",
-    "genre": [
-    	"Export Programs",
-    	"Foreign Agricultural Service",
-    	"Agriculture",
-    	"agriculture",
-    	"export",
-    	"financing",
-    	"guarantee"
-    	],
-    	 "id": 19
+	  "Funding",
+	  "U.S. Companies"
+    ],
+    "id": 29
   },
   {
-    "name":"Foreign Market Development Program",
-    "link":"http://www.fas.usda.gov/programs/foreign-market-development-program-fmd/",
-    "outline":"The Foreign Market Development (FMD) Program, also known as the Cooperator Program, helps create, expand and maintain long-term export markets for U.S. agricultural products. Under the program,  FAS partners with U.S. agricultural producers and processors, who are represented by non-profit commodity or trade associations called “cooperators,” to promote U.S. commodities overseas. Each year, FAS announces the FMD application period and criteria in the Federal Register. Organizations apply for the FMD program through the Unified Export Strategy (UES) process, which allows applicants to request funding from multiple USDA market development programs through a single, strategically coordinated proposal.",
+    "name": "International Buyer Program (IBP)",
+    "link": "/investment-incentives/international-buyer-program-ibp.html",
+    "outline": "International Buyer Program (IBP) Department of the Commerce International Trade Administration Incentive: The International Buyer Program (IBP) is a joint government-industry effort that increases U.S. export sales by promoting international attendance at major U.S. industry exhibitions. If you are a U.S. business exhibiting at an IBP trade show, benefits include: Access to hundreds of current international trade leads in your industry; Hands-on export counseling, marketing analysis, and matchmaking services by country and industry experts from the U.S.",
     "genre": [
-    	"Export Programs",
-    	"Foreign Agricultural Service",
-    	"Agriculture",
-    	"USDA",
-    	"agriculture",
-    	"export",
-    	"promotion"
-    	],
-    	 "id": 20
-  },
-    {
-    "name":"Hollings Manufacturing Extension Partnership (MEP)",
-    "link":"http://www.nist.gov/mep/",
-    "outline":"The Hollings Manufacturing Extension Partnership (MEP) is a nationwide network of centers providing services from innovation strategies to process improvements to workforce development, with a focus on helping small manufacturers develop new customers, expand into new markets, and create new products.",
-    "genre": [
-    	"Export Programs",
-    	"National Institute of Standards and Technology",
-    	"Commerce",
-    	"manufacturing",
-    	"counseling",
-    	"information",
-    	"business development",
-    	"business operations",
-    	"export",
-    	"marketing"
-    	],
-    	 "id": 21
-  },
-    {
-    "name":"International Business Partnership Program",
-    "link":"http://www.ustda.gov/program/",
-    "outline":"The U.S. Trade and Development Agency (USTDA) organizes worldwide conferences and workshops to connect U.S.-based firms with foreign project sponsors. These sector- or region-specific events are designed to showcase Made in America goods, services, and technology to foreign buyers.",
-    "genre": [
-    	"Export Programs",
-    	"USTDA",
-    	"counseling",
-    	"information",
-    	"trade",
-    	"international"
-    	],
-    	 "id": 22
-  },
-    {
-    "name":"International Buyer Program (IBP)",
-    "link":"http://www.export.gov/IBP/",
-    "outline":"The International Buyer Program (IBP) promotes international attendance at major U.S. industry exhibitions, helping U.S. exhibitors interested in exporting to meet with qualified prospective overseas trade partners. The IBP also supports U.S.-based companies at these exhibitions with a variety of services, including export counseling, marketing analysis, and matchmaking services.",
-    "genre": [
-    	"Export Programs",
-    	"International Trade Administration",
-    	"Commerce",
-    	"export",
-    	"international",
-    	"marketing",
-    	"promotion",
-    	"trade show"
-    	],
-    	 "id": 23
-  },
-    {
-    "name":"Office of Textiles and Apparel (OTEXA) Export Promotion Program",
-    "link":"http://otexa.trade.gov/",
-    "outline":"The Textiles and Apparel Export Promotion Program provides specialized assistance to businesses interested in exporting in the textiles industry through export counseling, seminars, business matchmaking, sponsorship of trade missions, USA pavilions in major international trade events, and research identifying key export opportunities in selected markets.",
-    "genre": [
-    	"Export Programs",
-    	"International Trade Administration",
-    	"Textiles",
-    	"Commerce",
-    	"export",
-    	"promotion",
-    	"manufacturing",
-    	"textiles",
-    	"marketing",
-    	"advocacy",
-    	"counseling"
-    	],
-    	 "id": 24
-  },
-    {
-    "name":"Overseas Private Investment Corporation (OPIC) Financial Products",
-    "link":"https://www.opic.gov/what-we-offer/financial-products",
-    "outline":"The Overseas Private Investment Corporation (OPIC) is the U.S. government’s development finance institution, and offers a wide array of services to help solve critical development challenges around the world. OPIC’s financial products provide medium- to long-term funding through direct loans and loan guaranties to eligible investment projects in developing countries and emerging markets.",
-    "genre": [
-    	"Financing and Loans",
-    	"OPIC",
-    	"financing",
-    	"guarantee",
-    	"loans",
-    	"funding",
-    	"international",
-    	"investment"
-    	],
-    	 "id": 25
-  },
-    {
-    "name":"Quality Samples Program (QSP)",
-    "link":"http://www.fas.usda.gov/programs/quality-samples-program-qsp/",
-    "outline":"The QSP enables potential customers around the world to discover the quality and benefits of U.S. agricultural products. The program focuses on processors and manufacturers rather than consumers, and QSP projects should benefit an entire industry or commodity rather than a specific company or product. Projects should focus on developing a new market or promoting a new use for the U.S. product. QSP participants obtain commodity samples, export them and provide the recipient with guidance on how to use the samples. When a project is finished, USDA reimburses the participant for the costs of procuring and transporting the sample. Although all program participants are required to provide technical assistance to the recipients of their commodity samples, the costs for this assistance are not reimbursable. Any U.S.-based private entity with an interest in exporting U.S. agricultural products may apply to the program.",
-    "genre": [
-    	"Export Programs",
-    	"Agriculture",
-    	"USDA",
-    	"Foreign Agricultural Service",
-    	"agriculture",
-    	"export",
-    	"promotion",
-    	"trade",
-    	"international"
-    	],
-    	 "id": 26
-  },
-    {
-    "name":"The Advocacy Center",
-    "link":"http://www.export.gov/advocacy/",
-    "outline":"The Advocacy Center coordinates U.S. government interagency advocacy efforts on behalf of U.S.-based exporters bidding on public-sector contracts with overseas governments and government agencies. The Advocacy Center helps to ensure that sales of Made in America products and services have the best possible chance competing abroad. Advocacy assistance is wide and varied but often involves companies that want the U.S. government to communicate a message to foreign governments or government-owned corporations on behalf of their commercial interest, typically in a competitive bid contest.",
-    "genre": [
-    	"Export Programs",
-    	"Commerce",
-    	"International Trade Administration",
-    	"advocacy",
-    	"counseling",
-    	"information",
-    	"export",
-    	"trade"
-    	],
-    	 "id": 27
+	  "Department of Commerce"
+    ],
+    "id": 30
   },
   {
-    "name":"Trade Adjustment Assistance for Firms (TAAF)",
-    "link":"http://www.eda.gov/pdf/about/TAAF-Program-1-Pager.pdf",
-    "outline":"The TAAF program helps U.S.-based businesses develop and implement business recovery strategies by providing financial assistance to manufacturers affected by import competition. Sponsored by the U.S. Department of Commerce, this cost-sharing federal assistance program pays for half the cost of consultants or industry-specific experts for projects that improve a manufacturer’s competitiveness.",
+    "name": "International Science and Education Competitive Grants Program (ISE)",
+    "link": "/investment-incentives/international-science-and-education-competitive-grants-program-ise.html",
+    "outline": "The ISE program provides grants supporting research, extension, and teaching activities that will enhance the capabilities of American colleges and universities to conduct international collaborative research, extension and teaching. ISE projects are expected to:",
     "genre": [
-    	"Financing and Loans",
-    	"Commerce",
-    	"Economic Development Administration",
-    	"assistance",
-    	"compliance",
-    	"regulations",
-    	"advocacy",
-    	"counseling",
-    	"export",
-    	"trade",
-    	"international"
-    	],
-    	 "id": 28
-  },
-    {
-    "name":"Trade Compliance Center",
-    "link":"http://tcc.export.gov/",
-    "outline":"The Trade Agreements Compliance (TAC) program is an international trade complaint center that helps U.S.-based businesses reduce barriers to international trade. Once a trade barrier is identified, TAC develops a strategy to address the problem by working directly with affected companies or industries, ensuring that U.S. trade agreement rights are safeguarded and the full benefits of our trade agreements are realized by U.S. businesses.",
-    "genre": [
-    	"Export Programs",
-    	"Commerce",
-    	"International Trade Administration",
-    	"compliance",
-    	"advocacy",
-    	"counseling",
-    	"information",
-    	"trade",
-    	"regulations"
-    	],
-    	 "id": 29
+	  "Agribusiness and Forest Products",
+	  "Department of Agriculture",
+	  "Education",
+	  "Funding",
+	  "Research and Development",
+	  "Department of Energy"
+    ],
+    "id": 31
   },
   {
-    "name":"Trade Missions Program",
-    "link":"http://www.export.gov/trademissions/",
-    "outline":"The U.S. Department of Commerce organizes regular overseas trade missions for U.S.-based firms to explore export opportunities by meeting directly with potential buyers in their markets. Through its overseas Foreign Commercial Service offices, the Department of Commerce also supports certified trade missions organized by state and private sector organizations.",
+    "name": "Market Development Cooperator Program",
+    "link": "/investment-incentives/market-development-cooperator-program.html",
+    "outline": "Department of the Commerce International Trading Administration Incentive: Market Development Cooperator Program (MDCP) awards include financial and technical assistance from the International Trade Administration (ITA) to support projects that enhance the global competitiveness of U.S. industries. An MDCP award establishes a partnership between ITA and non-profit industry groups such as trade associations and chambers of commerce. Such groups are particularly effective in reaching small- and medium-size enterprises. The non-profit groups compete for a limited number of MDCP awards by...",
     "genre": [
-    	"Export Programs",
-    	"Commerce",
-    	"International Trade Administration",
-    	"trade",
-    	"promotion",
-    	"international",
-    	"marketing"
-    	],
-    	 "id": 30
+	  "Funding",
+	  "U.S. Companies",
+	  "Department of Commerce"
+    ],
+    "id": 32
   },
   {
-    "name":"U.S. Export Assistance Centers (USEACs)",
-    "link":"http://export.gov/eac/index.asp",
-    "outline":"U.S. Export Assistance Centers (USEACs) provide front-line outreach and service operations for U.S.-based exporters through the assistance of International Trade Specialists, based in more than 100 locations throughout the 50 U.S. states and Puerto Rico.",
-    "genre": [
-    	"Export Programs",
-    	"Commerce",
-    	"International Trade Administration",
-    	"assistance",
-    	"export",
-    	"international",
-    	"counseling",
-    	"information",
-    	"advocacy"
-    	],
-    	 "id": 31
+    "name": "Minority Business Enterprise Center (MBEC) Program",
+    "link": "/investment-incentives/minority-business-enterprise-center-mbec-program.html",
+    "outline": "Minority Business Enterprise Center (MBEC) Program Department of the Commerce Incentive: The Minority Business Enterprise Center (MBEC) Program is a fee-for-service initiative, providing a wide-range of direct business assistance services to eligible minority business enterprises (MBEs). The MBEC provides standardized business assistance services to minority firms. Eligibility: Target clients are MBEs with $500,000 or more in annual revenues and/or “rapid-growth potential” firms. Start-up and/or micro minority firms are served via referrals, strategic partnerships or electronic delivery...",
+    "genre": ["Department of Commerce", "Information", "Technical Assistance"],
   },
   {
-    "name":"U.S. Foreign-Trade Zones (FTZ) Program",
-    "link":"http://www.trade.gov/enforcement/ftz/",
-    "outline":"Foreign Trade Zones (FTZs) are designated locations in the United States where businesses can enjoy reduced duty and customs-related costs by allowing delayed or reduced duty payments on foreign merchandise, as well as other cost savings.",
+    "name": "Modified Accelerated Cost-Recovery System (MACRS)",
+    "link": "/investment-incentives/modified-accelerated-cost-recovery-system-macrs.html",
+    "outline": "Department of Treasury Incentive: Under the federal Modified Accelerated Cost-Recovery System (MACRS), businesses may recover investments in certain property through depreciation deductions. The MACRS establishes a set of class lives for various types of property, ranging from three to 50 years, over which the property may be depreciated. Information:   http://www.irs.gov/publications/p946/ch04.html",
     "genre": [
-    	"Export Programs",
-    	"Commerce",
-    	"International Trade Administration",
-    	"trade",
-    	"international",
-    	"tax incentive"
-    	],
-    	 "id": 32
-  },  {
-    "name":"USDA Export Credit Guarantee Program",
-    "link":"http://apps.fas.usda.gov/excredits/ecgp.asp",
-    "outline":"The U.S. Department of Agriculture (USDA) administers export credit guarantee programs for commercial financing of U.S. agricultural exports. These USDA Commodity Credit Corporation programs facilitate exports to countries where buyers find credit is difficult to obtain. The guarantees provide protection for the U.S. exporters and U.S. banks from default by the foreign banks.",
-    "genre": [
-    	"Agriculture",
-    	"Export Programs",
-    	"USDA",
-    	"Foreign Agricultural Service",
-    	"agriculture",
-    	"export",
-    	"guarantee",
-    	"financing"
-    	],
-    	 "id": 33
+	  "Department of Commerce",
+	  "Foreign Investors",
+	  "U.S. Companies",
+	  "Tax Incentives",
+	  "Department of Energy",
+	  "Department of the Treasury"
+    ],
+    "id": 34
   },
   {
-    "name":"Advanced Technology Vehicle Manufacturing Loan Program",
-    "link":"http://energy.gov/lpo/services/atvm-loan-program/",
-    "outline":"Advanced Technology Vehicles Manufacturing (ATVM) loans support the development of advanced technology vehicles (ATV) and associated components in the United States. The ATVM Loan Program is currently accepting applications.",
+    "name": "Multifamiliy Real Estate for Sale",
+    "link": "/investment-incentives/multifamiliy-real-estate-sale.html",
+    "outline": "Sends a weekly electronic Invitation to Bid on each multifamily property advertised for sale, as well as immediate notification of any sale change or cancellation. Click here for more information: http://www.hud.gov/offices/hsg/mfh/pd/mfplist.cfm",
     "genre": [
-    	"Automotive",
-    	"Financing and Loans",
-    	"Energy",
-    	"Loan Programs Office",
-    	"research and development",
-    	"funding",
-    	"loans",
-    	"environment",
-    	"energy"
-    	],
-    	 "id": 34
+	  "Real Estate",
+	  "Information",
+	  "Department of Housing and Urban Development"
+    ],
+    "id": 35
   },
   {
-    "name":"Catalog of Federal Domestic Assistance",
-    "link":"http://www.cfda.gov/",
-    "outline":"The Catalog of Federal Domestic Assistance (CFDA) is a compendium of federal assistance programs administered by various departments and establishments of the U.S. federal government. This directory contains a wide range of programs, projects, services, and activities offering financial and nonfinancial assistance.",
+    "name": "National Energy Technology Laboratory Funding Opportunities",
+    "link": "/investment-incentives/national-energy-technology-laboratory-funding-opportunities.html",
+    "outline": "Department of Energy National Energy Technology Laboratory (NETL) Incentive: NETL’s project portfolio includes R&D conducted through partnerships, cooperative research and development agreements, financial assistance, and contractual arrangements with universities and the private sector. Together, these efforts focus a wealth of scientific and engineering talent on creating commercially viable solutions to national energy and environmental problems. Award: Individual project funding ranges up to $120 million dollars. Individual awards vary by solicitation. Eligibility: For eligibility,...",
     "genre": [
-    	"Financing and Loans",
-    	"CFDA",
-    	"assistance",
-    	"financing",
-    	"funding",
-    	"guarantee",
-    	"loans"
-    	],
-    	 "id": 35
+	  "Real Estate",
+	  "Education",
+	  "Energy",
+	  "Environment",
+	  "Foreign Investors",
+	  "Funding",
+	  "Research and Development",
+	  "U.S. Companies",
+	  "Technical Assistance",
+	  "Department of Energy"
+    ],
+    "id": 36
   },
   {
-    "name":"Clean Energy Loan Guarantee Program (Title XVII)",
-    "link":"http://energy.gov/lpo/title-xvii/",
-    "outline":"The Title XVII Innovative Clean Energy Projects Loan Program provides loan guarantees to accelerate the deployment of innovative clean energy technology. This covers a wide range of energy technologies, including advanced fossil energy, nuclear energy, renewable energy, and energy efficiency. Loan guarantees are made to qualified projects and applicants who apply for funding in response to open technology-specific solicitations. Eligible projects must utilize a new or significantly improved technology, avoid, reduce or sequester greenhouse gases, be located in the United States, and have reasonable prospect of repayment.",
+    "name": "National Institute of Food and Agriculture Funding Programs",
+    "link": "/investment-incentives/national-institute-food-and-agriculture-funding-programs.html",
+    "outline": "U.S. Department of Agriculture USDA National Institute of Food and Agriculture compiles a database of anticipated competitive grants or cooperative agreements in the areas of: Agricultural systemsAnimalsBiotechnology and GenomicsEconomic and Community DevelopmentEducationEnvironment and Natural ResourcesFamily, Youth and CommunitiesFood, Nutrition and HealthInternationalPest ManagementPlantsTechnology and Engineering For access to the database please visit: http://www.nifa.usda.gov/fo/funding.cfm",
     "genre": [
-    	"Energy",
-    	"Financing and Loans",
-    	"Energy",
-    	"Loan Programs Office",
-    	"energy",
-    	"financing",
-    	"guarantee",
-    	"renewable energy"
-    	],
-    	 "id": 36
-  },  {
-    "name":"EB-5 Immigrant Investor Visa Program",
-    "link":"http://www.uscis.gov/eb-5",
-    "outline":"USCIS administers the EB-5 Program. Under this program, entrepreneurs (and their spouses and unmarried children under 21) are eligible to apply for a green card (permanent residence) if they: Make the necessary investment in a commercial enterprise in the United States; and Plan to create or preserve 10 permanent full-time jobs for qualified U.S. workers.",
-    "genre": [
-    	"Financing and Loans",
-    	"DHS",
-    	"USCIS",
-    	"financing",
-    	"immigration"
-    	],
-    	 "id": 37
+	  "Real Estate",
+	  "Agribusiness and Forest Products",
+	  "Chemicals and Pharmaceuticals",
+	  "Consumer Goods",
+	  "Department of Agriculture",
+	  "Education",
+	  "Education and Training",
+	  "Environment",
+	  "Environment and Energy",
+	  "Food, Beverage and Restaurant",
+	  "Funding",
+	  "Health",
+	  "Information and Communication Technology",
+	  "Life Sciences and Medical",
+	  "Physical Science and Engineering",
+	  "Research and Development",
+	  "Wholesale and Retail Trade"
+    ],
+    "id": 37
   },
   {
-    "name":"Economic Injury Disaster Loan (EIDL)",
-    "link":"https://www.sba.gov/disaster/",
-    "outline":"Economic Injury Disaster Loans (EIDLs) are working capital loans available to qualified small businesses, private nonprofit organizations of all sizes, and small agricultural cooperatives that suffered financial losses because of a natural disaster, regardless of physical damage. This assistance is administered by the Small Business Administration.",
+    "name": "National Institute of Standards and Technology Measurement Services",
+    "link": "/investment-incentives/national-institute-standards-and-technology-measurement-services.html",
+    "outline": "Department of the Commerce National Institute of Standards and Technology   Incentive: The National Institute of Standards and Technology (NIST)’s Measurement Services Division provides technical assistance and scientific data to scientists and engineers for use in technical problem-solving, research, and development. Products include Standard Reference Data (SRD), calibration services and Standard Reference Materials (SRMs). Scientific data with NIST-recommended values have been extracted from world literature, assessed for reliability and then evaluated to select preferred values.",
     "genre": [
-    	"Financing and Loans",
-    	"SBA",
-    	"financing",
-    	"small and medium businesses",
-    	"SME"
-    	],
-    	 "id": 38
-  },
-    {
-    "name":"Environmental Quality Incentive Program (EQIP)",
-    "link":"http://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/financial/eqip/",
-    "outline":"The Environmental Quality Incentives Program (EQIP) is a voluntary program that provides financial and technical assistance to agricultural producers through contracts up to a maximum term of ten years in length. These contracts provide financial assistance to help plan and implement conservation practices that address natural resource concerns and for opportunities to improve soil, water, plant, animal, air and related resources on agricultural land and non-industrial private forestland. In addition, a purpose of EQIP is to help producers meet Federal, State, Tribal and local environmental regulations. Owners of land in agricultural or forest production or persons who are engaged in livestock, agricultural or forest production on eligible land and that have a natural resource concern on the land may participate in EQIP.",
-    "genre": [
-    	"Agriculture",
-    	"Financing and Loans",
-    	"USDA",
-    	"Natural Resources Conservation Service",
-    	"financing",
-    	"loans",
-    	"agriculture",
-    	"environment"
-    	],
-    	 "id": 39
-  },
-    {
-    "name":"Farm Storage Facility Loan Program",
-    "link":"http://www.apfo.usda.gov/FSA/webapp?area=home&subject=prsu&topic=flp",
-    "outline":"Administered by the U.S. Department of Agriculture, the Farm Storage Facility Loan Program provides low-interest financing for producers to build or upgrade permanent facilities to store commodities. Eligible commodities include grains, oilseeds, peanuts, pulse crops, hay, honey, renewable biomass commodities, fruits, and vegetables.",
-    "genre": [
-    	"Agriculture",
-    	"Financing and Loans",
-    	"USDA",
-    	"Farm Service Agency",
-    	"agriculture",
-    	"export",
-    	"financing"
-    	],
-    	 "id": 40
-  },
-    {
-    "name":"Fisheries Finance Program",
-    "link":"http://www.nmfs.noaa.gov/mb/financial_services/ffp.htm",
-    "outline":"The Fisheries Finance Program is designed to provide long term financing for the cost of construction or reconstruction of fishing vessels, fisheries facilities, aquacultural facilities, and individual fishing quota in the Northwest Halibut/Sablefish and Alaskan Crab Fisheries, as well as the Western Alaska Community Development Quota Share program.",
-    "genre": [
-    	"Agriculture",
-    	"Financing and Loans",
-    	"Commerce",
-    	"National Oceanic and Atmospheric Administration",
-    	"agriculture",
-    	"financing"
-    	],
-    	 "id": 41
-  },
-    {
-    "name":"Minority Business Development Agency Business  Center Program",
-    "link":"http://www.mbda.gov/businesscenters/",
-    "outline":"The Minority Business Development Agency operates a national network of more than 40 MBDA Business Centers designed to help clients develop cross-border relationships to sell their goods and services worldwide. MBDA is a resource for firms looking to partner with minority-owned firms, who have a competitive advantage in global trade based on their cultural ties, language skills and nimbleness. MBDA promotes the interest of minority-owned firms with governments around the work and alerts clients to emerging opportunities. Eligibility: Target clients are MBEs with $500,000 or more in annual revenues and/or “rapid-growth potential” firms. Start-up and/or micro minority firms are served via referrals, strategic partnerships or electronic delivery methods. U.S. businesses that are owned or controlled by the following persons or groups of persons are eligible to receive business assistance services under the MBEC program: African Americans, Hispanic Americans, Asian and Pacific Islander Americans, Native Americans (including Alaska Natives, Alaska Native Corporations and tribal entities), Asian Indian Americans and Hasidic Jewish Americans.",
-    "genre": [
-    	"Financing and Loans",
-    	"Commerce",
-    	"Minority Business Development Agency",
-    	"minority",
-    	"advocacy",
-    	"counseling",
-    	"financing",
-    	"business partnership",
-    	"promotion"
-    	],
-    	 "id": 42
-  },
-    {
-    "name":"Physical Disaster Loan",
-    "link":"http://www.sba.gov/disaster/",
-    "outline":"Following a natural disaster, Physical Disaster Loans of up to $2 million are available to qualified businesses or private, nonprofit organizations of any size to help restore or replace damaged real estate, inventory, machinery, equipment, and other business assets to their pre-disaster condition.",
-    "genre": [
-    	"Financing and Loans",
-    	"SBA",
-    	"loan",
-    	"financing",
-    	"small business",
-    	"SME",
-    	"disaster"
-    	],
-    	 "id": 43
-  },
-    {
-    "name":"Build America Transportation Investment Center (BATIC)",
-    "link":"www.transportation.gov/buildamerica",
-    "outline":"The BATIC serves as the single point of contact and coordination for states, municipalities and project sponsors looking to utilize federal transportation expertise, apply for federal credit programs and explore ways to access private capital in public private partnerships.  Federal credit programs include Transportation Innovation and Finance Act (TIFIA), Railroad Innovation and Improvement Financing (RRIF) and Private Activity Bonds (PAB).  Additionally, the BATIC Institute: An AASHTO Center for Excellence, promotes public sector capacity building in the analysis, understanding, and use of project finance techniques through training, sharing of best practices, and technical assistance to all State Departments of Transportation and their local partner agencies.",
-    "genre": [
-    	"Logistics and Transportation",
-    	"Financing and Loans",
-    	"Transportation",
-    	"Build America Transportation Investment Center (BATIC)",
-    	"financing",
-    	"infrastructure",
-    	"business operations",
-    	"loans",
-    	"federal transportation credit "
-    	],
-    	 "id": 44
-  },
-    {
-    "name":"Rural Development Energy Program",
-    "link":"http://www.rd.usda.gov/programs-services/biorefinery-renewable-chemical-and-biobased-product-manufacturing-assistance",
-    "outline":"USDA Rural Development Energy Program offer funds to complete energy audits and renewable energy development assistance make efficiency improvements, purchase and install renewable energy systems. Programs that help convert older heating sources to cleaner technologies, produce advanced biofuels, install solar panels, build biorefineries, and much more. USDA Rural Development is at the forefront of renewable energy financing, with options including grants, guaranteed loans and payments. Authorized through the Food, Conservation, and Energy Act of 2008, and reauthorized in the 2014 Farm Bill, programs fall into four categories: The 9003 Biorefinery, Renewable Chemical, and Biobased Product Manufacturing Assistance Program assists in the development, construction, and retrofitting of new and emerging technologies for the development of Advanced Biofuels, Renewable Chemicals, and Biobased Product Manufacturing by providing loan guarantees for up to $250 million. For more information, please visit: www.rd.usda.gov/programs-services/biorefinery-renewable-chemical-and-biobased-product-manufacturing-assistance The Advanced Biofuel Payment Program provides payments to producers to support and expand production of advanced biofuels refined from sources other than corn kernel starch. The Advanced Biofuel Payment Program provides payments to producers to support and expand production of advanced biofuels refined from sources other than corn kernel starch. For more information, please visit: www.rd.usda.gov/programs-services/advanced-biofuel-payment-program The Rural Energy for America Program provides assistance to agricultural producers and rural small businesses to complete a variety of projects, including renewable energy systems, energy efficiency improvements, renewable energy development, energy audits, and feasibility studies guaranteed loan financing and grant funding to agricultural producers and rural small businesses to purchase or install renewable energy systems or make energy efficiency improvements. Agricultural producers with at least 50% of gross income coming from agricultural operations, and small business in eligible rural areas are eligible to apply. www.rd.usda.gov/reap The Rural Energy for America Program provides guaranteed loan financing and grant funding to agricultural producers and rural small businesses to purchase or install renewable energy systems or make energy efficiency improvements. Agricultural producers with at least 50% of gross income coming from agricultural operations, and small business in eligible rural areas are eligible to apply. For more information, please visit: http://www.rurdev.usda.gov/reap and http://www.rurdev.usda.gov/Energy.html.",
-    "genre": [
-    	"Energy",
-    	"Financing and Loans",
-    	"USDA",
-    	"Rural Development",
-    	"agriculture",
-    	"rural",
-    	"funding",
-    	"grants",
-    	"renewable energy",
-    	"energy",
-    	"environment"
-    	],
-    	 "id": 45
+	  "Department of Commerce",
+	  "Information",
+	  "Technical Assistance"
+    ],
+    "id": 38
   },
   {
-    "name":"Rural Energy for America Program (REAP) Renewable Energy Systems & Energy Efficiency Improvement Loan Guarantee Program",
-    "link":"http://www.rd.usda.gov/programs-services/rural-energy-america-program-renewable-energy-systems-energy-efficiency/",
-    "outline":"The REAP Renewable Energy Systems and Energy Efficiency Improvement Loan Guarantee Program provides guarantees to commercial lenders who make loans to small businesses located in rural areas and agricultural producers, helping them to purchase, install, or construct renewable energy systems or make energy efficiency improvements to existing non-residential facilities.",
+    "name": "National Institutes of Health (NIH), Small Business Innovation and Research (SBIR) Grant Applications",
+    "link": "/investment-incentives/national-institutes-health-nih-small-business-innovation-and-research-sbir-gra.html",
+    "outline": "This Funding Opportunity Announcement (FOA) invites eligible small businesses to submit Small Business Innovation Research (SBIR) grant applications. Small businesses that have the research capabilities and technological expertise to contribute to the research and development (R&D) mission(s) of the National Insitutes of Health (NIH), Center for Disease Control (CDC), Food and Drug Administration (FDA), or the Administration for Children and Families (ACF) are encouraged to apply for the grants in identified research areas. More information on all the...",
     "genre": [
-    	"Energy",
-    	"Financing and Loans",
-    	"USDA",
-    	"Rural Development",
-    	"grants",
-    	"funding",
-    	"loan",
-    	"guarantee",
-    	"research and development",
-    	"energy",
-    	"rural",
-    	"renewable energy",
-    	"small business",
-    	"SME",
-    	"business operations"
-    	],
-    	 "id": 46
-  },
-    {
-    "name":"Advanced Biofuel Payment Program",
-    "link":"http://www.rd.usda.gov/programs-services/advanced-biofuel-payment-program/",
-    "outline":"Operated by the U.S. Department of Agriculture, this program supports and ensures an expanding production of advanced biofuels by paying producers for finished advanced biofuel products. Any entity that produces advanced biofuel in the United States and sells it is eligible to apply.",
-    "genre": [
-    	"Energy",
-    	"Funding and Grants",
-    	"USDA",
-    	"Rural Development",
-    	"agriculture",
-    	"rural",
-    	"funding",
-    	"grants",
-    	"renewable energy",
-    	"energy",
-    	"environment"
-    	],
-    	 "id": 47
+	  "Funding",
+	  "Health",
+	  "Department of Health and Human Services"
+    ],
+    "id": 39
   },
   {
-    "name":"ARPA-E Building Energy Efficiency Through Innovative Thermodevices (BEETIT)",
-    "link":"http://arpa-e.energy.gov/?q=arpa-e-programs/beetit/",
-    "outline":"Administered by the U.S. Department of Energy, the goal of this program is to develop new approaches and technologies for building cooling equipment and air conditioners, with the specific aim of drastically improving building energy efficiency and reducing greenhouse gas emissions. ARPA-E empowers America's energy researchers with funding, technical assistance, and market readiness.",
+    "name": "Native American Business Enterprise Center (NABEC) Program",
+    "link": "/investment-incentives/native-american-business-enterprise-center-nabec-program.html",
+    "outline": "Department of the Commerce Incentive: The Native American Business Enterprise Center (NABEC) program provides business assistance services to eligible Native American and minority business enterprise (MBE) firms. Target clients are firms with $500,000 or more in annual revenues and/or “rapid-growth potential. Start-up and/or micro firms are served primarily via referrals, strategic partnerships or electronic delivery methods. Eligibility: U.S.",
     "genre": [
-    	"Environmental Technology",
-    	"Funding and Grants",
-    	"Energy",
-    	"ARPA-E",
-    	"energy",
-    	"environment",
-    	"funding",
-    	"grants",
-    	"research and development"
-    	],
-    	 "id": 48
+	  "Funding",
+	  "Research and Development",
+	  "Department of Commerce",
+	  "Information",
+	  "Technical Assistance"
+    ],
+    "id": 40
   },
   {
-    "name":"Department of Education Funding Opportunities",
-    "link":"http://www2.ed.gov/fund/grant/find/edlite-forecast.html",
-    "outline":"This is a database of all programs and competitions for funding opportunities provided by the U.S. Department of Education in the current fiscal year.",
+    "name": "NETL Solicitations / Funding Opportunity Announcement",
+    "link": "/investment-incentives/netl-solicitations-funding-opportunity-announcement.html",
+    "outline": "Department of Energy National Energy Technology Laboratory (NETL) uses Fedconnect and/or Grants.gov and FedBizOpps to post solicitations and funding opportunity announcements and amendments related to the energy sector, receive proposals and applications, and disseminate award information. Proposals will be accepted only through FedConnect or Grants.Gov as indicated in the solicitation document. For list of solicited funding opportunities please visit: http://www.netl.doe.gov/business/solicitations/index.html",
     "genre": [
-    	"Funding and Grants",
-    	"Education",
-    	"education",
-    	"research and development",
-    	"funding",
-    	"grants"
-    	],
-    	 "id": 49
+	  "Energy",
+	  "Environment and Energy",
+	  "Funding",
+	  "Information"
+    ],
+    "id": 41
   },
   {
-    "name":"National Energy Technology Laboratory (NETL) Unsolicited Funding Proposals",
-    "link":"http://www.netl.doe.gov/business/unsolicited-proposals/",
-    "outline":"The U.S. Department of Energy (DOE) encourages businesses, organizations, and individuals to submit self-generated, unsolicited funding proposals that are relevant to DOE’s research and development mission. DOE considers proposals in all areas of energy and energy-related research and development with emphasis on long-term, high-risk, high-payoff technologies.",
+    "name": "NIST Center for Neutron Research (NCNR) Comprehensive Grant Program",
+    "link": "/investment-incentives/nist-center-neutron-research-ncnr-comprehensive-grant-program.html",
+    "outline": "Department of Commerce The NIST Center for Neutron Research (NCNR) Comprehensive Grant Program provides funding to eligible proposers to support research involving neutron research and spectroscopy specifically aimed at assisting visiting researchers at the NCNR, developing new instrumentation for neutron research, conducting collaborative research with NIST scientists, and to conduct other outreach and educational activities that advance the use of neutrons by U.S. academia and industrial scientists.",
     "genre": [
-    	"Energy",
-    	"Funding and Grants",
-    	"Energy",
-    	"National Energy Technology Laboratory",
-    	"energy",
-    	"research and development",
-    	"funding",
-    	"grants"
-    	],
-    	 "id": 50
-  },  {
-    "name":"Employment and Training Administration Grants",
-    "link":"http://www.doleta.gov/grants/find_grants.cfm/",
-    "outline":"The Employment and Training Administration of the U.S. Department of Labor awards numerous grants to help businesses recruit and train their workforce. Their website includes information on all grants currently accepting applications, as well as past and upcoming programs.",
-    "genre": [
-    	"Funding and Grants",
-    	"Labor",
-    	"Employment and Training Administration",
-    	"research and development",
-    	"funding",
-    	"grants"
-    	],
-    	 "id": 51
+	  "Funding",
+	  "Physical Science and Engineering",
+	  "Research and Development",
+	  "Department of Commerce"
+    ],
+    "id": 42
   },
   {
-    "name":"Farmers Market Promotion Program (FMPP)",
-    "link":"http://www.ams.usda.gov/AMSv1.0/FMPP",
-    "outline":"The Farmers Market Promotion Program (FMPP) aims to increase domestic consumption of, and access to, locally and regionally produced agricultural products, and to develop new market opportunities for farm and ranch operations serving local markets. The program provides grants and technical support to domestic farmers markets, roadside stands, community-supported agriculture programs, agritourism activities, and other direct producer-to-consumer market opportunities.",
+    "name": "NIST Measurement Science and Engineering (MSE) Research Grant Programs",
+    "link": "/investment-incentives/nist-measurement-science-and-engineering-mse-research-grant-programs.html",
+    "outline": "Department of Commerce DOC National Institute of Standards and Technology (NIST) Measurement Science and Engineering (MSE) Research Grant Programs offers funding in the areas of: (1) the Material Measurement Laboratory (MML);(2) the Physical Measurement Laboratory (PML);(3) the Engineering Laboratory (EL);(4) the Fire Research Division;(5) the Information Technology Laboratory (ITL);(6) the NIST Center for Neutron Research (NCNR);(7) the Center for Nanoscale Science and Technology (CNST);(8) the Standards Services Group (SSG); and(9) the Office of Special Programs (OSP Dates: For all programs...",
     "genre": [
-    	"Agriculture",
-    	"Funding and Grants",
-    	"USDA",
-    	"Agricultural Marketing Service",
-    	"agriculture",
-    	"funding",
-    	"grants",
-    	"small business",
-    	"SME"
-    	],
-    	 "id": 52
+	  "Funding",
+	  "Physical Science and Engineering",
+	  "Research and Development",
+	  "Department of Commerce",
+	  "Aerospace",
+	  "Agribusiness and Forest Products",
+	  "Construction and Real Estate",
+	  "Electronics and Industrial Equipment",
+	  "Funding",
+	  "Information and Communication Technology",
+	  "Logistics and Transportation",
+	  "Manufacturing",
+	  "Physical Science and Engineering",
+	  "Research and Development",
+	  "Department of Commerce"
+    ],
+    "id": 43
   },
   {
-    "name":"Grants.gov",
-    "link":"http://www.grants.gov/",
-    "outline":"Managed by the Department of Health and Human Services, Grants.gov provides a centralized location for grant seekers to find and apply for federal funding opportunities. Today, the Grants.gov system houses information on over 1,000 grant programs and vets grant applications for 26 federal grant-making agencies. After a one-time registration, businesses can apply to as many federal agencies and grant programs as needed with just one secure login. To find grants and opportunities for businesses, browse by eligibilities and select for profit organizations or small businesses.",
+    "name": "NOAA Small Business Innovation Research (SBIR) Program",
+    "link": "/investment-incentives/noaa-small-business-innovation-research-sbir-program.html",
+    "outline": "Department of the Commerce National Oceanic and Atmospheric Administration   Incentive: The NOAA Small Business Innovation Research (SBIR) program is part of a Federal-wide program that funds small businesses to do innovation research for Federal agencies (see www.sbir.gov). The objective of the program is to stimulate technological innovation while strengthening the role of small businesses in meeting Federal research needs.",
     "genre": [
-    	"Funding and Grants",
-    	"grants",
-    	"funding"
-    	],
-    	 "id": 53
+	  "Funding",
+	  "Aerospace",
+	  "Agribusiness and Forest Products",
+	  "Electronics and Industrial Equipment",
+	  "Environment and Energy",
+	  "Funding",
+	  "Petroleum, Minerals and Mining",
+	  "Physical Science and Engineering",
+	  "Department of Commerce"
+    ],
+    "id": 44
   },
   {
-    "name":"Industry/University Cooperative Research Centers (I/UCRC) Program",
-    "link":"http://www.nsf.gov/eng/iip/iucrc/home.jsp",
-    "outline":"The Industry University Collaborative Research Center (I/UCRC) program provides the funding opportunity for universities and industry to initiate and grow long term partnerships for conducting pre-competitive research on topics of mutual benefit in an educational environment. Businesses interested in access to faculty, students, facilities, and infrastructure at all Center sites, as well as lower risks and accelerated R&D benefits from the sector-identified pre-competitive research, can contact any I/UCRC in their econoimc, technology, or manufacturing center to explore the membership process.",
+    "name": "Office of Energy Efficiency and Renewable Energy Funding",
+    "link": "/investment-incentives/office-energy-efficiency-and-renewable-energy-funding.html",
+    "outline": "U.S. Department of Energy Department of Energy: Office of Energy Efficiency and Renewable Energy (EERE) provides a list of financial opportunities for business, industry, and universities. Past opportunities include: solar, geothermal, vehical technology, biomass, hydrogen and fuel cell research,.  To explore current EERE financial assistance solicitations and solicitation-related requests please click here: http://www1.eere.energy.gov/financing/business.html",
     "genre": [
-    	"Funding and Grants",
-    	"National Science Foundation",
-    	"research and development",
-    	"education",
-    	"funding",
-    	"grants"
-    	],
-    	 "id": 54
-  },  {
-    "name":"National Institute of Food and Agriculture (NIFA) Funding Programs",
-    "link":"http://nifa.usda.gov/programs?f[0]=field_program_type%3A515",
-    "outline":"The National Institute of Food and Agriculture supports research, education, and extension activities in agricultural research through three primary funding mechanisms: competitive grants, capacity grants, and non-competitive grants.",
-    "genre": [
-    	"Agriculture",
-    	"Funding and Grants",
-    	"USDA",
-    	"National Institute of Food and Agriculture",
-    	"research and development",
-    	"funding",
-    	"grants",
-    	"food",
-    	"agriculture"
-    	],
-    	 "id": 55
+	  "Energy",
+	  "Environment",
+	  "Environment and Energy",
+	  "Funding",
+	  "Research and Development",
+	  "Department of Energy"
+    ],
+    "id": 45
   },
   {
-    "name":"National Institute of Health's Small Business Innovation and Research (SBIR) Grants",
-    "link":"https://sbir.nih.gov/",
-    "outline":"The National Institute of Health (NIH) SBIR and STTR programs are an integral source of capital for early stage U.S. small businesses that are creating innovative technologies to improve health. These competitive programs help small businesses break into the federal research and development (R&D) arena, create life-saving technologies, and stimulate economic growth. Both the SBIR and STTR programs are divided into three phases. NIH has special technical assistance and gap-funding programs to help small businesses move their technologies from the lab to the market.",
+    "name": "Office of Science Grant and Contract Opportunities",
+    "link": "/investment-incentives/office-science-grant-and-contract-opportunities.html",
+    "outline": "Oversees and funds research programs in high-energy physics, nuclear physics, and fusion energy sciences, and manages fundamental research programs in basic energy sciences, biological and environmental sciences, and computational science. Also funds materials and chemical sciences. Click here for more information: http://www.sc.doe.gov/grants/grants.html",
     "genre": [
-    	"Medical Technology",
-    	"Funding and Grants",
-    	"HHS",
-    	"NIH",
-    	"healthcare",
-    	"small business",
-    	"SME",
-    	"funding",
-    	"grant",
-    	"research and development"
-    	],
-    	 "id": 56
-  },
-    {
-    "name":"National Institute of Standards and Technology (NIST) Grant Programs",
-    "link":"https://research.usc.edu/files/2013/03/Guide-to-FY2016-NIST-Research-Funding.pdf",
-    "outline":"The NIST mission is to promote U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security and improve quality of life. NIST offers grants to encourage extramural work in specific fields in support of intramural programs: precision measurement, fire research, and materials science. It also has extramural opportunities in advanced manufacturing, wireless innovation, and trusted identities in cyberspace. Grants/awards supporting research at industry, academic, and other institutions are available on a competitive basis through several different NIST offices.",
-    "genre": [
-    	"Funding and Grants",
-    	"Commerce",
-    	"National Institute of Standards and Technology",
-    	"research and development",
-    	"funding",
-    	"grants"
-    	],
-    	 "id": 57
-  },
-    {
-    "name":"NOAA Small Business Innovation and Research (SBIR) Program",
-    "link":"http://techpartnerships.noaa.gov/SBIR.aspx",
-    "outline":"NOAA's Small Business Innovation and Research (SBIR) Program is seeking highly innovative products with excellent commercial potential.  All SBIR proposals must directly benefit the NOAA mission of understanding and predicting changes in climate, weather, oceans, and coasts while conserving and managing marine ecosystems and resources, but should also be responsive to the greater market demands in order to be successful.",
-    "genre": [
-    	"Environmental Technology",
-    	"Funding and Grants",
-    	"Commerce",
-    	"National Oceanic and Atmospheric Administration",
-    	"research and development",
-    	"small business",
-    	"SME",
-    	"environment",
-    	"funding",
-    	"grants"
-    	],
-    	 "id": 58
-  },
-    {
-    "name":"Office of Energy Efficiency and Renewable Energy (EERE) Funding",
-    "link":"http://www1.eere.energy.gov/financing/",
-    "outline":"The Office of Energy Efficiency and Renewable Energy (EERE) works with businesses, industry, universities, and other organizations to increase the use of renewable energy and energy efficiency technologies. EERE encourages the growth of these technologies by offering financial assistance and funding opportunities for their development and demonstration.",
-    "genre": [
-    	"Energy",
-    	"Funding and Grants",
-    	"Energy",
-    	"Office of Energy Efficiency and Renewable Energy",
-    	"energy",
-    	"research and development",
-    	"funding",
-    	"grants",
-    	"renewable energy",
-    	"environment"
-    	],
-    	 "id": 59
-  },
-    {
-    "name":"Office of Science Grant and Contract Opportunities",
-    "link":"http://science.energy.gov/grants/",
-    "outline":"The U.S. Department of Energy’s Office of Science provides grants, contracts, and other forms of assistance covering basic and applied research and related research activities. Recent research subjects have included fusion energy, nuclear theory, plant feedstock genomics, advanced computing, and atmospheric systems.",
-    "genre": [
-    	"Energy",
-    	"Funding and Grants",
-    	"Energy",
-    	"Office of Science",
-    	"energy",
-    	"research and development",
-    	"funding",
-    	"grants"
-    	],
-    	 "id": 60
-  },
-    {
-    "name":"Research Partnership to Secure Energy for America (RPSEA)",
-    "link":"http://www.rpsea.org/about/",
-    "outline":"Under contract with the Department of Energy’s National Energy Technology Laboratory, the Research Partnership to Secure Energy for America (RPSEA) manages a 10-year, $375 million program designed to enable the development of new technologies necessary to produce more secure, abundant and affordable domestic energy supplies. RPSEA manages three program areas under this contract: Ultra-Deepwater, Unconventional Resources, and Small Producer. Each program’s funding is set annually to invest in oil and gas research and development projects.",
-    "genre": [
-    	"Energy",
-    	"Funding and Grants",
-    	"Energy",
-    	"National Energy Technology Laboratory",
-    	"energy",
-    	"research and development",
-    	"funding",
-    	"grants"
-    	],
-    	 "id": 61
-  },
-    {
-    "name":"International Intellectual Property Rights Assistance",
-    "link":"http://trade.gov/mas/ian/oipr/index.asp",
-    "outline":"The International Trade Administration’s Office of Intellectual Property Rights provides counseling, special programs, and tools to help U.S.-based companies protect their intellectual property—including patents, trademarks, copyrights, and trade secrets—in foreign markets.",
-    "genre": [
-    	"Intellectual Property Programs",
-    	"Commerce",
-    	"International Trade Administration",
-    	"intellectual property",
-    	"assistance",
-    	"counseling",
-    	"advocacy"
-    	],
-    	 "id": 62
-  },
-    {
-    "name":"Inventors Assistance Center",
-    "link":"http://www.uspto.gov/learning-and-resources/support-centers/inventors-assistance-center-iac",
-    "outline":"The Inventors Assistance Center (IAC) engages in a range of educational and outreach services to help inventors in understanding the value of protecting their intellectual property and how to navigate the patent process. Staffed by former Supervisory Patent Examiners and various IP specialists and attorneys, the IAC answers questions and assists independent inventors with filling out necessary forms.",
-    "genre": [
-    	"Intellectual Property Programs",
-    	"Commerce",
-    	"U.S. Patent and Trademark Office",
-    	"intellectual property",
-    	"assistance",
-    	"counseling",
-    	"advocacy"
-    	],
-    	 "id": 63
+	  "Energy",
+	  "Chemicals and Pharmaceuticals",
+	  "Environment and Energy",
+	  "Funding",
+	  "Information and Communication Technology",
+	  "Research and Development",
+	  "Department of Energy"
+    ],
+    "id": 46
   },
   {
-    "name":"Patent and Trademark Resource Centers",
-    "link":"http://www.uspto.gov/learning-and-resources/support-centers/patent-and-trademark-resource-centers-ptrc/history-and-0",
-    "outline":"The Patent and Trademark Resource Center (PTRC) is a nationwide network of libraries trained to provide free informational assistance in all areas of intellectual property. These centers include access to the U.S. Patent and Trademark Office (USPTO) site and other intellectual property websites, PubWest (a USPTO examiner-based search system), computer-based training, and public programs and instructional classes on searching patents and trademarks.",
+    "name": "Office of Textiles and Apparel (OTEXA) Export Promotion Program",
+    "link": "/investment-incentives/office-textiles-and-apparel-otexa-export-promotion-program.html",
+    "outline": "Department of the Commerce Incentive: The Office of Textiles and Apparel (OTEXA) Export Promotion Program targets small-and medium-sized export-ready firms by providing support, facilitation, and program venues for sales of U.S.-made textile and apparel products in overseas markets. OTEXA’s Export Program includes export-counseling, seminars, sponsorship of trade missions, U.S.A. pavilions in major international trade events, and market research to identify key export opportunities in selected markets. Eligibility: U.S. companies interested in participating in an OTEXA-sponsored event must...",
     "genre": [
-    	"Intellectual Property Programs",
-    	"Commerce",
-    	"U.S. Patent and Trademark Office",
-    	"intellectual property",
-    	"assistance",
-    	"counseling",
-    	"advocacy"
-    	],
-    	 "id": 64
-  },
-    {
-    "name":"Trademark Assistance Center",
-    "link":"http://www.uspto.gov/learning-and-resources/support-centers/trademark-assistance-center-tac",
-    "outline":"The USPTO Trademark Assistance Center (TAC) provides free information about the trademark registration process and responds to inquiries about the status of trademark applications and registrations.",
-    "genre": [
-    	"Intellectual Property Programs",
-    	"Commerce",
-    	"U.S. Patent and Trademark Office",
-    	"intellectual property",
-    	"assistance",
-    	"counseling",
-    	"advocacy"
-    	],
-    	 "id": 65
+	  "Energy",
+	  "Environment",
+	  "Research and Development",
+	  "Textiles",
+	  "U.S. Companies",
+	  "Department of Commerce",
+	  "Information",
+	  "Technical Assistance"
+    ],
+    "id": 47
   },
   {
-    "name":"Patent Pro Bono Program",
-    "link":"http://www.uspto.gov/patents-getting-started/using-legal-services/pro-bono/patent-pro-bono-program",
-    "outline":"The Patent Pro Bono Program provides free legal assistance to under-resourced inventors interested in securing patent protection for their inventions. Available in all 50 states, the program attempts to match the inventor with a local volunteer patent attorney to represent the inventor, based on eligibility criteria.",
+    "name": "Overseas Private Investment Corporation",
+    "link": "/investment-incentives/overseas-private-investment-corporation.html",
+    "outline": "OPIC is the U.S. Government’s development finance institution.  It mobilizes private capital to help solve critical world challenges and in doing so, advances U.S. foreign policy. Because OPIC works with the U.S. private sector, it helps U.S. businesses gain footholds in emerging markets catalyzing revenues, jobs and growth opportunities both at home and abroad. OPIC achieves its mission by providing investors with financing, guarantees, political risk insurance, and support for private equity investment funds. Established as an agency of the U.S. Government in 1971, OPIC operates...",
     "genre": [
-    	"Intellectual Property Programs",
-    	"Commerce",
-    	"U.S. Patent and Trademark Office",
-    	"intellectual property",
-    	"assistance",
-    	"counseling",
-    	"advocacy"
-    	],
-    	 "id": 66
+	  "Energy",
+	  "Foreign Investors",
+	  "Funding",
+	  "U.S. Companies",
+	  "Information",
+	  "Technical Assistance"
+    ],
+    "id": 48
   },
   {
-    "name":"Pro Se Assistance",
-    "link":"http://www.uspto.gov/patents-getting-started/using-legal-services/pro-se-assistance-program",
-    "outline":"The Pro Se Assistance Program is the USPTO’s comprehensive pilot to expand outreach to inventors who file patent applications without the assistance of a registered patent attorney or agent (also known as pro se filing).",
+    "name": "Petition Counseling and Analysis Unit (PCAU)",
+    "link": "/investment-incentives/petition-counseling-and-analysis-unit-pcau.html",
+    "outline": "Petition Counseling and Analysis Unit (PCAU) Department of the Commerce International Trade Administration Incentive: The Petition Counseling and Analysis Unit (PCAU) works to ensure that all U.S. industries facing competition from unfairly traded imports are able to take advantage of the trade law remedies available to them. The staff of this unit is available to answer questions for U.S. industries relating to remedies available under the trade laws, and to assist in the development and filing of Antidumping (AD) and Countervailing Duty (CVD) petitions. The PCAU’s helps U.S. industries...",
     "genre": [
-    	"Intellectual Property Programs",
-    	"Commerce",
-    	"U.S. Patent and Trademark Office",
-    	"intellectual property",
-    	"assistance",
-    	"counseling",
-    	"advocacy"
-    	],
-    	 "id": 67
+	  "U.S. Companies",
+	  "Department of Commerce",
+	  "Information",
+	  "Technical Assistance"
+    ],
+    "id": 49
   },
   {
-    "name":"Regional Innovation Clusters Initiative",
-    "link":"https://www.sba.gov/sba-clusters",
-    "outline":"The SBA is investing in 50+ regional innovation clusters throughout the United States that span a variety of industries, from energy and manufacturing to health IT and biotech. These clusters provide matchmaking, business training, counseling, mentoring, and other services to help small businesses expand and grow, while fostering regional networks of small and large businesses, university researchers, regional economic organizations, stakeholders, and investors. The advanced manufacturing clusters also assist small businesses with commercialization of R&D, export readiness, international and domestic marketing, and strengthening supply chains.",
+    "name": "Railroad Rehabilitation & Improvement Financing (RRIF) Program",
+    "link": "/investment-incentives/railroad-rehabilitation-improvement-financing-rrif-program.html",
+    "outline": "Incentive: The RRIF program was established by the Transportation Equity Act for the 21st Century (TEA-21) and amended by the Safe Accountable, Flexible and Efficient Transportation Equity Act: a Legacy for Users (SAFETEA-LU). Under this program the FRA Administrator is authorized to provide direct loans and loan guarantees up to $35.0 billion. Up to $7.0 billion is reserved for projects benefiting freight railroads other than Class I carriers. The funding may be used to:",
     "genre": [
-    	"Small Business Programs",
-    	"SBA",
-    	"education",
-    	"manufacturing",
-    	"research and development",
-    	"agriculture",
-    	"financing",
-    	"counseling",
-    	"business partnership",
-    	"small business",
-    	"SME"
-    	],
-    	 "id": 68
-  },  {
-    "name":"Export Express",
-    "link":"https://www.sba.gov/content/export-express-loan-program/",
-    "outline":"The Export Express loan program provides exporters and lenders a streamlined method to obtain SBA-backed financing for loans and lines of credit up to $500,000. Lenders use their own credit decision process and loan documentation, while the SBA determines eligibility and provides a loan approval in 36 hours or less, giving exporters access to their funds faster.",
-    "genre": [
-    	"Small Business Programs",
-    	"SBA",
-    	"export",
-    	"financing",
-    	"funding",
-    	"loan",
-    	"small business",
-    	"SME"
-    	],
-    	 "id": 69
+    ],
+    "id": 50
   },
   {
-    "name":"Export Working Capital Program",
-    "link":"https://www.sba.gov/content/export-working-capital-program/",
-    "outline":"The Export Working Capital (EWCP) loan provides advances for up to $5 million to fund export transactions from purchase order to collections. This loan has a low guaranty fee and quick processing time.",
+    "name": "Recovery Act Grants - National Institutes of Health (NIH)",
+    "link": "/investment-incentives/recovery-act-grants-national-institutes-health-nih.html",
+    "outline": "Provides funding and research grants to help stimulate the support and advancement of scientific research in the U.S.. Supported by the American Recovery & Reinvestment Act of 2009 (ARRA). Click here for more information: http://grants.nih.gov/recovery/",
     "genre": [
-    	"Small Business Programs",
-    	"SBA",
-    	"export",
-    	"financing",
-    	"funding",
-    	"loan",
-    	"small business",
-    	"SME"
-    	],
-    	 "id": 70
+      "Funding",
+      "Research and Development",
+      "Department of Health and Human Services"
+    ],
+    "id": 51
   },
   {
-    "name":"HUBZone Certification",
-    "link":"http://www.sba.gov/hubzone/",
-    "outline":"The HUBZone program helps small businesses located in distressed urban and rural communities, known as Historically Underutilized Business Zones, gain access to federal set-aside contracts and sole source contracts, as well as a price evaluation preference in full and open contract competitions.",
+    "name": "Renewable Energy Grants",
+    "link": "/investment-incentives/renewable-energy-grants.html",
+    "outline": "Renewable Energy Grants Department of the Treasury Internal Revenue Service Incentive: The Section 1603 Grant Program is a renewable energy grant program that is administered by the U.S. Department of Treasury. This program allows taxpayers eligible for the federal business energy investment tax credit (ITC) to take this credit or to receive a grant from the U.S. Treasury Department instead of taking the business ITC for new installations. The program also allows taxpayers eligible for the renewable electricity production tax credit (PTC) to receive a grant from the U.S. Treasury Department...",
     "genre": [
-    	"Small Business Programs",
-    	"SBA",
-    	"disadvantaged communities",
-    	"tax incentive",
-    	"small business",
-    	"SME",
-    	"minority"
-    	],
-    	 "id": 71
+      "Funding",
+      "Education",
+      "Energy",
+      "Environment",
+      "Foreign Investors",
+      "Funding",
+      "Real Estate",
+      "Research and Development",
+      "U.S. Companies",
+      "Tax Incentives",
+      "Department of the Treasury"
+    ],
+    "id": 52
   },
   {
-    "name":"International Trade Loan Program",
-    "link":"https://www.sba.gov/content/international-trade-loan/",
-    "outline":"This loan program is designed to help small businesses expand existing export markets or develop new export markets. The International Trade Loan offers loans up to $5 million for fixed assets and working capital for businesses that plan to start or continue exporting.",
+    "name": "Renewable Energy Investment Tax Credit (ITC)",
+    "link": "/investment-incentives/renewable-energy-investment-tax-credit-itc.html",
+    "outline": "Renewable Energy Investment Tax Credit (ITC) Department of the Treasury Internal Revenue Service Incentive: The Investment Tax Credit (ITC) reduces federal income taxes for qualified tax-paying owners based on capital investment in renewable energy projects (measured in dollars). The ITC generally allows taxpayers to take a single tax credit against the project's tax basis equal to 30% in its first year and allows a taxpayer to elect certain qualified facilities to be characterized as energy property eligible for a 10% or 30% ITC, depending on the technology. Incentives depend on the type...",
     "genre": [
-    	"Small Business Programs",
-    	"SBA",
-    	"small business",
-    	"SME",
-    	"trade",
-    	"financing",
-    	"funding",
-    	"international"
-    	],
-    	 "id": 72
-  },  {
-    "name":"Small Business Innovation Research Program",
-    "link":"http://www.sbir.gov/",
-    "outline":"The Small Business Innovation Research (SBIR) program encourages U.S.-based small businesses to engage in federal research/research and development (R/R&D) that has the potential for commercialization. Through a competitive awards-based program, SBIR enables small businesses to explore their technological potential and provides the incentive to profit from its commercialization. The program provides access to funds committed by federal agencies with large extramural research and development budgets, including the Department of Defense, Energy and Health and Human Services, among others.",
-    "genre": [
-    	"Small Business Programs",
-    	"SBA",
-    	"research and development",
-    	"small business",
-    	"SME"
-    	],
-    	 "id": 73
+       "Energy",
+       "Foreign Investors",
+       "U.S. Companies",
+       "Tax Incentives",
+       "Department of the Treasury"
+    ],
+    "id": 53
   },
   {
-    "name":"Small Business Investment Company Program (SBIC)",
-    "link":"https://www.sba.gov/category/lender-navigation/sba-loan-programs/sbic-program-0/",
-    "outline":"Licensed and regulated by the Small Business Administration, these Small Business Investment Companies (SBICs) fill the gap between the availability of private capital and the needs of small businesses for growth capital. They are privately owned and managed investment funds that make capital available to qualifying U.S. small businesses at attractive rates.",
+    "name": "Renewable Energy Research and Development (ARRA)",
+    "link": "/investment-incentives/renewable-energy-research-and-development-arra.html",
+    "outline": "Renewable Energy Research and Development (ARRA) Department of Energy Incentive: To conduct balanced research and development efforts in the following energy technologies: solar, biomass, hydrogen, fuel cells and infrastructure, wind and hydropower, and geothermal. Grants will be offered to develop and transfer to the nonfederal sector various renewable energy technologies on a competitive basis. Award: Project Grants or Cooperative Agreements.",
     "genre": [
-    	"Small Business Programs",
-    	"SBA",
-    	"small business",
-    	"SME",
-    	"investment",
-    	"financing",
-    	"loan",
-    	"funding"
-    	],
-    	 "id": 74
-  },
-    {
-    "name":"Small Business Technology Transfer Program (STTR)",
-    "link":"https://www.sbir.gov/about/about-sttr#sttr-program/",
-    "outline":"The Small Business Technology Transfer (STTR) is a program that expands funding opportunities in the federal innovation research and development (R&D) arena. Central to the program is expansion of the public/private sector partnership to include the joint venture opportunities for small businesses and nonprofit research institutions. The unique feature of the STTR program is the requirement for the small business to formally collaborate with a research institution in Phase I and Phase II.",
-    "genre": [
-    	"Small Business Programs",
-    	"SBA",
-    	"research and development",
-    	"small business",
-    	"SME"
-    	],
-    	 "id": 75
-  },
-    {
-    "name":"Small Loan Advantage Program",
-    "link":"https://www.sba.gov/advantage/",
-    "outline":"This program is structured to encourage large, existing Small Business Administration (SBA) lenders to make lower-dollar loans, and is guaranteed by the SBA. The program does not require the small business borrower to be located in underserved markets.",
-    "genre": [
-      "Exporting",
-      "Small Businesses and Startups",
-    	"Small Business Programs",
-    	"SBA",
-    	"financing",
-    	"funding",
-    	"loan",
-    	"SME",
-    	"small business"
-    	],
-    	 "id": 76
-  },
-    {
-    "name":"State Trade & Export Promotion (STEP) Grant Program",
-    "link":"https://www.sba.gov/content/state-trade-and-export-promotion-step-pilot-grant-initiative-cfda-59061-1",
-    "outline":"State Trade & Export Promotion (STEP) Program: The State Trade and Export Promotion (STEP) Program is an export initiative to make matching-fund awards to states to assist small businesses enter and succeed in the international marketplace. Activities to support small business exporting under the STEP Program are provided to eligible small business concerns (“STEP Clients”) located in states, territories, and the District of Columbia. The program’s objectives are to increase the number of U.S. small businesses that export and to increase the value of exports by small businesses.",
-    "genre": [
-      "export",
-    	"financing",
-    	"funding",
-    	"loan",
-    	"small business",
-    	"SME"
-    	],
-    	 "id": 77
-  },
-    {
-    "name":"Tax Credits and Deductions",
-    "link":"https://www.irs.gov/Credits-&-Deductions",
-    "outline":"The Internal Revenue Service provides information on various tax credits and deductions available to international businesses (large and small) as well as individuals who may be employed by international companies doing business in the United States.",
-    "genre": [
-    	"Business Activities",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"tax incentives",
-    	"credits",
-    	"deductions"
-    	],
-    	 "id": 78
-  },
-    {
-    "name":"Tax Information for Businesses",
-    "link":"https://www.irs.gov/Businesses",
-    "outline":"The Internal Revenue Service provides a listing of tax information for businesses with links to important items on compliance requirements and filing dates as well as helpful information for their employees.",
-    "genre": [
-    	"Business Activities",
-    	"Small Businesses and Startups",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"tax incentives",
-    	"credits",
-    	"small business",
-    	"SME",
-    	"international",
-    	"large business and international",
-    	"tax filing"
-    	],
-    	 "id": 79
-  },
-    {
-    "name":"International Tax Topic Index",
-    "link":"https://www.irs.gov/Individuals/International-Taxpayers/International-Index-Gateway",
-    "outline":"The Internal Revenue Service has an international tax topic index specifically designed for taxpayers with international filing requirements.",
-    "genre": [
-    	"Business Activities",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"tax incentives",
-    	"international",
-    	"tax filing",
-    	"international tax"
-    	],
-    	 "id": 117
-  },
-    {
-    "name":"Alternative Fuel Vehicle Refueling Property Credit",
-    "link":"https://www.irs.gov/Credits-&-Deductions/Individuals/Alternative-Fuel-Vehicle-Refueling-Property-Credit",
-    "outline":"If you purchase an alternative fuel vehicle refueling property and place it in service during the tax year, you can use Form 8911 to claim up to $1,000 in credit on your individual federal taxes. The credit attributable to depreciable property (refueling property used for business or investment purposes) is treated as a general business credit.",
-    "genre": [
-    	"Energy",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"tax incentive",
-    	"energy",
-    	"business operations",
-    	"environment"
-    	],
-    	 "id": 80
-  },
-    {
-    "name":"Alternative Motor Vehicle Credit",
-    "link":"https://www.irs.gov/Credits-&-Deductions/Individuals/New-Qualified-Fuel-Cell-Motor-Credit",
-    "outline":"If you purchase a fuel cell motor vehicle (such as electric or hybrid car) and start driving it during the tax year, you can use Form 8910 to claim up to $4,000 in credit on your individual federal taxes for lighter vehicles and up to $40,000 for heavier vehicles. The credit attributable to depreciable property (vehicles used for business or investment purposes) is treated as a general business credit.",
-    "genre": [
-    	"Logistics and Transportation",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"tax incentive",
-    	"energy",
-    	"business operations",
-    	"environment"
-    	],
-    	 "id": 81
+       "Foreign Investors",
+       "Funding",
+       "U.S. Companies",
+       "Information",
+       "Technical Assistance",
+       "Department of Energy"
+    ],
+    "id": 54
   },
   {
-    "name":"Biodiesel and Renewable Diesel Fuels Credit",
-    "link":"http://www.irs.gov/uac/Form-8864,--Biodiesel-and-Renewable-Diesel-Fuels-Credit",
-    "outline":"If your company produces, sells, or uses biodiesel or renewable fuels, you can use Form 8864 to claim a credit on your federal taxes that far exceeds the federal tax on the fuel. This credit can be claimed for sale or use of the following fuels: biodiesel, renewable diesel, biodiesel mixture, renewable diesel mixture, and small agro-biodiesel producers.",
+    "name": "Research Partnership to Secure Energy for America",
+    "link": "/investment-incentives/http://selectusa.commerce.gov/investment-incentives/research-partnership-secure-energy-america.html",
+    "outline": "The Research Partnership to Secure Energy for America (RPSEA) is a non-profit corporation established to help meet the nation's growing need for hydrocarbon resources produced from reservoirs in America. RPSEA offers funding through solitation of proposals. They assist small businesses in participating in Government contracting opportunities with RPSEA and the US. Government, RPSEA has developed a series of procedural steps that are essential for the success of small businesses.  A “Twelve Step Program for Success,” has been created to assist small business owners on how to effectively...",
     "genre": [
-    	"Energy",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"energy",
-    	"tax incentive",
-    	"environment",
-    	"renewable energy"
-    	],
-    	 "id": 82
-  },
-    {
-    "name":"Business Use of Car",
-    "link":"http://www.irs.gov/taxtopics/tc510.html",
-    "outline":"If you use your car in your job or business and you use it only for that purpose, you may deduct its entire cost of operation from your individual federal taxes. However, if you use the car for both business and personal use, you may only deduct the cost of its business use.",
-    "genre": [
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"business operations",
-    	"tax incentive"
-    	],
-    	 "id": 83
+       "Foreign Investors",
+       "Environment and Energy",
+       "Funding",
+       "Petroleum, Minerals and Mining",
+       "Research and Development",
+       "Department of Energy"
+    ],
+    "id": 55
   },
   {
-    "name":"Credit for Employer Social Security and Medicare Taxes Paid on Certain Employee Tips (Food and Beverage Industry)",
-    "link":"http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Credit-for-Portion-of-Employer-Social-Security-Paid-with-Respect-to-Employee-Cash-Tips-IRC-45-B-Credit",
-    "outline":"If you are an employer in the food and beverage industry, you may be able to claim a tax credit for the social security and Medicare taxes you pay on your employees’ tip income.",
+    "name": "Rural Development Energy Programs",
+    "link": "/investment-incentives/rural-development-energy-programs.html",
+    "outline": "U.S. Department of Agriculture USDA Rural Development Energy Program offer funds to complete energy audits and feasibility studies, complete energy efficiency improvements, install renewable energy systems. Programs that help convert older heating sources to cleaner technologies, produce advanced biofuels, install flexible fuel pumps, install solar panels, build biorefineries, and much more. USDA Rural Development is at the forefront of renewable energy financing, with options including grants, guaranteed loans and payments.",
     "genre": [
-    	"Travel, Tourism & Hospitality",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"food and drink",
-    	"social security",
-    	"medicare",
-    	"employee benefits",
-    	"tax incentive"
-    	],
-    	 "id": 84
+       "Foreign Investors",
+       "Department of Agriculture",
+       "Environment and Energy",
+       "Funding",
+       "Research and Development"
+    ],
+    "id": 56
   },
   {
-    "name":"Credit for Employer-Provided Childcare Facilities and Services",
-    "link":"http://www.irs.gov/uac/Form-8882,-Credit-for-Employer-Provided-Childcare-Facilities-and-Services",
-    "outline":"If you pay a child care facility to provide child care services to your employees, you can use Form 8882 to claim a credit on your corporate federal taxes for up to 25 percent of your costs.",
+    "name": "Rural Development Grant Assistance",
+    "link": "/investment-incentives/rural-development-grant-assistance.html",
+    "outline": "U.S. Department of Agriculture Program assistance is provided in many ways, including direct or guaranteed loans, grants, technical assistance, research and educational materials.  Below are available programs:",
     "genre": [
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"childcare",
-    	"tax incentive",
-    	"employee benefits"
-    	],
-    	 "id": 85
+       "Agribusiness and Forest Products",
+       "Department of Agriculture",
+       "Funding",
+       "Research and Development"
+    ],
+    "id": 57
   },
   {
-    "name":"Credit for Increasing Research Activities",
-    "link":"https://www.irs.gov/uac/Form-6765,-Credit-for-Increasing-Research-Activities",
-    "outline":"This federal tax credit is designed to encourage businesses to increase the amount they spend on research and experimental activities from year to year. You can use Form 6765 to determine how much credit you can claim; the form instructions include details on what research activities qualify for this credit.",
+    "name": "SBA Exporting and Importing",
+    "link": "/investment-incentives/sba-exporting-and-importing.html",
+    "outline": "Small businesses looking to increase sales and profit are taking their businesses global. SBA provides counseling, training and financing to support small business export opportunities.  >> SBA Exporting and Importing portal.",
     "genre": [
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"research and development",
-    	"tax incentive"
-    	],
-    	 "id": 86
-  },  {
-    "name":"Credit for Small Employer Pension Plan Startup Costs",
-    "link":"https://www.irs.gov/uac/Form-8881,-Credit-for-Small-Employer-Pension-Plan-Startup-Costs",
-    "outline":"As a small employer, when you set up a qualified retirement plan for your employees, you may be able to claim 50 percent of your setup and administration costs as a tax credit for the first 3 years of the plan.",
-    "genre": [
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"small business",
-    	"SME",
-    	"tax incentive",
-    	"pension",
-    	"employee benefits"
-    	],
-    	 "id": 87
+       "Small Business Administration"
+    ],
+    "id": 58
   },
   {
-    "name":"Deducting Business Expenses",
-    "link":"https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Deducting-Business-Expenses",
-    "outline":"Business expenses are the cost of carrying on a trade or business, including the cost of goods sold, employees’ pay, retirement plans, property rent, interest on business loans, some taxes, and insurance. You can usually deduct these expenses from your taxes if your business operates to make a profit.",
+    "name": "Small Business Innovation Research Program and Small Business Technology Transfer Program",
+    "link": "/investment-incentives/small-business-innovation-research-program-and-small-business-technology-trans.html",
+    "outline": "Department of Energy Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) is soliciting research proposal for funding on topic that address issues related to: • Advanced Scientific Computing Research• Fusion Energy Sciences• Basic Energy Sciences• High Energy Physics• Biological and Environmental Research• Nuclear Physics• Defense Nuclear Nonproliferation For specific list of topics please refer to: http://science.energy.gov/~/media/sbir/pdf/docs/DOEFY13PhaseIRelease1Topics071612.pdf Awards and contact information are specific to each topic.",
     "genre": [
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"small business",
-    	"SME",
-    	"tax incentive"
-    	],
-    	 "id": 88
+       "Energy",
+       "Environment and Energy",
+       "Funding",
+       "Physical Science and Engineering",
+       "Research and Development",
+       "Department of Energy"
+    ],
+    "id": 59
   },
   {
-    "name":"Disabled Access Credit",
-    "link":"https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Tax-Benefits-for-Businesses-Who-Have-Employees-with-Disabilities",
-    "outline":"Businesses that accommodate people with disabilities may qualify for a range of tax credits and deductions. Accommodations can include building and maintaining a wheelchair-accessible ramp, or removing architectural features that prevent the mobility of persons with disabilities or the elderly.",
+    "name": "Startup America Partnership",
+    "link": "/investment-incentives/startup-america-partnership.html",
+    "outline": "The White House What: “Startup America” is a White House initiative to celebrate, inspire, and accelerate high-growth entrepreneurship throughout the nation. This coordinated public/private effort brings the country’s most innovative entrepreneurs, corporations, universities, foundations, and other leaders with a wide range of federal agencies to increase the prevalence and success of America’s entrepreneurs. The Small Business Administration (SBA) will commit $2 billion as a match to private sector investment over the next five years in promising high-growth companies.",
     "genre": [
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"tax incentive",
-    	"disabilities",
-    	"small business",
-    	"SME"
-    	],
-    	 "id": 89
+       "Energy",
+       "Foreign Investors",
+       "Funding",
+       "U.S. Companies",
+       "Information",
+       "Tax Incentives",
+       "Technical Assistance"
+    ],
+    "id": 60
   },
   {
-    "name":"Distilled Spirits Credit",
-    "link":"https://www.irs.gov/uac/Form-8906,-Distilled-Spirits-Credit",
-    "outline":"This tax credit is available to distillers and importers of distilled spirits and eligible wholesalers of distilled spirits.",
+    "name": "Sustainable Manufacturing Initiative (SMI)",
+    "link": "/investment-incentives/sustainable-manufacturing-initiative-smi.html",
+    "outline": "Department of the Commerce Incentive: The Sustainable Manufacturing Initiative (SMI) is a publicly accessible Web site that provides resources to help companies implement sustainable business practices that increase energy efficiency, reduce waste, and pollution and help them better manage resource and material inputs. The SMI Sustainable Business Clearinghouse is the central government portal for businesses to access federal and state-level resources that support U.S. industry’s sustainability needs. And, SMARTs (Sustainable Manufacturing American Regional Tours) educate and inform companies...",
     "genre": [
-    	"Consumer Goods",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"manufacturing",
-    	"tax incentive"
-    	],
-    	 "id": 90
-  },  {
-    "name":"Domestic Production Activities Deduction",
-    "link":"https://www.irs.gov/uac/Form-8903,-Domestic-Production-Activities-Deduction",
-    "outline":"If you hire employees in the United States or base your production and manufacturing activities here, you may be able to claim a 9 percent deduction off your taxes. This deduction is designed to encourage domestic production and covers a broad range of production activities, including selling items manufactured in the United States, construction services, engineering and architectural services, and software development.",
-    "genre": [
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"tax incentive",
-    	"domestic",
-    	"manufacturing",
-    	"construction",
-    	"real estate",
-    	"energy",
-    	"media"
-    	],
-    	 "id": 91
+       "Department of Commerce"
+    ],
+    "id": 61
   },
   {
-    "name":"Energy Efficient Home Credit",
-    "link":"http://www.irs.gov/uac/Form-8908,-Energy-Efficient-Home-Credit",
-    "outline":"As a contractor, if you sell or lease a qualified energy efficient home for another person’s use as a residence, you can use Form 8908 to claim a tax credit based on the home’s energy saving requirements.",
+    "name": "Tax incentives in Renewal Communities (RCs) and Empowerment Zones (EZs)",
+    "link": "/investment-incentives/tax-incentives-renewal-communities-rcs-and-empowerment-zones-ezs.html",
+    "outline": "Provides substantial tax incentives for businesses that hire local residents, upgrade their equipment needs, and build or rehabilitate commercial property, in designated Renewal Communities (RCs) and Empowerment Zones (EZs). For additional information, go to: http://www.hud.gov/offices/cpd/economicdevelopment/programs/rc/businesses/",
     "genre": [
-    	"Professional Services",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"energy",
-    	"construction",
-    	"tax incentive"
-    	],
-    	 "id": 92
+       "Real Estate",
+       "Tax Incentives",
+       "Department of Housing and Urban Development"
+    ],
+    "id": 62
   },
   {
-    "name":"Energy-Efficient Appliance Manufacturing Tax Credit",
-    "link":"http://www.irs.gov/Businesses/Corporations/Manufacturers%27-Energy-Efficient-Appliance-Credit",
-    "outline":"Manufacturers of qualified energy efficient appliances (eligible dishwashers, clothes washers, and refrigerators) can use Form 8909 to claim the energy efficient appliance tax credit.",
+    "name": "The Advocacy Center",
+    "link": "/investment-incentives/advocacy-center.html",
+    "outline": "The Advocacy Center Department of Commerce International Trade Administration The Advocacy Center provides technical assistance, counseling, and advocacy services to U.S. companies exporting their goods and services overseas. The office advocates on behalf of U.S. firms seeking to win foreign procurements and tenders abroad by bringing all appropriate federal government resources to bare. The Advocacy Center works directly with U.S. Embassy personnel worldwide and other key federal agencies, to ensure that U.S. firms can compete on a level playing field with international competitors....",
     "genre": [
-    	"Consumer Goods",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"energy",
-    	"tax incentive",
-    	"manufacturing",
-    	"environment"
-    	],
-    	 "id": 93
-  },  {
-    "name":"Energy-Efficient Commercial Building Tax Deduction",
-    "link":"http://energy.gov/savings/energy-efficient-commercial-buildings-tax-deduction",
-    "outline":"The Commercial Building Tax Deduction expired in January 2015, but may be extended by Congress. This tax deduction relates to expenses incurred for energy efficient building expenditures made by a building owner, such as improvements to interior lighting, HVAC and hot water systems, and building envelope systems.",
-    "genre": [
-    	"Environmental Technology",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"energy",
-    	"tax incentive",
-    	"environment"
-    	],
-    	 "id": 94
+       "Real Estate",
+       "U.S. Companies",
+       "Department of Commerce",
+       "Information",
+       "Technical Assistance"
+    ],
+    "id": 63
   },
   {
-    "name":"Home Office Deduction",
-    "link":"https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Home-Office-Deduction",
-    "outline":"If you use part of your home for business, you may be able to deduct expenses for the business use of your home, including mortgage interest, insurance, utilities, repairs and depreciation. This deduction is available for both homeowners and renters, and applies to all types of homes, including apartments and mobile homes.",
+    "name": "The Export Yellow Pages (EYP)",
+    "link": "/investment-incentives/export-yellow-pages-eyp.html",
+    "outline": "The Export Yellow Pages (EYP) program provides affordable export trade advertising for U.S. firms, to attract new export trade contacts. It is an electronic directory of U.S. producers and export service providers. On the EYP online directory, U.S. firms can register basic information from their company profile for free or they can upgrade their ad for a fee. Company profiles are accessible by international traders worldwide. Eligibility:  Any U.S. firm interested in new export trade contacts can take advantage of this Commerce Department referral tool by visiting exportyellowpages.com....",
     "genre": [
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"operations",
-    	"small business",
-    	"SME",
-    	"tax incentive"
-    	],
-    	 "id": 95
+       "Real Estate",
+       "U.S. Companies",
+       "Department of Commerce",
+       "Information"
+    ],
+    "id": 64
   },
   {
-    "name":"Indian Employment Credit",
-    "link":"http://www.irs.gov/Government-Entities/Indian-Tribal-Governments/FAQs-for-Indian-Tribal-Governments-regarding-the-Indian-Employment-Credit",
-    "outline":"If you hire employees who live on or near an American Indian reservation, you can use Form 8845 to claim a tax credit up to 20 percent of those employees’ wages and health care costs.",
+    "name": "The Office of Intellectual Property Rights (OIPR)",
+    "link": "/investment-incentives/office-intellectual-property-rights-oipr.html",
+    "outline": "Department of the Commerce Incentive: The Office of Intellectual Property Rights (OIPR) provides counseling, special programs and tools to help U.S. companies to protect their intellectual property (such as patents or trademarks or copyrights) abroad. In addition, the OIPR supports the protection of intellectual property rights (IPR) in U.S. trade negotiations. The OIPR helps companies overcome problems they face protecting and enforcing their intellectual property rights overseas. The office develops trade programs and tools to help U.S. businesses and citizens protect and enforce their IPR...",
     "genre": [
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"indian",
-    	"minority",
-    	"native american",
-    	"tax credit"
-    	],
-    	 "id": 96
-  },  {
-    "name":"Investment Credit for Property Owners",
-    "link":"https://www.irs.gov/uac/Form-3468,-Investment-Credit-2",
-    "outline":"As a property owner, you can use Form 3468 to claim tax credits for investing in certain improvement projects on your property. Eligible types of projects include restoring, preserving, or upgrading an older building); producing and storing alternative energy such as wind, solar, or geothermal;  generating clean electricity using coal; converting coal, petroleum, or biomass into usable gas; and projects that reduce greenhouse gas emissions.",
-    "genre": [
-    	"Energy",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"investment",
-    	"tax incentive",
-    	"energy",
-    	"coal",
-    	"research and development"
-    	],
-    	 "id": 97
+       "Real Estate",
+       "Department of Commerce",
+       "Information",
+       "Technical Assistance"
+    ],
+    "id": 65
   },
   {
-    "name":"Low Sulfur Diesel Fuel Production Credit",
-    "link":"https://www.irs.gov/uac/Form-8896,-Low-Sulfur-Diesel-Fuel-Production-Credit",
-    "outline":"Qualified small business refiners may use Form 8896 to claim a tax credit for producing low sulfur diesel fuel.",
+    "name": "Trade Adjustment Assistance for Firms",
+    "link": "/investment-incentives/trade-adjustment-assistance-firms.html",
+    "outline": "Department of Commerce Economic Development Administration Trade Adjustment Assistance for Firms (TAAF) is a federal program that provides financial assistance to manufacturers and service firms affected by import competition. Sponsored by the Department of Commerce's Economic Development Administration (EDA), this cost-sharing federal assistance program helps pay for projects that improve firms' competitiveness.",
     "genre": [
-    	"Energy",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"energy",
-    	"tax incentive",
-    	"clean energy",
-    	"environment"
-    	],
-    	 "id": 98
+       "Real Estate",
+       "Manufacturing",
+       "U.S. Companies",
+       "Department of Commerce",
+       "Information",
+       "Technical Assistance"
+    ],
+    "id": 66
   },
   {
-    "name":"Low-Income Housing Credit",
-    "link":"http://www.irs.gov/uac/Form-8609,-Low-Income-Housing-Credit-Allocation-and-Certification",
-    "outline":"If you own any residential low-income rental buildings, you can use Form 8609 to claim a low-income housing credit for each qualified building over a 10-year credit period.",
+    "name": "Trade Information Center (TIC)",
+    "link": "/investment-incentives/trade-information-center-tic.html",
+    "outline": "Trade Information Center (TIC) Department of the Commerce International Trade Administration Incentive: The Trade Information Center (TIC) provides export counseling to U.S. businesses and individuals by phone and via the Web. The TIC provides direct counseling to U.S. exporters and potential exporters. Also, the TIC is staffed by trade professionals with expertise in specific regions and industry sectors dedicated to working directly with U.S. companies to facilitate exports. A U.S. business may receive counseling on topics ranging from accessing foreign markets for the first time,...",
     "genre": [
-    	"Professional Services",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"real estate",
-    	"construction",
-    	"tax incentive",
-    	"disadvantaged communities"
-    	],
-    	 "id": 99
+       "Real Estate",
+       "Department of Commerce",
+       "Information",
+       "Technical Assistance"
+    ],
+    "id": 67
   },
   {
-    "name":"Manufacturers' Energy Efficient Appliance Credit",
-    "link":"https://www.irs.gov/Businesses/Corporations/Manufacturers'-Energy-Efficient-Appliance-Credit",
-    "outline":"Companies that manufacture dishwashers, washing machines for clothes, or refrigerators can claim a tax credit for each type of qualified energy efficient appliance they produce. The credit amount is based on the type of appliance, its energy efficiency, and for dishwashers and clothes washers, the amount of water it consumes.",
+    "name": "Trade Missions Program",
+    "link": "/investment-incentives/trade-missions-program.html",
+    "outline": "Trade Missions Program Department of the Commerce International Trade Administration Incentive: The International Trade Administration (ITA) Trade Missions Program offers a proven, cost-effective tool for helping U.S. companies learn first-hand about global markets. The Trade Missions Program recruits U.S. companies whose goal is to export their products and services.  These U.S.",
     "genre": [
-    	"Consumer Goods",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"energy",
-    	"tax incentive",
-    	"manufacturing"
-    	],
-    	 "id": 100
+       "Real Estate",
+       "Department of Commerce",
+       "Information",
+       "Technical Assistance"
+    ],
+    "id": 68
   },
   {
-    "name":"Mine Rescue Team Training Credit",
-    "link":"http://www.irs.gov/uac/Form-8923,-Mine-Rescue-Team-Training-Credit",
-    "outline":"If you employ individuals as miners in U.S. underground mines, you can use Form 8923 to claim a tax credit to cover training program costs for qualified mine rescue team employees.",
+    "name": "U.S. Export Assistance Centers (USEACs)",
+    "link": "/investment-incentives/us-export-assistance-centers-useacs.html",
+    "outline": "U.S. Export Assistance Centers (USEACs) Department of the Commerce International Trade Administration Incentive: U.S. Export Assistance Centers (USEACs) provide front-line outreach and service operations for U.S. exporters. There are International Trade specialists based in more than 100 USEACs located across the United States and Puerto Rico. The centers assist U.S. businesses that are new to exporting, want to expand to additional export markets, or want to increase their market share in existing markets.",
     "genre": [
-    	"Energy",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"mining",
-    	"tax incentive"
-    	],
-    	 "id": 101
+       "U.S. Companies",
+       "Department of Commerce",
+       "Information",
+       "Technical Assistance"
+    ],
+    "id": 69
   },
   {
-    "name":"Modified Accelerated Cost Recovery System (MACRS)",
-    "link":"http://www.irs.gov/publications/p946/ch04.html",
-    "outline":"You may be able to deduct your business or investment property's depreciation value from your federal taxes, depending on the property's recovery class, placed in service date, and basis. The Modified Accelerated Cost Recovery System (MACRS) consists of two depreciation systems, the General Depreciation System (GDS) and the Alternative Depreciation System (ADS), which provide different methods and recovery periods to use in figuring depreciation deductions.",
+    "name": "U.S. Foreign-Trade Zones (FTZ) Program",
+    "link": "/investment-incentives/us-foreign-trade-zones-ftz-program.html",
+    "outline": "Through the U.S. Foreign-Trade Zones (FTZ) Program, a company can reduce their production, transaction, and logistics-related costs. Foreign-trade zones are secure areas under supervision of U.S. Customs and Border Protection that are considered outside the customs territory of the United States for the purposes of duty payment. Located in or near customs ports of entry, they are the U.S. version of what are known internationally as free trade zones. The FTZ Program licenses local agencies in all 50 states and Puerto Rico to establish FTZ locations where foreign merchandise can be imported...",
     "genre": [
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"investment",
-    	"business operations",
-    	"tax incentive"
-    	],
-    	 "id": 102
+       "Foreign Investors",
+       "U.S. Companies",
+       "Department of Commerce",
+       "Information",
+       "Tax Incentives",
+       "Technical Assistance"
+    ],
+    "id": 70
   },
   {
-    "name":"New Markets Tax Credit",
-    "link":"http://www.irs.gov/pub/irs-utl/atgnmtc.pdf",
-    "outline":"If you make a qualified equity investment in a certified community development entity (CDE) serving low-income communities or persons, you can claim a tax credit on your individual or corporate federal taxes.",
+    "name": "United States Trade Development Agency (USTDA)",
+    "link": "/investment-incentives/united-states-trade-development-agency-ustda.html",
+    "outline": "USTDA is an independent U.S. Government foreign assistance agency that is funded by the U.S. Congress. Our mission is to help companies create U.S. jobs through the export of U.S. goods and services for priority development projects in emerging economies. USTDA links U.S. businesses to export opportunities by funding project planning activities, pilot projects, and reverse trade missions while creating sustainable infrastructure and economic growth in partner countries. USTDA provides grant funding to overseas project sponsors for the planning of projects that support the development of...",
     "genre": [
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"disadvantaged communities",
-    	"investment",
-    	"business operations",
-    	"tax incentive",
-    	"financing",
-    	"small business"
-    	],
-    	 "id": 103
+       "Funding",
+       "Information",
+       "Technical Assistance"
+    ],
+    "id": 71
   },
   {
-    "name":"Nonconventional Source Fuel Credit",
-    "link":"http://www.irs.gov/uac/About-Form-8907",
-    "outline":"You can use Form 8907 to claim a tax credit if you produce and sell fuel from a qualified non-conventional source, including oil from shale or tar sands, synthetic fuels from coal, and gas from biomass and coalbed methane.",
+    "name": "Work Opportunity Tax Credit (WOTC)",
+    "link": "/investment-incentives/work-opportunity-tax-credit-wotc.html",
+    "outline": "The Work Opportunity Tax Credit (WOTC) is a Federal tax credit incentive that the Congress provides to private-sector businesses for hiring individuals from twelve target groups who have consistently faced significant barriers to employment. The main objective of this program is to enable the targeted employees to gradually move from economic dependency into self-sufficiency as they earn a steady income and become contributing taxpayers, while the participating employers are compensated by being able to reduce their federal income tax liability.",
     "genre": [
-    	"Energy",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"energy",
-    	"tax incentive"
-    	],
-    	 "id": 104
+       "Funding",
+       "Tax Incentives",
+       "Department of Labor"
+    ],
+    "id": 72
   },
-  {
-    "name":"Orphan Drug Credit",
-    "link":"http://www.irs.gov/uac/Form-8820,-Orphan-Drug-Credit",
-    "outline":"As a pharmaceutical company, if you work to develop treatments and cures for certain rare diseases, you can use Form 8820 to claim a tax credit of 50 percent of your clinical drug testing costs under Section 505(i) of the Federal Food, Drug and Cosmetic Act.",
-    "genre": [
-    	"Pharmaceuticals and Biotech",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"research and development",
-    	"pharmaceutical",
-    	"tax incentive"
-    	],
-    	 "id": 105
-  },
-  {
-    "name":"Plug-in Electric Drive Vehicle Credit",
-    "link":"https://www.irs.gov/Credits-&-Deductions/Individuals/Plug-In-Electric-Drive-Vehicle-Credit-Section-30D",
-    "outline":"If you purchase a car, light truck, or motorcycle that draws energy from a rechargeable battery, you can use Form 8934 or 8936 to claim a tax credit of up to $7,500, depending on the capacity of the battery.",
-    "genre": [
-    	"Logistics and Transportation",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"tax incentive",
-    	"business operations"
-    	],
-    	 "id": 106
-  },
-  {
-    "name":"Qualified Railroad Track Maintenance Credit",
-    "link":"http://www.irs.gov/uac/About-Form-8900",
-    "outline":"As the owner of a short line or regional railroad, you can use Form 8900 to claim a tax credit equaling 50 percent of your qualified track maintenance costs and certain other railroad infrastructure projects.",
-    "genre": [
-    	"Logistics and Transportation",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"railroad",
-    	"tax incentive"
-    	],
-    	 "id": 107
-  },
-  {
-    "name":"Renewable Electricity, Refined Coal and Indian Coal Production Credit",
-    "link":"http://www.irs.gov/uac/Form-8835,-Renewable-Electricity,-Refined-Coal,-and-Indian-Coal-Production-Credit",
-    "outline":"If you sell electricity, refined coal, or Indian coal produced in the United States from qualified energy resources, you can use Form 8835 to claim a tax credit. Eligible energy resources include wind, biomass, poultry waste, geothermal, solar, municipal solid waste, and hydropower, in addition to refined coal and Indian coal.",
-    "genre": [
-    	"Energy",
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"energy",
-    	"renewable energy",
-    	"tax incentive",
-    	"indian",
-    	"mining"
-    	],
-    	 "id": 108
-  },
-  {
-    "name":"Small Business Health Care Tax Credit for Small Employers",
-    "link":"http://www.irs.gov/uac/Form-8941,-Credit-for-Small-Employer-Health-Insurance-Premiums",
-    "outline":"As an eligible small employer with fewer than 25 full-time employees, you can use Form 8941 to claim a tax credit of up to 50 percent of premiums paid for your employees’ health insurance.",
-    "genre": [
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"healthcare",
-    	"small business",
-    	"SME",
-    	"tax incentive"
-    	],
-    	 "id": 109
-  },
-  {
-    "name":"Tax Incentives in Renewal Communities (RCs)",
-    "link":"http://portal.hud.gov/hudportal/HUD?src=/program_offices/comm_planning/economicdevelopment/programs/rc/businesses",
-    "outline":"For businesses that hire local residents, upgrade their equipment needs, and build or rehabilitate commercial property, there is substantial cash savings possible on taxes paid through special federal tax incentives reserved exclusively in Renewal Communities (RCs) and Empowerment Zones (EZs). These employer incentives include yearly employment and work opportunity tax credits, as well as accelerated depreciation through commercial revitalization deductions (CRDs). There are also substantial capital gains tax savings available to qualifying businesses in Renewal Communities and Empowerment Zones, and incentives for businesses that upgrade their equipment needs.",
-    "genre": [
-    	"Tax Credits and Deductions",
-    	"HUD",
-    	"disadvantaged communities",
-    	"tax incentive"
-    	],
-    	 "id": 110
-  },
-  {
-    "name":"Taxpayer Advocate Service",
-    "link":"https://www.irs.gov/Advocate/Local-Taxpayer-Advocate",
-    "outline":"The Taxpayer Advocate Service is an independent organization within the IRS that offers free help to guide business owners through the process of resolving tax problems that you haven’t been able to solve on your own. Each U.S. state and territory has at least one Local Taxpayer Advocate who is independent of the local IRS office and reports directly to the National Taxpayer Advocate.",
-    "genre": [
-    	"Miscellaneous Assistance and Counseling",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"advocacy",
-    	"counseling",
-    	"information",
-    	"tax"
-    	],
-    	 "id": 111
-  },
-  {
-    "name":"Work Opportunity Tax Credit",
-    "link":"https://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Work-Opportunity-Tax-Credit-1",
-    "outline":"As an employer, if you hire individuals from certain target groups, you can use Form 5884 to claim a tax credit covering 25 to 50 percent of those employees’ wages. Eligible targeted groups have consistently faced significant barriers to employment, and include certain veterans, certain ex-felons, recipients of SNAP assistance (food stamps) and various other assistance programs, designated community residents, and vocational rehabilitation referrals.",
-    "genre": [
-    	"Tax Credits and Deductions",
-    	"Treasury",
-    	"Internal Revenue Service",
-    	"minority",
-    	"tax incentive"
-    	],
-    	 "id": 112
-  },
-  {
-    "name":"Food Safety Inspection Service (FSIS)",
-    "link":"http://www.fsis.usda.gov/wps/portal/fsis/topics/regulatory-compliance",
-    "outline":"The Food Safety Inspection Service (FSIS) provides information to agricultural producers and businesses to help them comply with food safety related federal regulations for commercial production and supply of meat, poultry and egg products.",
-    "genre": [
-    	"Consumer Goods",
-    	"Miscellaneous Assistance and Counseling",
-    	"USDA",
-    	"Food Safety and Inspection Service",
-    	"agriculture",
-    	"compliance",
-    	"counseling",
-    	"regulation",
-    	"business operations"
-    	],
-    	 "id": 113
-  },
-  {
-    "name":"Office of Economic Adjustment (OEA)",
-    "link":"https://www.oea.gov/programs/information/oea-can-help",
-    "outline":"",
-    "genre": [
-    	"Defense",
-    	"Office of Economic Adjustment (OEA)",
-    	"economic",
-    	"adjustment",
-    	"assistance"
-    	],
-    	 "id": 114
-  },
-  {
-    "name":"Office of Manufacturing and Industrial Base Policy",
-    "link":"http://www.acq.osd.mil/dpap/cpic/cp/docs/Doing_Business_with_DoD_%282Jun14%29.pdf",
-    "outline":"",
-    "genre": [
-    	"Miscellaneous Assistance and Counseling",
-    	"Defense",
-    	"Office of Manufacturing and Industrial Base Policy",
-    	"manufacturing",
-    	"industrial base policy"
-    	],
-    	 "id": 115
-  },
-  {
-    "name":"Office of Small and Disadvantaged Business Utilization",
-    "link":"https://www.whitehouse.gov/sites/default/files/docs/white_house_business_council_-_guide_to_hiring_veterans_0.pdf",
-    "outline":"",
-    "genre": [
-    	"Miscellaneous Assistance and Counseling",
-    	"VA",
-    	"Office of Small and Disadvantaged Business Utilization",
-    	"veterans",
-    	"government contracts",
-    	"defense contracts"
-    	],
-    	 "id": 116
-  }
 ]
