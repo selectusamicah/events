@@ -1,5 +1,5 @@
 ---
-permalink: "events/italy-seminars-feb2016.html"
+permalink: "events/italy-seminars.html"
 layout: sidebar
 title: SelectUSA Italy Seminars
 date-display-start: February 17
