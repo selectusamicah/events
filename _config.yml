@@ -1,6 +1,5 @@
 name: Events
 highlighter: pygments
-url: "http://selectusa.github.io"
 baseurl: "/events"
 exclude:
   - .bundle
