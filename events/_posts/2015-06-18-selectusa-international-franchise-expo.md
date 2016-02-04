@@ -1,5 +1,5 @@
 ---
-permalink: "events/selectusa-international-franchise-expo.html"
+permalink: "selectusa-international-franchise-expo.html"
 layout: sidebar
 title: SelectUSA at the International Franchise Expo
 date-display-start: June 18

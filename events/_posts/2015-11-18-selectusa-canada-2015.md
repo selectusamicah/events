@@ -1,5 +1,5 @@
 ---
-permalink: "events/selectusa-canada-2015.html"
+permalink: "selectusa-canada-2015.html"
 layout: sidebar
 title: SelectUSA Canada 2015
 date-display-start: November 17, 2015

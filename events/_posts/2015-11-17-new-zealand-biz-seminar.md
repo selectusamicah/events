@@ -1,5 +1,5 @@
 ---
-permalink: "events/selectusa-nz-biz-seminar.html"
+permalink: "selectusa-nz-biz-seminar.html"
 layout: sidebar
 title: SelectUSA at the New Zealand Business Seminar
 date-display-start: November 17

@@ -1,5 +1,5 @@
 ---
-permalink: "events/india-road-show.html"
+permalink: "india-road-show.html"
 layout: sidebar
 title: SelectUSA India Road Show
 date-display-start: October 13

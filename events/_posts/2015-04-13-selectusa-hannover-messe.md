@@ -1,5 +1,5 @@
 ---
-permalink: "events/selectusa-hannover-messe.html"
+permalink: "selectusa-hannover-messe.html"
 layout: sidebar
 title: SelectUSA at Hannover Messe 2015
 date-display-start: April 13

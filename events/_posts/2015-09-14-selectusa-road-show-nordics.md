@@ -1,5 +1,5 @@
 ---
-permalink: "events/selectusa-road-show-nordics.html"
+permalink: "selectusa-road-show-nordics.html"
 layout: sidebar
 title: SelectUSA Nordic Road Show
 date-display-start: September 14

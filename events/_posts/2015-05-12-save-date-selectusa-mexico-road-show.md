@@ -1,5 +1,5 @@
 ---
-permalink: "events/save-date-selectusa-mexico-road-show.html"
+permalink: "save-date-selectusa-mexico-road-show.html"
 layout: sidebar
 title: SelectUSA Mexico Road Show
 date-display-start: May 12

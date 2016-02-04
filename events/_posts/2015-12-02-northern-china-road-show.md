@@ -1,5 +1,5 @@
 ---
-permalink: "events/northern-china-road-show.html"
+permalink: "northern-china-road-show.html"
 layout: sidebar
 title: SelectUSA Northern China Road Show
 date-display-start: December 2

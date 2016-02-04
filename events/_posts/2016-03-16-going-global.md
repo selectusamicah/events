@@ -1,5 +1,5 @@
 ---
-permalink: "events/going-global.html"
+permalink: "going-global.html"
 layout: sidebar
 title: SelectUSA Going Global Seminars
 date-display-start: March 14

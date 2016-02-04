@@ -1,5 +1,5 @@
 ---
-permalink: "events/selectusa-summer-forum.html"
+permalink: "selectusa-summer-forum.html"
 layout: sidebar
 title: SelectUSA Summer Forum
 date-display-start: June 17, 2014

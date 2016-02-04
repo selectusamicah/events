@@ -1,5 +1,5 @@
 ---
-permalink: "events/canada-auto-show.html"
+permalink: "canada-auto-show.html"
 layout: sidebar
 title: Canadian International Auto Show
 date-display-start: February 11, 2016

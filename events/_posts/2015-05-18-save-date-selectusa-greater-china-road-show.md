@@ -1,5 +1,5 @@
 ---
-permalink: "events/save-date-selectusa-greater-china-road-show.html"
+permalink: "save-date-selectusa-greater-china-road-show.html"
 layout: sidebar
 title: SelectUSA Greater China Road Show
 date-display-start: May 18

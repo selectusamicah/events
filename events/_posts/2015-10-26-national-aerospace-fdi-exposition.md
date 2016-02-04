@@ -1,5 +1,5 @@
 ---
-permalink: "events/national-aerospace-fdi-exposition.html"
+permalink: "national-aerospace-fdi-exposition.html"
 layout: sidebar
 title: National Aerospace FDI Exposition
 date-display-start: October 26

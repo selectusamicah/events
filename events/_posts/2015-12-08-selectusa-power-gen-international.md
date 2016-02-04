@@ -1,5 +1,5 @@
 ---
-permalink: "events/selectusa-power-gen-international.html"
+permalink: "selectusa-power-gen-international.html"
 layout: sidebar
 title: SelectUSA at POWER-GEN International
 date-display-start: December 8

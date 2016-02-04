@@ -1,5 +1,5 @@
 ---
-permalink: "events/japan-road-show.html"
+permalink: "japan-road-show.html"
 layout: sidebar
 title: SelectUSA Japan Road Show
 date-display-start: February 1

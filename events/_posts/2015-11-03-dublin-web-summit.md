@@ -1,5 +1,5 @@
 ---
-permalink: "events/dublin-web-summit.html"
+permalink: "dublin-web-summit.html"
 layout: sidebar
 title: SelectUSA at Web Summit
 date-display-start: November 3

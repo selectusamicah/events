@@ -1,5 +1,5 @@
 ---
-permalink: "events/amcham-selectusa-pitch.html"
+permalink: "amcham-selectusa-pitch.html"
 layout: sidebar
 title: AmCham and SelectUSA Startup Pitch Competition
 date-display-start: January 21, 2016

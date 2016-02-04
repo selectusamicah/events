@@ -1,5 +1,5 @@
 ---
-permalink: "events/us-turkey-summit.html"
+permalink: "us-turkey-summit.html"
 layout: sidebar
 title: SelectUSA at the US Turkey Investment Summit
 date-display-start: February 24, 2016

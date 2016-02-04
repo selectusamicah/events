@@ -1,5 +1,5 @@
 ---
-permalink: "events/selectusa-2015-investment-summit.html"
+permalink: "selectusa-2015-investment-summit.html"
 layout: sidebar
 title: SelectUSA 2015 Investment Summit
 date-display-start: March 23

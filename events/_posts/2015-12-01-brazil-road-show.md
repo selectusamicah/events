@@ -1,5 +1,5 @@
 ---
-permalink: "events/selectusa-brazil-road-show.html"
+permalink: "selectusa-brazil-road-show.html"
 layout: sidebar
 title: SelectUSA Brazil Road Show
 date-display-start: December 1

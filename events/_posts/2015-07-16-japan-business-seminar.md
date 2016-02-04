@@ -1,5 +1,5 @@
 ---
-permalink: "events/japan-business-seminar.html"
+permalink: "japan-business-seminar.html"
 layout: sidebar
 title: U.S. Business Seminars in Japan
 date-display-start: July 16

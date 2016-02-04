@@ -1,5 +1,5 @@
 ---
-permalink: events/expanding-to.html
+permalink: expanding-to.html
 layout: sidebar
 title: SelectUSA at the International Investment & Expansion Virtual Summit
 date-display-start: November 12, 2015
@@ -18,7 +18,7 @@ published: true
 
 ![Location]({{ site.baseurl }}/icons/location_city.svg "Location") {{ page.location-value }}
 
-The first day of the [2015 Virtual International Investment & Expansion Summit](http://expandingto.com/ourvirtualevents/) will focus on how to invest in the United States. Cross-border investors will have the opportunity to network with each other and connect with government agencies (including SelectUSA), economic development organizations (EDOs), professional service providers, and market entry professionals.
+The first day of the [2015 Virtual International Investment & Expansion Summit](http://expandingto.com/ourvirtual) will focus on how to invest in the United States. Cross-border investors will have the opportunity to network with each other and connect with government agencies (including SelectUSA), economic development organizations (EDOs), professional service providers, and market entry professionals.
 
 SelectUSA Investment Specialists Seth Isenberg and Andre Leal will speak at the event about investing in the United States, and will be available at the virtual SelectUSA booth to answer any questions you may have. 
 

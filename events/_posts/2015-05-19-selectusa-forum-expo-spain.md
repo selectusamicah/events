@@ -1,5 +1,5 @@
 ---
-permalink: "events/selectusa-forum-expo-spain.html"
+permalink: "selectusa-forum-expo-spain.html"
 layout: sidebar
 title: SelectUSA Forum & Expo in Spain
 date-display-start: May 19, 2015

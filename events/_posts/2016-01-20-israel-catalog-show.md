@@ -1,5 +1,5 @@
 ---
-permalink: "events/israel-catalog-show1.html"
+permalink: "israel-catalog-show1.html"
 title: SelectUSA Israel Catalog Show
 layout: sidebar
 date-display-start: January 20, 2016

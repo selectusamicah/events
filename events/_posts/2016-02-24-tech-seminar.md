@@ -1,5 +1,5 @@
 ---
-permalink: "events/tech-seminar-italy.html"
+permalink: "tech-seminar-italy.html"
 layout: sidebar
 title: SelectUSA Tech Seminar
 date-display-start: February 24, 2016

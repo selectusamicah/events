@@ -1,5 +1,5 @@
 ---
-permalink: "events/selectusa-taiwan-road-show.html"
+permalink: "selectusa-taiwan-road-show.html"
 layout: sidebar
 title: SelectUSA Taiwan Road Show
 date-display-start: August 5

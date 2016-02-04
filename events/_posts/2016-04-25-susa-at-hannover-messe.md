@@ -1,5 +1,5 @@
 ---
-permalink: "events/selectusa-hannover-messe-2016.html"
+permalink: "selectusa-hannover-messe-2016.html"
 layout: sidebar
 title: SelectUSA at Hannover Messe 2016
 date-display-start: April 25
