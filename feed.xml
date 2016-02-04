@@ -12,9 +12,9 @@ layout: none
   <item>
     <title>{{ post.title | xml_escape }}</title>
     <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-    <pubDate>{{ post.date | date: '%B %d, %Y' }}</pubDate>
     <location>{{ post.location | xml_escape }}</location>
     <eventType>{{ post.type | xml_escape }}</eventType>
+    <pubDate>{{ post.date | date: '%B %d, %Y' }}</pubDate>
   </item>
     {% endfor %}
   </channel>
