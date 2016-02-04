@@ -1,6 +1,6 @@
 name: Events
 highlighter: rouge
-baseurl: "/events"
+url: "http://selectusa.github.io"
 exclude:
   - .bundle
   - .git

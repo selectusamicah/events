@@ -5,12 +5,14 @@ layout: none
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
   {% for post in site.categories.events reversed %}
+  <item>
     <title>{{ post.title | xml_escape }}</title>
     <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
     <startDate>{{ post.date-display-start | xml_escape }}</startDate>
     <endDate>{{ post.date-display-end | xml_escape }}</endDate>
     <location>{{ post.location-value | xml_escape }}</location>
     <eventType>{{ post.location-type | xml_escape }}</eventType>
+  </item>
     {% endfor %}
   </channel>
 </rss>
