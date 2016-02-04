@@ -118,7 +118,7 @@
 
 								<!-- logo -->
 								<div class="logo">
-									<a href="https://selectusademo.trade.gov/page?id=a10t0000000CbT4AAK"><img id="logo" src="images/SelectUSA-Logo-hr.png" width="250" alt="logo"></a>
+									<a href="https://selectusademo.trade.gov/page?id=a10t0000000CbT4AAK"><img id="logo" src="{{ site.baseurl }}/images/SelectUSA-Logo-hr.png" width="250" alt="logo"></a>
 								</div>
 
 
