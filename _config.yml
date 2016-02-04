@@ -1,5 +1,5 @@
 name: Events
-baseurl: "/events/"
+baseurl: "/events"
 highlighter: rouge
 exclude:
   - .bundle
