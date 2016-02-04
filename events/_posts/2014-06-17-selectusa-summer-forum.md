@@ -2,8 +2,8 @@
 permalink: "events/selectusa-summer-forum.html"
 layout: sidebar
 title: SelectUSA Summer Forum
-date-display-start: Tue, 06/17/2014
-date-display-end:  Tue, 06/17/2014
+date-display-start: June 17, 2014
+date-display-end:  June 17, 2014
 calendar-start: 2014-06-17
 calendar-end: 2014-06-17
 location-value:  Washington, DC

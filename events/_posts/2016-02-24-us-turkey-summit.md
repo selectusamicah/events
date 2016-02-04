@@ -1,12 +1,12 @@
 ---
 permalink: "events/us-turkey-summit.html"
 layout: sidebar
-title: SelectUSA at the U.S.-Turkey Investment Summit
+title: SelectUSA at the US Turkey Investment Summit
 date-display-start: February 24, 2016
 date-display-end: February 24, 2016
 calendar-start: 2016-02-24
 calendar-end: 2016-02-24
-location-value: Washington, D.C.
+location-value: Washington, DC
 location-type: Domestic
 section: events
 published: true

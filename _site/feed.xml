@@ -4,22 +4,22 @@
   
     <title>SelectUSA Summer Forum</title>
     <link>/events/selectusa-summer-forum.html</link>
-    <startDate>Tue, 06/17/2014</startDate>
-    <endDate>Tue, 06/17/2014</endDate>
+    <startDate>June 17, 2014</startDate>
+    <endDate>June 17, 2014</endDate>
     <location>Washington, DC</location>
     <eventType>Domestic</eventType>
     
     <title>SelectUSA at CAR-Symposium</title>
     <link>/events/selectusa-car-symposium.html</link>
-    <startDate>Wed, 2/04/2015</startDate>
-    <endDate>Wed, 2/04/2015</endDate>
+    <startDate>February 4, 2015</startDate>
+    <endDate>February 4, 2015</endDate>
     <location>Bochum, Germany</location>
     <eventType>International</eventType>
     
     <title>SelectUSA Investment Center at the Canadian International Auto Show (CIAS)</title>
     <link>/events/selectusa-investment-center-canadian-international-auto-show-cias.html</link>
-    <startDate>Thu, 02/12/2015</startDate>
-    <endDate>Thu, 02/12/2015</endDate>
+    <startDate>February 12, 2015</startDate>
+    <endDate>February 12, 2015</endDate>
     <location>Toronto, Canada</location>
     <eventType>International</eventType>
     
@@ -174,8 +174,8 @@
     <link>/events/guangzhou-auto-show.html</link>
     <startDate>November 21, 2015</startDate>
     <endDate>November 21, 2015</endDate>
-    <location></location>
-    <eventType></eventType>
+    <location>Guangzhou, China</location>
+    <eventType>International</eventType>
     
     <title>SelectUSA Brazil Road Show</title>
     <link>/events/selectusa-brazil-road-show.html</link>
@@ -226,14 +226,14 @@
     <location>Tel Aviv, Israel</location>
     <eventType>International</eventType>
     
-    <title>AmCham &amp; SelectUSA Startup Pitch Competition</title>
+    <title>AmCham and SelectUSA Startup Pitch Competition</title>
     <link>/events/amcham-selectusa-pitch.html</link>
     <startDate>January 21, 2016</startDate>
     <endDate>January 21, 2016</endDate>
     <location>Paris France</location>
     <eventType>International</eventType>
     
-    <title>Paris Île-de-France Regional CCI Forum</title>
+    <title>Paris Ile de France Regional CCI Forum</title>
     <link>/events/icc-paris.html</link>
     <startDate>January 28, 2016</startDate>
     <endDate>January 28, 2016</endDate>
@@ -246,6 +246,76 @@
     <endDate>5, 2016</endDate>
     <location>Tokyo, Nagoya, Osaka, and Fukuoka</location>
     <eventType>International</eventType>
+    
+    <title>SelectUSA Israel Catalog Show</title>
+    <link>/events/israel-catalog-show2.html</link>
+    <startDate>February 9, 2016</startDate>
+    <endDate>February 9, 2016</endDate>
+    <location>Tel Aviv, Israel</location>
+    <eventType>International</eventType>
+    
+    <title>Canadian International Auto Show</title>
+    <link>/events/canada-auto-show.html</link>
+    <startDate>February 11, 2016</startDate>
+    <endDate>February 11, 2016</endDate>
+    <location>Toronto, Canada</location>
+    <eventType>International</eventType>
+    
+    <title>SelectUSA at ICAs FDI Training Seminar</title>
+    <link>/events/selectusa-ica-workshop-2016.html</link>
+    <startDate>February 11</startDate>
+    <endDate>12, 2016</endDate>
+    <location>Chicago, IL</location>
+    <eventType>Domestic</eventType>
+    
+    <title>SelectUSA Italy Seminars</title>
+    <link>/events/italy-seminars-feb2016.html</link>
+    <startDate>February 17</startDate>
+    <endDate>18, 2016</endDate>
+    <location>Milan and Florence, Italy</location>
+    <eventType>International</eventType>
+    
+    <title>SelectUSA Chemical Industries FDI Seminar</title>
+    <link>/events/chem-industries-fdi-sem.html</link>
+    <startDate>February 24, 2016</startDate>
+    <endDate>February 24, 2016</endDate>
+    <location>Brussels, Belgium</location>
+    <eventType>International</eventType>
+    
+    <title>SelectUSA Tech Seminar</title>
+    <link>/events/tech-seminar-italy.html</link>
+    <startDate>February 24, 2016</startDate>
+    <endDate>February 24, 2016</endDate>
+    <location>Milan, Italy</location>
+    <eventType>International</eventType>
+    
+    <title>SelectUSA at the US Turkey Investment Summit</title>
+    <link>/events/us-turkey-summit.html</link>
+    <startDate>February 24, 2016</startDate>
+    <endDate>February 24, 2016</endDate>
+    <location>Washington, DC</location>
+    <eventType>Domestic</eventType>
+    
+    <title>SelectUSA Going Global Seminars</title>
+    <link>/events/going-global.html</link>
+    <startDate>March 14</startDate>
+    <endDate>23, 2016</endDate>
+    <location>Rennes, Lyon, Marseille and Nice, France</location>
+    <eventType>International</eventType>
+    
+    <title>SelectUSA at Hannover Messe 2016</title>
+    <link>/events/selectusa-hannover-messe-2016.html</link>
+    <startDate>April 25</startDate>
+    <endDate>29, 2016</endDate>
+    <location>Hannover, Germany</location>
+    <eventType>International</eventType>
+    
+    <title>SelectUSA Investment Summit</title>
+    <link>/2016-summit.html</link>
+    <startDate>June 19</startDate>
+    <endDate>21, 2016</endDate>
+    <location>Washington, DC</location>
+    <eventType>Domestic</eventType>
     
   </channel>
 </rss>

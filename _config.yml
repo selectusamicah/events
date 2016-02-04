@@ -11,5 +11,6 @@ exclude:
   - Gemfile.lock
   - vendor
 markdown: kramdown
+future: true
 collections:
 - events
