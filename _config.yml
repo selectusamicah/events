@@ -1,4 +1,5 @@
 name: Events
+url: "http://selectusa.github.io"
 baseurl: "/events"
 highlighter: rouge
 exclude:
