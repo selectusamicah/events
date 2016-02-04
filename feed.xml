@@ -7,7 +7,7 @@ layout: none
   {% for post in site.categories.events reversed %}
   <item>
     <title>{{ post.title | xml_escape }}</title>
-    <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+    <link>{{ post.url | prepend: site.url }}</link>
     <startDate>{{ post.date-display-start | xml_escape }}</startDate>
     <endDate>{{ post.date-display-end | xml_escape }}</endDate>
     <location>{{ post.location-value | xml_escape }}</location>
