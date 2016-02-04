@@ -8,6 +8,8 @@ calendar-start: 2015-11-21
 calendar-end: 2015-11-21
 location-value: Guangzhou, China
 location-type: International
+location: Guangzhou, China
+type: International
 section: events
 published: true
 ---

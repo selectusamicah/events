@@ -8,6 +8,8 @@ calendar-start: 2016-02-17
 calendar-end: 2016-02-18
 location-value: Milan and Florence, Italy
 location-type: International
+location: Milan and Florence, Italy
+type: International
 section: events
 published: true
 ---

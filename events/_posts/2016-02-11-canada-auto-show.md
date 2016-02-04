@@ -8,6 +8,8 @@ calendar-start: 2016-02-11
 calendar-end: 2016-02-11
 location-value: Toronto, Canada
 location-type: International
+location: Toronto, Canada
+type: International
 section: events
 published: true
 ---

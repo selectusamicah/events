@@ -8,6 +8,8 @@ calendar-start: 2015-12-08
 calendar-end": 2015-12-10
 location-value: Las Vegas, NV
 location-type: Domestic
+location: Las Vegas, NV
+type: Domestic
 section: events
 published: false
 ---

@@ -8,6 +8,8 @@ calendar-start: 2016-01-21
 calendar-end: 2016-01-21
 location-value: Paris France
 location-type: International
+location: Paris France
+type: International
 section: events
 published: true
 ---

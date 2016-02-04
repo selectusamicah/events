@@ -8,6 +8,8 @@ calendar-start: 2015-11-06
 calendar-end: 2015-11-06
 location-value: Conference Call
 location-type: Online
+location: Conference Call
+type: Online
 section: events 
 published: true 
 --- 

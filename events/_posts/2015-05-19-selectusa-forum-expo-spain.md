@@ -8,6 +8,8 @@ calendar-start: 2015-05-19
 calendar-end: 2015-05-19
 location-value: Madrid, Spain
 location-type: International
+location: Madrid, Spain
+type: International
 section: events
 published: true
 ---

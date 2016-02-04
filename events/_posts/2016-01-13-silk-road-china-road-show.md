@@ -8,6 +8,8 @@ calendar-start: 2016-01-13
 calendar-end: 2016-01-18
 location-value: Beijing, Urumqi, and Chengdu
 location-type: International
+location: Beijing, Urumqi, and Chengdu
+type: International
 section: events
 published: true
 ---

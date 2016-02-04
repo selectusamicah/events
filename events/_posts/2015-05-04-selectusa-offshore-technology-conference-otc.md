@@ -8,6 +8,8 @@ calendar-start: 2015-05-04
 calendar-end: 2015-05-07
 location-value:  Houston, TX
 location-type: Domestic
+location:  Houston, TX
+type: Domestic
 section: events
 published: true
 ---

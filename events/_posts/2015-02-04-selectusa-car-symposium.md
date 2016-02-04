@@ -8,6 +8,8 @@ calendar-start: 2015-02-04
 calendar-end: 2015-02-04
 location-value:  Bochum, Germany 
 location-type: International
+location:  Bochum, Germany 
+type: International
 section: events
 published: true
 ---

@@ -8,6 +8,8 @@ calendar-start: 2015-06-18
 calendar-end: 2015-06-20
 location-value: New York, NY
 location-type: Domestic
+location: New York, NY
+type: Domestic
 section: events
 published: true
 ---

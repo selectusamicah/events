@@ -8,6 +8,8 @@ calendar-start: 2015-06-30
 calendar-end: 2015-06-30
 location-value: Online
 location-type: Online
+location: Online
+type: Online
 section: events
 published: true
 ---

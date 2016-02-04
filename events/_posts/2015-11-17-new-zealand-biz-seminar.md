@@ -8,6 +8,8 @@ calendar-start: 2015-11-17
 calendar-end: 2015-11-19
 location-value: Auckland, Christchurch and Wellington, New Zealand
 location-type: International
+location: Auckland, Christchurch and Wellington, New Zealand
+type: International
 section: events
 published: true
 ---

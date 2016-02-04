@@ -8,6 +8,8 @@ calendar-start: 2015-07-16
 calendar-end: 2015-07-17
 location-value: Takamatsu, Hiroshima
 location-type: International
+location: Takamatsu, Hiroshima
+type: International
 section: events
 published: true
 ---

@@ -8,6 +8,8 @@ calendar-start: 2016-02-01
 calendar-end: 2016-02-05
 location-value: Tokyo, Nagoya, Osaka, and Fukuoka
 location-type: International
+location: Tokyo, Nagoya, Osaka, and Fukuoka
+type: International
 section: events
 published: true
 ---

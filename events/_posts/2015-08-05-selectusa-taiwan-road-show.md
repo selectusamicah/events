@@ -8,6 +8,8 @@ calendar-start: 2015-08-05
 calendar-end: 2015-08-06
 location-value: Taipei and Kaohsiung, Taiwan
 location-type: International
+location: Taipei and Kaohsiung, Taiwan
+type: International
 section: events
 published: true
 ---

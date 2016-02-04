@@ -8,6 +8,8 @@ calendar-start: 2016-02-24
 calendar-end: 2016-02-24
 location-value: Milan, Italy
 location-type: International
+location: Milan, Italy
+type: International
 section: events
 published: true
 ---

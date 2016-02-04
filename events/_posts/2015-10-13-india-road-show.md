@@ -8,6 +8,8 @@ calendar-start: 2015-10-13
 calendar-end: 2015-10-16
 location-value: New Delhi, Mumbai, Chennai, Kolkata
 location-type: International
+location: New Delhi, Mumbai, Chennai, Kolkata
+type: International
 section: events
 published: true
 ---

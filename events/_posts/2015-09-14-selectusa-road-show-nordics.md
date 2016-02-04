@@ -8,6 +8,8 @@ calendar-start: 2015-09-14
 calendar-end: 2015-09-21
 location-value: Oslo, Copenhagen/Malmo, Gothenburg, Stockholm, Helsinki, Tallinn
 location-type: International
+location: Oslo, Copenhagen/Malmo, Gothenburg, Stockholm, Helsinki, Tallinn
+type: International
 section: events
 published: true
 ---

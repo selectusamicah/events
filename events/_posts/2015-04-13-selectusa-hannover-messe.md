@@ -7,6 +7,9 @@ date-display-end: 17, 2015
 calendar-start: 2015-04-13
 calendar-end: 2015-04-17
 location-value:  Hannover, Germany
+location-type:  International
+location:  Hannover, Germany
+type:  International
 section: events
 published: true
 ---

@@ -8,6 +8,8 @@ calendar-start: 2016-01-20
 calendar-end: 2016-01-20
 location-value: Tel Aviv, Israel
 location-type: International
+location: Tel Aviv, Israel
+type: International
 section: events
 published: true
 ---

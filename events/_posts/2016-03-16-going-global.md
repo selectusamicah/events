@@ -8,6 +8,8 @@ calendar-start: 2016-03-14
 calendar-end: 2016-03-23
 location-value: Rennes, Lyon, Marseille and Nice, France
 location-type: International
+location: Rennes, Lyon, Marseille and Nice, France
+type: International
 section: events
 published: true
 ---

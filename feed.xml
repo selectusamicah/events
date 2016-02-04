@@ -13,9 +13,10 @@ layout: none
     <title>{{ post.title | xml_escape }}</title>
     <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
     <startDate>{{ post.date-display-start | xml_escape }}</startDate>
+    <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
     <endDate>{{ post.date-display-end | xml_escape }}</endDate>
-    <location>{{ post.location-value | xml_escape }}</location>
-    <eventType>{{ post.location-type | xml_escape }}</eventType>
+    <location>{{ post.location | xml_escape }}</location>
+    <eventType>{{ post.type | xml_escape }}</eventType>
   </item>
     {% endfor %}
   </channel>

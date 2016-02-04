@@ -2,14 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 04 Feb 2016 15:00:05 -0500</pubDate>
-    <lastBuildDate>Thu, 04 Feb 2016 15:00:05 -0500</lastBuildDate>
+    <pubDate>Thu, 04 Feb 2016 15:43:39 -0500</pubDate>
+    <lastBuildDate>Thu, 04 Feb 2016 15:43:39 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
   
   <item>
     <title>SelectUSA Investment Summit</title>
     <link>/2016-summit.html</link>
     <startDate>June 19</startDate>
+    <pubDate>Mon, 20 Jun 2016 00:00:00 -0400</pubDate>
     <endDate>21, 2016</endDate>
     <location>Washington, DC</location>
     <eventType>Domestic</eventType>
@@ -19,6 +20,7 @@
     <title>SelectUSA at Hannover Messe 2016</title>
     <link>/selectusa-hannover-messe-2016.html</link>
     <startDate>April 25</startDate>
+    <pubDate>Mon, 25 Apr 2016 00:00:00 -0400</pubDate>
     <endDate>29, 2016</endDate>
     <location>Hannover, Germany</location>
     <eventType>International</eventType>
@@ -28,6 +30,7 @@
     <title>SelectUSA Going Global Seminars</title>
     <link>/going-global.html</link>
     <startDate>March 14</startDate>
+    <pubDate>Wed, 16 Mar 2016 00:00:00 -0400</pubDate>
     <endDate>23, 2016</endDate>
     <location>Rennes, Lyon, Marseille and Nice, France</location>
     <eventType>International</eventType>
@@ -37,6 +40,7 @@
     <title>SelectUSA at the US Turkey Investment Summit</title>
     <link>/us-turkey-summit.html</link>
     <startDate>February 24, 2016</startDate>
+    <pubDate>Wed, 24 Feb 2016 00:00:00 -0500</pubDate>
     <endDate>February 24, 2016</endDate>
     <location>Washington, DC</location>
     <eventType>Domestic</eventType>
@@ -46,6 +50,7 @@
     <title>SelectUSA Tech Seminar</title>
     <link>/tech-seminar-italy.html</link>
     <startDate>February 24, 2016</startDate>
+    <pubDate>Wed, 24 Feb 2016 00:00:00 -0500</pubDate>
     <endDate>February 24, 2016</endDate>
     <location>Milan, Italy</location>
     <eventType>International</eventType>
@@ -55,6 +60,7 @@
     <title>SelectUSA Chemical Industries FDI Seminar</title>
     <link>/chem-industries-fdi-sem.html</link>
     <startDate>February 24, 2016</startDate>
+    <pubDate>Wed, 24 Feb 2016 00:00:00 -0500</pubDate>
     <endDate>February 24, 2016</endDate>
     <location>Brussels, Belgium</location>
     <eventType>International</eventType>
@@ -64,6 +70,7 @@
     <title>SelectUSA Italy Seminars</title>
     <link>/italy-seminars-feb2016.html</link>
     <startDate>February 17</startDate>
+    <pubDate>Wed, 17 Feb 2016 00:00:00 -0500</pubDate>
     <endDate>18, 2016</endDate>
     <location>Milan and Florence, Italy</location>
     <eventType>International</eventType>
@@ -73,6 +80,7 @@
     <title>SelectUSA at ICAs FDI Training Seminar</title>
     <link>/selectusa-ica-workshop-2016.html</link>
     <startDate>February 11</startDate>
+    <pubDate>Thu, 11 Feb 2016 00:00:00 -0500</pubDate>
     <endDate>12, 2016</endDate>
     <location>Chicago, IL</location>
     <eventType>Domestic</eventType>
@@ -82,6 +90,7 @@
     <title>Canadian International Auto Show</title>
     <link>/canada-auto-show.html</link>
     <startDate>February 11, 2016</startDate>
+    <pubDate>Thu, 11 Feb 2016 00:00:00 -0500</pubDate>
     <endDate>February 11, 2016</endDate>
     <location>Toronto, Canada</location>
     <eventType>International</eventType>
@@ -91,6 +100,7 @@
     <title>SelectUSA Israel Catalog Show</title>
     <link>/israel-catalog-show2.html</link>
     <startDate>February 9, 2016</startDate>
+    <pubDate>Tue, 09 Feb 2016 00:00:00 -0500</pubDate>
     <endDate>February 9, 2016</endDate>
     <location>Tel Aviv, Israel</location>
     <eventType>International</eventType>
@@ -100,6 +110,7 @@
     <title>SelectUSA Japan Road Show</title>
     <link>/japan-road-show.html</link>
     <startDate>February 1</startDate>
+    <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
     <endDate>5, 2016</endDate>
     <location>Tokyo, Nagoya, Osaka, and Fukuoka</location>
     <eventType>International</eventType>
@@ -109,6 +120,7 @@
     <title>Paris Ile de France Regional CCI Forum</title>
     <link>/icc-paris.html</link>
     <startDate>January 28, 2016</startDate>
+    <pubDate>Thu, 28 Jan 2016 00:00:00 -0500</pubDate>
     <endDate>January 28, 2016</endDate>
     <location>Paris, France</location>
     <eventType>International</eventType>
@@ -118,6 +130,7 @@
     <title>AmCham and SelectUSA Startup Pitch Competition</title>
     <link>/amcham-selectusa-pitch.html</link>
     <startDate>January 21, 2016</startDate>
+    <pubDate>Thu, 21 Jan 2016 00:00:00 -0500</pubDate>
     <endDate>January 21, 2016</endDate>
     <location>Paris France</location>
     <eventType>International</eventType>
@@ -127,6 +140,7 @@
     <title>SelectUSA Israel Catalog Show</title>
     <link>/israel-catalog-show1.html</link>
     <startDate>January 20, 2016</startDate>
+    <pubDate>Wed, 20 Jan 2016 00:00:00 -0500</pubDate>
     <endDate>January 20, 2016</endDate>
     <location>Tel Aviv, Israel</location>
     <eventType>International</eventType>
@@ -136,6 +150,7 @@
     <title>SelectUSA at Asian Financial Forum 2016</title>
     <link>/selectusa-aff-2016.html</link>
     <startDate>January 18, 2016</startDate>
+    <pubDate>Mon, 18 Jan 2016 00:00:00 -0500</pubDate>
     <endDate>January 19, 2016</endDate>
     <location>Hong Kong, China</location>
     <eventType>International</eventType>
@@ -145,6 +160,7 @@
     <title>SelectUSA Silk Road China Road Show</title>
     <link>/silk-road-china-road-show.html</link>
     <startDate>January 13</startDate>
+    <pubDate>Wed, 13 Jan 2016 00:00:00 -0500</pubDate>
     <endDate>18, 2016</endDate>
     <location>Beijing, Urumqi, and Chengdu</location>
     <eventType>International</eventType>
@@ -154,6 +170,7 @@
     <title>SelectUSA at CES 2016</title>
     <link>/selectusa-ces2016.html</link>
     <startDate>January 5</startDate>
+    <pubDate>Tue, 05 Jan 2016 00:00:00 -0500</pubDate>
     <endDate>9, 2015</endDate>
     <location>Las Vegas, NV</location>
     <eventType>Domestic</eventType>
@@ -163,6 +180,7 @@
     <title>SelectUSA Silk Road China Road Show – Conference Call</title>
     <link>/silk-road-conference-call.html</link>
     <startDate>December 14, 2015</startDate>
+    <pubDate>Mon, 14 Dec 2015 00:00:00 -0500</pubDate>
     <endDate>December 14, 2015</endDate>
     <location>Conference Call</location>
     <eventType>Online</eventType>
@@ -172,6 +190,7 @@
     <title>SelectUSA Japan Road Show – Conference Call</title>
     <link>/japan-road-show.html</link>
     <startDate>December 3, 2015</startDate>
+    <pubDate>Thu, 03 Dec 2015 00:00:00 -0500</pubDate>
     <endDate>December 3, 2015</endDate>
     <location>Conference Call</location>
     <eventType>Online</eventType>
@@ -181,6 +200,7 @@
     <title>SelectUSA Brazil Road Show</title>
     <link>/selectusa-brazil-road-show.html</link>
     <startDate>December 1</startDate>
+    <pubDate>Tue, 01 Dec 2015 00:00:00 -0500</pubDate>
     <endDate>4, 2015</endDate>
     <location>Rio de Janeiro, São Paulo, Belo Horizonte</location>
     <eventType>International</eventType>
@@ -190,6 +210,7 @@
     <title>SelectUSA Seminar at Guangzhou Auto Show</title>
     <link>/guangzhou-auto-show.html</link>
     <startDate>November 21, 2015</startDate>
+    <pubDate>Sat, 21 Nov 2015 00:00:00 -0500</pubDate>
     <endDate>November 21, 2015</endDate>
     <location>Guangzhou, China</location>
     <eventType>International</eventType>
@@ -199,6 +220,7 @@
     <title>SelectUSA Canada 2015</title>
     <link>/selectusa-canada-2015.html</link>
     <startDate>November 17, 2015</startDate>
+    <pubDate>Wed, 18 Nov 2015 00:00:00 -0500</pubDate>
     <endDate>November 17, 2015</endDate>
     <location>Toronto, Canada</location>
     <eventType>International</eventType>
@@ -208,6 +230,7 @@
     <title>SelectUSA at the New Zealand Business Seminar</title>
     <link>/selectusa-nz-biz-seminar.html</link>
     <startDate>November 17</startDate>
+    <pubDate>Tue, 17 Nov 2015 00:00:00 -0500</pubDate>
     <endDate>19, 2015</endDate>
     <location>Auckland, Christchurch and Wellington, New Zealand</location>
     <eventType>International</eventType>
@@ -217,6 +240,7 @@
     <title>SelectUSA at the International Investment &amp; Expansion Virtual Summit</title>
     <link>/expanding-to.html</link>
     <startDate>November 12, 2015</startDate>
+    <pubDate>Thu, 12 Nov 2015 00:00:00 -0500</pubDate>
     <endDate>November 12, 2015</endDate>
     <location>Online</location>
     <eventType>Online</eventType>
@@ -226,6 +250,7 @@
     <title>Hannover Messe 2016 Conference Call</title>
     <link>/2015-11-06-hannover-messe-concall.html</link>
     <startDate>November 6, 2015</startDate>
+    <pubDate>Fri, 06 Nov 2015 00:00:00 -0500</pubDate>
     <endDate>November 6, 2015</endDate>
     <location>Conference Call</location>
     <eventType>Online</eventType>
@@ -235,6 +260,7 @@
     <title>SelectUSA at Web Summit</title>
     <link>/dublin-web-summit.html</link>
     <startDate>November 3</startDate>
+    <pubDate>Tue, 03 Nov 2015 00:00:00 -0500</pubDate>
     <endDate>5, 2015</endDate>
     <location>Dublin</location>
     <eventType>International</eventType>
@@ -244,6 +270,7 @@
     <title>National Aerospace FDI Exposition</title>
     <link>/national-aerospace-fdi-exposition.html</link>
     <startDate>October 26</startDate>
+    <pubDate>Mon, 26 Oct 2015 00:00:00 -0400</pubDate>
     <endDate>28, 2015</endDate>
     <location>Los Angeles, CA</location>
     <eventType>Domestic</eventType>
@@ -253,6 +280,7 @@
     <title>SelectUSA India Road Show</title>
     <link>/india-road-show.html</link>
     <startDate>October 13</startDate>
+    <pubDate>Tue, 13 Oct 2015 00:00:00 -0400</pubDate>
     <endDate>16, 2015</endDate>
     <location>New Delhi, Mumbai, Chennai, Kolkata</location>
     <eventType>International</eventType>
@@ -262,6 +290,7 @@
     <title>SelectUSA Nordic Road Show</title>
     <link>/selectusa-road-show-nordics.html</link>
     <startDate>September 14</startDate>
+    <pubDate>Mon, 14 Sep 2015 00:00:00 -0400</pubDate>
     <endDate>21, 2015</endDate>
     <location>Oslo, Copenhagen/Malmo, Gothenburg, Stockholm, Helsinki, Tallinn</location>
     <eventType>International</eventType>
@@ -271,6 +300,7 @@
     <title>Advance Webinar Briefing for National Aerospace FDI Expo</title>
     <link>/aerospace-advance-briefing.html</link>
     <startDate>August 11, 2015</startDate>
+    <pubDate>Tue, 11 Aug 2015 00:00:00 -0400</pubDate>
     <endDate>August 11, 2015</endDate>
     <location>Online</location>
     <eventType>Online</eventType>
@@ -280,6 +310,7 @@
     <title>SelectUSA Taiwan Road Show</title>
     <link>/selectusa-taiwan-road-show.html</link>
     <startDate>August 5</startDate>
+    <pubDate>Wed, 05 Aug 2015 00:00:00 -0400</pubDate>
     <endDate>6, 2015</endDate>
     <location>Taipei and Kaohsiung, Taiwan</location>
     <eventType>International</eventType>
@@ -289,6 +320,7 @@
     <title>Webinar on SelectUSA Brazil Road Show</title>
     <link>/webinar-brazil-road-show.html</link>
     <startDate>July 22, 2015</startDate>
+    <pubDate>Wed, 22 Jul 2015 00:00:00 -0400</pubDate>
     <endDate>July 22, 2015</endDate>
     <location>Online</location>
     <eventType>Online</eventType>
@@ -298,6 +330,7 @@
     <title>U.S. Business Seminars in Japan</title>
     <link>/japan-business-seminar.html</link>
     <startDate>July 16</startDate>
+    <pubDate>Thu, 16 Jul 2015 00:00:00 -0400</pubDate>
     <endDate>17, 2015</endDate>
     <location>Takamatsu, Hiroshima</location>
     <eventType>International</eventType>
@@ -307,6 +340,7 @@
     <title>Webinar on SelectUSA India Road Show</title>
     <link>/webinar-india-road-show.html</link>
     <startDate>June 30, 2015</startDate>
+    <pubDate>Tue, 30 Jun 2015 00:00:00 -0400</pubDate>
     <endDate>June 30, 2015</endDate>
     <location>Online</location>
     <eventType>Online</eventType>
@@ -316,6 +350,7 @@
     <title>SelectUSA at the International Franchise Expo</title>
     <link>/selectusa-international-franchise-expo.html</link>
     <startDate>June 18</startDate>
+    <pubDate>Thu, 18 Jun 2015 00:00:00 -0400</pubDate>
     <endDate>20, 2015</endDate>
     <location>New York, NY</location>
     <eventType>Domestic</eventType>
@@ -325,6 +360,7 @@
     <title>SelectUSA at BIO 2015</title>
     <link>/selectusa-bio-2015.html</link>
     <startDate>June 15</startDate>
+    <pubDate>Mon, 15 Jun 2015 00:00:00 -0400</pubDate>
     <endDate>18, 2015</endDate>
     <location>Philadelphia, PA</location>
     <eventType>Domestic</eventType>
@@ -334,6 +370,7 @@
     <title>SelectUSA Forum &amp; Expo in Spain</title>
     <link>/selectusa-forum-expo-spain.html</link>
     <startDate>May 19, 2015</startDate>
+    <pubDate>Tue, 19 May 2015 00:00:00 -0400</pubDate>
     <endDate>May 19, 2015</endDate>
     <location>Madrid, Spain</location>
     <eventType>International</eventType>
@@ -343,6 +380,7 @@
     <title>SelectUSA Greater China Road Show</title>
     <link>/save-date-selectusa-greater-china-road-show.html</link>
     <startDate>May 18</startDate>
+    <pubDate>Mon, 18 May 2015 00:00:00 -0400</pubDate>
     <endDate>29, 2015</endDate>
     <location>Hong Kong, Shenzhen, Dongguan, Guangzhou, Shanghai, Shenyang, Dalian</location>
     <eventType>International</eventType>
@@ -352,6 +390,7 @@
     <title>SelectUSA Mexico Road Show</title>
     <link>/save-date-selectusa-mexico-road-show.html</link>
     <startDate>May 12</startDate>
+    <pubDate>Tue, 12 May 2015 00:00:00 -0400</pubDate>
     <endDate>14, 2015</endDate>
     <location>Mérida, Mexico City, Tijuana</location>
     <eventType>International</eventType>
@@ -361,6 +400,7 @@
     <title>SelectUSA at the Offshore Technology Conference (OTC)</title>
     <link>/selectusa-offshore-technology-conference-otc.html</link>
     <startDate>May 4</startDate>
+    <pubDate>Mon, 04 May 2015 00:00:00 -0400</pubDate>
     <endDate>7, 2015</endDate>
     <location>Houston, TX</location>
     <eventType>Domestic</eventType>
@@ -370,15 +410,17 @@
     <title>SelectUSA at Hannover Messe 2015</title>
     <link>/selectusa-hannover-messe.html</link>
     <startDate>April 13</startDate>
+    <pubDate>Mon, 13 Apr 2015 00:00:00 -0400</pubDate>
     <endDate>17, 2015</endDate>
     <location>Hannover, Germany</location>
-    <eventType></eventType>
+    <eventType>International</eventType>
   </item>
     
   <item>
     <title>SelectUSA 2015 Investment Summit</title>
     <link>/selectusa-2015-investment-summit.html</link>
     <startDate>March 23</startDate>
+    <pubDate>Mon, 23 Mar 2015 00:00:00 -0400</pubDate>
     <endDate>24, 2015</endDate>
     <location>Washington, DC</location>
     <eventType>Domestic</eventType>
@@ -388,6 +430,7 @@
     <title>SelectUSA Investment Center at the Canadian International Auto Show (CIAS)</title>
     <link>/selectusa-investment-center-canadian-international-auto-show-cias.html</link>
     <startDate>February 12, 2015</startDate>
+    <pubDate>Thu, 12 Feb 2015 00:00:00 -0500</pubDate>
     <endDate>February 12, 2015</endDate>
     <location>Toronto, Canada</location>
     <eventType>International</eventType>
@@ -397,6 +440,7 @@
     <title>SelectUSA at CAR-Symposium</title>
     <link>/selectusa-car-symposium.html</link>
     <startDate>February 4, 2015</startDate>
+    <pubDate>Wed, 04 Feb 2015 00:00:00 -0500</pubDate>
     <endDate>February 4, 2015</endDate>
     <location>Bochum, Germany</location>
     <eventType>International</eventType>
@@ -406,6 +450,7 @@
     <title>SelectUSA Summer Forum</title>
     <link>/selectusa-summer-forum.html</link>
     <startDate>June 17, 2014</startDate>
+    <pubDate>Tue, 17 Jun 2014 00:00:00 -0400</pubDate>
     <endDate>June 17, 2014</endDate>
     <location>Washington, DC</location>
     <eventType>Domestic</eventType>

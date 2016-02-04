@@ -8,6 +8,8 @@ calendar-start: 2016-02-24
 calendar-end: 2016-02-24
 location-value: Washington, DC
 location-type: Domestic
+location: Washington, DC
+type: Domestic
 section: events
 published: true
 ---

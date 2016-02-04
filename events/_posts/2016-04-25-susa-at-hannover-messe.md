@@ -8,6 +8,8 @@ calendar-start: 2016-04-25
 calendar-end: 2016-04-29
 location-value: Hannover, Germany
 location-type: International
+location: Hannover, Germany
+type: International
 section: events
 published: true
 ---

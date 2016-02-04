@@ -8,6 +8,8 @@ calendar-start: 2015-03-23
 calendar-end: 2015-03-24
 location-value:  Washington, DC
 location-type: Domestic
+location:  Washington, DC
+type: Domestic
 section: events
 published: true
 ---

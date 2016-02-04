@@ -8,6 +8,8 @@ calendar-start: 2015-11-03
 calendar-end: 2015-11-05
 location-value:  Dublin
 location-type: International
+location:  Dublin
+type: International
 section: events
 published: true
 ---
