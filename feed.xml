@@ -4,7 +4,7 @@ layout: none
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-  {% for post in site.categories.events reversed %}
+  {% for post in site.categories.events %}
   <item>
     <title>{{ post.title | xml_escape }}</title>
     <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
