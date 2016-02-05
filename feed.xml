@@ -12,7 +12,6 @@ layout: none
   <item>
     <title>{{ post.title | xml_escape }}</title>
     <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-    <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
     <location>{{ post.location | xml_escape }}</location>
   </item>
     {% endfor %}
