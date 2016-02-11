@@ -1,5 +1,5 @@
 ---
-permalink: "selectusa-investment-center-canadian-international-auto-show-cias.html"
+permalink: "events/selectusa-investment-center-canadian-international-auto-show-cias.html"
 layout: sidebar
 title: SelectUSA Investment Center at the Canadian International Auto Show (CIAS)
 date-display-start: February 12, 2015
@@ -8,8 +8,6 @@ calendar-start: 2015-02-12
 calendar-end: 2015-02-12
 location-value:  Toronto, Canada
 location-type: International
-location:  Toronto, Canada
-type: International
 section: events
 published: true
 ---

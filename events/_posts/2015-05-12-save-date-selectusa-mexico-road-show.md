@@ -1,5 +1,5 @@
 ---
-permalink: "save-date-selectusa-mexico-road-show.html"
+permalink: "events/save-date-selectusa-mexico-road-show.html"
 layout: sidebar
 title: SelectUSA Mexico Road Show
 date-display-start: May 12
@@ -8,8 +8,6 @@ calendar-start: 2015-05-12
 calendar-end: 2015-05-14
 location-value: Mérida, Mexico City, Tijuana
 location-type: International
-location: Mérida, Mexico City, Tijuana
-type: International
 section: events
 published: true
 ---

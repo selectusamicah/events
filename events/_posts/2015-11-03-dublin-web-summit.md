@@ -1,5 +1,5 @@
 ---
-permalink: "dublin-web-summit.html"
+permalink: "events/dublin-web-summit.html"
 layout: sidebar
 title: SelectUSA at Web Summit
 date-display-start: November 3
@@ -8,8 +8,6 @@ calendar-start: 2015-11-03
 calendar-end: 2015-11-05
 location-value:  Dublin
 location-type: International
-location:  Dublin
-type: International
 section: events
 published: true
 ---

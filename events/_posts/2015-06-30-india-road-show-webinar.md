@@ -1,5 +1,5 @@
 ---
-permalink: "webinar-india-road-show.html"
+permalink: "events/webinar-india-road-show.html"
 layout: sidebar
 title: Webinar on SelectUSA India Road Show
 date-display-start: June 30, 2015
@@ -8,8 +8,6 @@ calendar-start: 2015-06-30
 calendar-end: 2015-06-30
 location-value: Online
 location-type: Online
-location: Online
-type: Online
 section: events
 published: true
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: "aerospace-advance-briefing.html"
+permalink: "events/aerospace-advance-briefing.html"
 layout: sidebar
 title: Advance Webinar Briefing for National Aerospace FDI Expo
 date-display-start: August 11, 2015
@@ -8,8 +8,6 @@ calendar-start: 2015-08-11
 calendar-end: 2015-08-11
 location-value: Online
 location-type: Online
-location: Online
-type: Online
 section: events
 published: true
 ---
@@ -31,4 +29,4 @@ Webinar information will be provided on Tuesday, August 4th via email.
 
 ![Website](https://google.github.io/material-design-icons/action/svg/design/ic_exit_to_app_24px.svg "Website") To learn more about the briefing and the Expo, check out the [Advance Briefing flyer](http://selectusa.commerce.gov/documents/Aero-FDI-Advance-Briefing-Flyer.pdf)
 
-![RSVP](https://google.github.io/material-design-icons/content/svg/design/ic_send_24px.svg "RSVP") To RSVP for the in-person or online briefing, please fill out the [registration form](http://cdn2.hubspot.net/hubfs/103829/docs/CMTC-CMTC-Events-FDI-Advance-Briefing-Registration-Form.pdf?t=1437435784702) and send to [Dion Jackson](mailto:dljackso@usc.edu?subject=Register%20for%20Advance%20Briefing%20on%20Aerospace%20Expo)
+![RSVP](https://google.github.io/material-design-icons/content/svg/design/ic_send_24px.svg "RSVP") To RSVP for the in-person or online briefing, please fill out the [registration form](http://cdn2.hubspot.net/hubfs/103829/docs/CMTC-Events/CMTC-Events-FDI-Advance-Briefing-Registration-Form.pdf?t=1437435784702) and send to [Dion Jackson](mailto:dljackso@usc.edu?subject=Register%20for%20Advance%20Briefing%20on%20Aerospace%20Expo)

@@ -1,5 +1,5 @@
 ---
-permalink: "selectusa-international-franchise-expo.html"
+permalink: "events/selectusa-international-franchise-expo.html"
 layout: sidebar
 title: SelectUSA at the International Franchise Expo
 date-display-start: June 18
@@ -8,8 +8,6 @@ calendar-start: 2015-06-18
 calendar-end: 2015-06-20
 location-value: New York, NY
 location-type: Domestic
-location: New York, NY
-type: Domestic
 section: events
 published: true
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: "selectusa-brazil-road-show.html"
+permalink: "events/selectusa-brazil-road-show.html"
 layout: sidebar
 title: SelectUSA Brazil Road Show
 date-display-start: December 1
@@ -8,8 +8,6 @@ calendar-start: 2015-12-01
 calendar-end: 2015-12-04
 location-value: Rio de Janeiro, São Paulo, Belo Horizonte
 location-type: International
-location: Rio de Janeiro, São Paulo, Belo Horizonte
-type: International
 section: events
 published: true
 ---

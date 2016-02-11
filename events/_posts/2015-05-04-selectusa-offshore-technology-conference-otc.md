@@ -1,5 +1,5 @@
 ---
-permalink: "selectusa-offshore-technology-conference-otc.html"
+permalink: "events/selectusa-offshore-technology-conference-otc.html"
 layout: sidebar
 title: SelectUSA at the Offshore Technology Conference (OTC)
 date-display-start: May 4
@@ -8,8 +8,6 @@ calendar-start: 2015-05-04
 calendar-end: 2015-05-07
 location-value:  Houston, TX
 location-type: Domestic
-location:  Houston, TX
-type: Domestic
 section: events
 published: true
 ---

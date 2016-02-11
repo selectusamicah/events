@@ -1,5 +1,5 @@
 ---
-permalink: "selectusa-canada-2015.html"
+permalink: "events/selectusa-canada-2015.html"
 layout: sidebar
 title: SelectUSA Canada 2015
 date-display-start: November 17, 2015
@@ -8,8 +8,6 @@ calendar-start: 2015-11-17
 calendar-end: 2015-11-17
 location-value: Toronto, Canada
 location-type: International
-location: Toronto, Canada
-type: International
 section: events
 published: true
 ---

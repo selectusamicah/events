@@ -1,5 +1,5 @@
 ---
-permalink: "selectusa-taiwan-road-show.html"
+permalink: "events/selectusa-taiwan-road-show.html"
 layout: sidebar
 title: SelectUSA Taiwan Road Show
 date-display-start: August 5
@@ -8,8 +8,6 @@ calendar-start: 2015-08-05
 calendar-end: 2015-08-06
 location-value: Taipei and Kaohsiung, Taiwan
 location-type: International
-location: Taipei and Kaohsiung, Taiwan
-type: International
 section: events
 published: true
 ---

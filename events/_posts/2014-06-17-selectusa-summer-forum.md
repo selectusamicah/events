@@ -1,5 +1,5 @@
 ---
-permalink: "selectusa-summer-forum.html"
+permalink: "events/selectusa-summer-forum.html"
 layout: sidebar
 title: SelectUSA Summer Forum
 date-display-start: June 17, 2014
@@ -8,8 +8,6 @@ calendar-start: 2014-06-17
 calendar-end: 2014-06-17
 location-value:  Washington, DC
 location-type: Domestic
-location:  Washington, DC
-type: Domestic
 section: events
 published: true
 ---

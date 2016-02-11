@@ -1,5 +1,5 @@
 ---
-permalink: "save-date-selectusa-greater-china-road-show.html"
+permalink: "events/save-date-selectusa-greater-china-road-show.html"
 layout: sidebar
 title: SelectUSA Greater China Road Show
 date-display-start: May 18
@@ -8,8 +8,6 @@ calendar-start: 2015-05-18
 calendar-end: 2015-05-29
 location-value: Hong Kong, Shenzhen, Dongguan, Guangzhou, Shanghai, Shenyang, Dalian
 location-type: International
-location: Hong Kong, Shenzhen, Dongguan, Guangzhou, Shanghai, Shenyang, Dalian
-type: International
 section: events
 published: true
 ---

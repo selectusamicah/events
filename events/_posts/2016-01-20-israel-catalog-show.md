@@ -1,5 +1,5 @@
 ---
-permalink: "israel-catalog-show1.html"
+permalink: "events/israel-catalog-show1.html"
 title: SelectUSA Israel Catalog Show
 layout: sidebar
 date-display-start: January 20, 2016
@@ -8,8 +8,6 @@ calendar-start: 2016-01-20
 calendar-end: 2016-01-20
 location-value: Tel Aviv, Israel
 location-type: International
-location: Tel Aviv, Israel
-type: International
 section: events
 published: true
 ---

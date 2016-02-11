@@ -8,8 +8,6 @@ calendar-start: 2016-06-19
 calendar-end: 2016-06-21
 location-value: Washington, DC
 location-type: Domestic
-location: Washington, DC
-type: Domestic
 section: events
 published: true
 ---
@@ -17,7 +15,7 @@ published: true
 
 ![Location]({{ site.baseurl }}/icons/location_city.svg "Location") Washington Hilton, {{ page.location-value }}
 
-![Logo of 2016 Summit](images/susa_summit_with_date.jpg )
+![Logo of 2016 Summit](../images/susa_summit_with_date.jpg )
 
 ## [Registration for the 2016 Investment Summit is Open!](http://selectusasummit.us/)
 

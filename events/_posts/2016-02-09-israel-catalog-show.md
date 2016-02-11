@@ -1,5 +1,5 @@
 ---
-permalink: "israel-catalog-show2.html"
+permalink: "events/israel-catalog-show2.html"
 title: SelectUSA Israel Catalog Show
 layout: sidebar
 date-display-start: February 9, 2016
@@ -8,8 +8,6 @@ calendar-start: 2016-02-09
 calendar-end: 2016-02-09
 location-value: Tel Aviv, Israel
 location-type: International
-location: Tel Aviv, Israel
-type: International
 section: events
 published: true
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: "guangzhou-auto-show.html"
+permalink: "events/guangzhou-auto-show.html"
 layout: sidebar
 title: SelectUSA Seminar at Guangzhou Auto Show
 date-display-start: November 21, 2015
@@ -8,8 +8,6 @@ calendar-start: 2015-11-21
 calendar-end: 2015-11-21
 location-value: Guangzhou, China
 location-type: International
-location: Guangzhou, China
-type: International
 section: events
 published: true
 ---

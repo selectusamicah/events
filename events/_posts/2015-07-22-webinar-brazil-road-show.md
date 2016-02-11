@@ -1,5 +1,5 @@
 ---
-permalink: "webinar-brazil-road-show.html"
+permalink: "events/webinar-brazil-road-show.html"
 layout: sidebar
 title: Webinar on SelectUSA Brazil Road Show
 date-display-start: July 22, 2015
@@ -8,8 +8,6 @@ calendar-start: 2015-07-22
 calendar-end: 2015-07-22
 location-value: Online
 location-type: Online
-location: Online
-type: Online
 section: events
 published: true
 ---

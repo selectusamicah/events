@@ -1,5 +1,5 @@
 ---
-permalink: "canada-auto-show.html"
+permalink: "events/canada-auto-show.html"
 layout: sidebar
 title: Canadian International Auto Show
 date-display-start: February 11, 2016
@@ -8,8 +8,6 @@ calendar-start: 2016-02-11
 calendar-end: 2016-02-11
 location-value: Toronto, Canada
 location-type: International
-location: Toronto, Canada
-type: International
 section: events
 published: true
 ---

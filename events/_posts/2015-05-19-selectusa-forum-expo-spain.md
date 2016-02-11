@@ -1,5 +1,5 @@
 ---
-permalink: "selectusa-forum-expo-spain.html"
+permalink: "events/selectusa-forum-expo-spain.html"
 layout: sidebar
 title: SelectUSA Forum & Expo in Spain
 date-display-start: May 19, 2015
@@ -8,8 +8,6 @@ calendar-start: 2015-05-19
 calendar-end: 2015-05-19
 location-value: Madrid, Spain
 location-type: International
-location: Madrid, Spain
-type: International
 section: events
 published: true
 ---
