@@ -28,4 +28,4 @@ This seminar is geared toward technology startups and entrepreneurs and will cov
 
 ---
 
-Did you know that foreign direct investment (FDI) from Italy supports 124,700 U.S. jobs? For more information on FDI from Italy, check out our [fact sheet](http://selectusa.commerce.gov/country-fact-sheets/Italy_Fact_Sheet.pdf).
+Did you know that foreign direct investment (FDI) from Italy supports 124,700 U.S. jobs? For more information on FDI from Italy, check out our [fact sheet]({{ site.baseurl }}/country-fact-sheets/Italy_Fact_Sheet.pdf).

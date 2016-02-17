@@ -28,4 +28,4 @@ From March 15-23, we will hold regional seminars for French companies and invest
 
 ---
 
-France is the [5th largest source of FDI in the United States](http://selectusa.commerce.gov/country-fact-sheets/France_Fact_Sheet.pdf).
+France is the [5th largest source of FDI in the United States]({{ site.baseurl }}/country-fact-sheets/France_Fact_Sheet.pdf).

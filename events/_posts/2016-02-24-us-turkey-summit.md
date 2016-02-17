@@ -26,4 +26,4 @@ For more information on the event, including the program, please visit the U.S.-
 
 ---
 
-For more information on FDI from Turkey, check out our [fact sheet](http://selectusa.commerce.gov/country-fact-sheets/Turkey_Fact_Sheet.pdf).
+For more information on FDI from Turkey, check out our [fact sheet]({{ site.baseurl }}/country-fact-sheets/Turkey_Fact_Sheet.pdf).
