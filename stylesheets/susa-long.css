@@ -24,7 +24,7 @@ about etc )
 
 /* 1 Typography
 ----------------------------------------------------------------------------- */
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
 
 html {
 	height: 100%;
@@ -59,6 +59,12 @@ h6 a {
 }
 h1 {
     font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 25px;
+    color: #ce362c;
+}
+#home_title_a {
+font-size: 40px;
     font-weight: 400;
     margin-bottom: 50px;
     color: #3c4542;

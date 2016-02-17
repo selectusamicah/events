@@ -11,6 +11,9 @@ location-type: Domestic
 section: events
 published: true
 ---
+
+# {{ page.title}}
+
 ![Date]({{ site.baseurl }}/icons/event.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
 ![Location]({{ site.baseurl }}/icons/location_city.svg "Location") Washington Hilton, {{ page.location-value }}

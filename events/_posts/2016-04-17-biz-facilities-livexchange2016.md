@@ -12,6 +12,7 @@ section: events
 published: true
 ---
 
+# {{ page.title}}
 
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") April 17-19, 2016
 
