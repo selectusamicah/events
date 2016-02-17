@@ -1,7 +1,7 @@
 ---
 permalink: "events/biz-facilities-livexchange2016.html"
 layout: sidebar
-title: SelectUSA at LiveXchange 2016
+title: LiveXchange 2016
 date-display-start: April 17
 date-display-end: 19, 2016
 calendar-start: 2016-04-17
@@ -19,7 +19,7 @@ published: true
 
 ### SelectUSA on the Business Facilities LiveXchange 2016 Keynote Panel
 
-SelectUSA's Deputy Executive Director Peggy Philbin will be featured on the Keynote Panel at [Business Facilities' LiveXchange 2016](http://bflivexchange.com/) in Chicago, IL on April 17-19. [Business Facilities](http://businessfacilities.com/), a full-service media brand specializing in site selection and as a source of intelligence on corporate expansion for C-level executives and business leaders, will hold its 12th annual conference with a focus on the intersection of trade and economic development. The Panel will discuss the latest trends in foreign direct investment (FDI) and exports.
+SelectUSA's Deputy Executive Director Peggy Philbin will be featured on the Keynote Panel at [Business Facilities' LiveXchange 2016](http://bflivexchange.com/) in Fort Lauderdale, FL on April 17-19. [Business Facilities](http://businessfacilities.com/), a full-service media brand specializing in site selection and as a source of intelligence on corporate expansion for C-level executives and business leaders, will hold its 12th annual conference with a focus on the intersection of trade and economic development. The Panel will discuss the latest trends in foreign direct investment (FDI) and exports.
 
 ---
 

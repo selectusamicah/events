@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 17 Feb 2016 12:24:21 -0500</pubDate>
-    <lastBuildDate>Wed, 17 Feb 2016 12:24:21 -0500</lastBuildDate>
+    <pubDate>Wed, 17 Feb 2016 16:50:06 -0500</pubDate>
+    <lastBuildDate>Wed, 17 Feb 2016 16:50:06 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
   
   <item>
@@ -14,63 +14,77 @@
   </item>
     
   <item>
-    <title>SelectUSA at Hannover Messe 2016</title>
+    <title>Hannover Messe 2016</title>
     <link>/events/selectusa-hannover-messe-2016.html</link>
     <pubDate>Mon, 25 Apr 2016 00:00:00 -0400</pubDate>
     <location></location>
   </item>
     
   <item>
-    <title>SelectUSA at LiveXchange 2016</title>
+    <title>LiveXchange 2016</title>
     <link>/events/biz-facilities-livexchange2016.html</link>
     <pubDate>Sun, 17 Apr 2016 00:00:00 -0400</pubDate>
     <location></location>
   </item>
     
   <item>
-    <title>SelectUSA at the IEDC FED Forum 2016</title>
+    <title>IEDC FED Forum 2016</title>
     <link>/events/iedc-fed-forum2016.html</link>
     <pubDate>Sun, 03 Apr 2016 00:00:00 -0400</pubDate>
     <location></location>
   </item>
     
   <item>
-    <title>SelectUSA Going Global Seminars</title>
+    <title>Fairfax County EDA/techUK Seminar</title>
+    <link>/events/selectusa-in-uk-seminar2.html</link>
+    <pubDate>Wed, 16 Mar 2016 00:00:00 -0400</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
+    <title>Going Global Seminars</title>
     <link>/events/going-global.html</link>
     <pubDate>Wed, 16 Mar 2016 00:00:00 -0400</pubDate>
     <location></location>
   </item>
     
   <item>
-    <title>SelectUSA at the US Turkey Investment Summit</title>
+    <title>Kingston Smith Seminar</title>
+    <link>/events/selectusa-in-uk-seminar1.html</link>
+    <pubDate>Wed, 09 Mar 2016 00:00:00 -0500</pubDate>
+    <location></location>
+  </item>
+    
+  <item>
+    <title>U.S.-Turkey Investment Summit</title>
     <link>/events/us-turkey-summit.html</link>
     <pubDate>Wed, 24 Feb 2016 00:00:00 -0500</pubDate>
     <location></location>
   </item>
     
   <item>
-    <title>SelectUSA Tech Seminar</title>
+    <title>Tech Seminar</title>
     <link>/events/tech-seminar-italy.html</link>
     <pubDate>Wed, 24 Feb 2016 00:00:00 -0500</pubDate>
     <location></location>
   </item>
     
   <item>
-    <title>SelectUSA Chemical Industries FDI Seminar</title>
+    <title>Chemical Industries FDI Seminar</title>
     <link>/events/chem-industries-fdi-sem.html</link>
     <pubDate>Wed, 24 Feb 2016 00:00:00 -0500</pubDate>
     <location></location>
   </item>
     
   <item>
-    <title>SelectUSA Italy Seminars</title>
+    <title>Italy Seminars</title>
     <link>/events/italy-seminars-feb2016.html</link>
     <pubDate>Wed, 17 Feb 2016 00:00:00 -0500</pubDate>
     <location></location>
   </item>
     
   <item>
-    <title>SelectUSA at ICAs FDI Training Seminar</title>
+    <title>ICAs FDI Training Seminar</title>
     <link>/events/selectusa-ica-workshop-2016.html</link>
     <pubDate>Thu, 11 Feb 2016 00:00:00 -0500</pubDate>
     <location></location>
